@@ -1,5 +1,5 @@
 {
-  "status": "Published portfolio; document-only manuscript update v1.0.1, reference calculations preserved at v1.0.0",
+  "status": "Published portfolio; document-only notation update v1.0.2; original calculations unchanged",
   "prepared_date": "2026-11-16",
   "hash_algorithm": "SHA-256",
   "scope": "Files under projects/respiratory-forecasting; reference evidence is a separate release asset",
@@ -28,8 +28,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 10948,
-      "sha256": "e374088a90a934d02039336c97147d88ef3cbb628fea7c4f061d31c655fbe492"
+      "bytes": 11411,
+      "sha256": "9ee838549a49f882e8cbc8d40305eaf7a48615acd36a286398007715174959cf"
     },
     {
       "path": "REVIEW_STATUS.txt",
@@ -377,6 +377,11 @@
       "sha256": "d16e34f71611c0d32714df357fe20b96c8d1f25c080a60b682f2e47f3414017c"
     },
     {
+      "path": "docs/NOTATION_CLARIFICATION_CHECKS.json",
+      "bytes": 2547,
+      "sha256": "0a166f1f046494c0741e605a2fb7749e52c22fcecad746e47d39523a1af8bd28"
+    },
+    {
       "path": "docs/PORTFOLIO_PUBLICATION_CHECKS.json",
       "bytes": 2768,
       "sha256": "059acbf4299b4d592feb997ecc2d356c6c0f8d76e9f51d9f1d7f932103049ee5"
@@ -503,8 +508,8 @@
     },
     {
       "path": "manuscript/latex/evidence/algorithm.tex",
-      "bytes": 1611,
-      "sha256": "a8c61f8cf158fd110634f8c17ee5d4275ee5394dda0d707071fc242ad63de689"
+      "bytes": 1726,
+      "sha256": "c26acc133c6d2e2ddac4dfc34a31a39e47fcab5e168071eef38a95b0040c049d"
     },
     {
       "path": "manuscript/latex/evidence/architecture_table.tex",
@@ -518,8 +523,8 @@
     },
     {
       "path": "manuscript/latex/evidence/equations.tex",
-      "bytes": 518,
-      "sha256": "ec8a879311a1b009c1c79372b5bbb05e7bf803add5aca046d8c08e6baeb37f3e"
+      "bytes": 661,
+      "sha256": "aecfc45def3c169897cb8f1cddaa5b64d1a8d272e782d161ae060ab5bcbc11bc"
     },
     {
       "path": "manuscript/latex/evidence/maps_figure.tex",
@@ -538,8 +543,8 @@
     },
     {
       "path": "manuscript/latex/evidence/results_table.tex",
-      "bytes": 1330,
-      "sha256": "5119c73f70c0297f6d30cda976e9932a9394bf5805a92b6157673dbb2f2b9f38"
+      "bytes": 1521,
+      "sha256": "1ee6718f3920dd9f112e6dee90463c477167fb88f149fc8c0ffbe16d3cce291f"
     },
     {
       "path": "manuscript/latex/evidence/system_figure.tex",
@@ -678,13 +683,13 @@
     },
     {
       "path": "manuscript/latex/main.pdf",
-      "bytes": 2880186,
-      "sha256": "c4883661d609e42263ec0b225a6add4414dfe28a24464753ce70b509c31ea662"
+      "bytes": 2883154,
+      "sha256": "1064efdcdd907ce49787dd6877fbfeb5aaf7223e1bc8662a032904c6bea7fa37"
     },
     {
       "path": "manuscript/latex/main.tex",
-      "bytes": 21626,
-      "sha256": "cde9af4f90495bcac56d6fafeb9e8a357bf7cad511536d0f270e0133949c350d"
+      "bytes": 22036,
+      "sha256": "e4745db766d2539bc9e38ba952096d359b71d8aab03d84c40de9d73b38c99f91"
     },
     {
       "path": "manuscript/latex/manuscript_kmeans_diagnostics.py",
@@ -2413,6 +2418,22 @@
       "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.1/ICCA_Six_Page_GitHub_Links_Overleaf.zip",
       "git_tracked": false,
       "distribution_approval": "Author-approved manuscript publication update; manuscript/third-party terms apply"
+    },
+    {
+      "filename": "ICCA_Six_Page_Notation_Clarified.pdf",
+      "bytes": 2883154,
+      "sha256": "1064efdcdd907ce49787dd6877fbfeb5aaf7223e1bc8662a032904c6bea7fa37",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.2/ICCA_Six_Page_Notation_Clarified.pdf",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved document-only notation clarification; non-code/third-party terms apply"
+    },
+    {
+      "filename": "ICCA_Six_Page_Notation_Clarified_Overleaf.zip",
+      "bytes": 12402588,
+      "sha256": "0ff809ffb46f4584af98613b59ae64647ed413ff9977067a58d6d6ed1f7a8f89",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.2/ICCA_Six_Page_Notation_Clarified_Overleaf.zip",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved document-only notation clarification; non-code/third-party terms apply"
     }
   ]
 }

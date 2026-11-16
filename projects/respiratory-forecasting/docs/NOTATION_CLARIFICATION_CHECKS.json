@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-16",
+  "scope": "Notation definitions, metric note, and algorithm clarifications only",
+  "base_repository_commit": "02c9c9a5082230d83f1956fc6a2676436a7f413f",
+  "release_tag": "respiratory-forecasting-v1.0.2",
+  "paper_pages": 6,
+  "paper_size": "A4",
+  "stage": "Prepublication verification",
+  "pdf_sha256": "1064efdcdd907ce49787dd6877fbfeb5aaf7223e1bc8662a032904c6bea7fa37",
+  "all_fonts_embedded": true,
+  "no_overfull_boxes_or_unresolved_references": true,
+  "visual_review_complete": true,
+  "layout_change": "Removed unnecessary forced page break; body font size and margins unchanged",
+  "table_values_and_bold_winners_unchanged": true,
+  "protected_preexisting_project_files": 470,
+  "all_scientific_code_results_and_heat_maps_unchanged": true,
+  "figure_assets_unchanged": 18,
+  "supplement_unchanged": true,
+  "switches": {
+    "RUN_PRIMARY": false,
+    "RUN_SENSITIVITY": false,
+    "RUN_EXISTING_TESTS": false,
+    "EXTRACT_REFERENCE": false
+  },
+  "notebook_sha256": "af594dc69a2cca525e17eabc1b637a65548119f65579ad227afb1b9e38b197c1",
+  "model_fits": 0,
+  "notebook_cells_executed": 0,
+  "new_experiments": 0,
+  "map_regenerations": 0,
+  "reference_archive_sha256": "2cca184052103a473c8beefe2ba1a4b3d4d6c90591edfde4f25bdcf040120c6a",
+  "public_overleaf_members": 38,
+  "private_reviewer_correspondence_and_author_notes_excluded": true,
+  "release_assets": [
+    {
+      "filename": "ICCA_Six_Page_Notation_Clarified.pdf",
+      "bytes": 2883154,
+      "sha256": "1064efdcdd907ce49787dd6877fbfeb5aaf7223e1bc8662a032904c6bea7fa37",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.2/ICCA_Six_Page_Notation_Clarified.pdf",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved document-only notation clarification; non-code/third-party terms apply"
+    },
+    {
+      "filename": "ICCA_Six_Page_Notation_Clarified_Overleaf.zip",
+      "bytes": 12402588,
+      "sha256": "0ff809ffb46f4584af98613b59ae64647ed413ff9977067a58d6d6ed1f7a8f89",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.2/ICCA_Six_Page_Notation_Clarified_Overleaf.zip",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved document-only notation clarification; non-code/third-party terms apply"
+    }
+  ],
+  "public_download_checksums_verified": false,
+  "historical_audits": "Prior audit records retain their original snapshot scope."
+}

@@ -69,25 +69,25 @@ Each experiment fits its own scaler, clusters, learners, weights, and classical 
 \subsection{Clustering and Supervised Ensemble}
 Features are standardized with means and standard deviations estimated on the current fitting segment $\mathcal F$ only. K-means \cite{macqueen} minimizes within-cluster squared Euclidean distance:
 \begin{equation}
-\min_{\{\mu_k\},\{c_i\}}\sum_{i\in\mathcal F}\|\mathbf z_i-\mu_{c_i}\|^2,
-\qquad \tilde{\mathbf x}_i=[\mathbf z_i,\mathbf h(c_i)],
+\min_{\{\boldsymbol\mu_k\},\{c_i\}}\sum_{i\in\mathcal F}\|\boldsymbol z_i-\boldsymbol\mu_{c_i}\|^2,
+\quad \tilde{\boldsymbol x}_i=[\boldsymbol z_i,\boldsymbol h(c_i)],
 \label{eq:k}
 \end{equation}
-where $\mathbf z_i$ is the standardized feature vector and $\mathbf h(c_i)$ is a one-hot cluster indicator. Fit-only NSSP diagnostics selected $K=4$ as the largest elbow distance (silhouette 0.308); $K=2$ yielded a higher silhouette (0.484) but coarser separation. Thus $K=4$ is an elbow-supported parsimonious choice, not the silhouette optimum. The same $K$ is retained across experiments with newly estimated centroids (seed 42, 10 initializations). Full-pretest silhouettes of approximately 0.26--0.30 indicate overlapping regimes.
+where $i$ indexes observations, $\boldsymbol z_i$ is the standardized feature vector, $\boldsymbol\mu_k$ is cluster $k$'s centroid, and $c_i$ is the assigned cluster. The one-hot vector $\boldsymbol h(c_i)$ augments $\boldsymbol z_i$ to form $\tilde{\boldsymbol x}_i$. Fit-only NSSP diagnostics selected $K=4$ as the largest elbow distance (silhouette 0.308); $K=2$ yielded a higher silhouette (0.484) but coarser separation. Thus $K=4$ is an elbow-supported parsimonious choice, not the silhouette optimum. The same $K$ is retained across experiments with newly estimated centroids (seed 42, 10 initializations). Full-pretest silhouettes of approximately 0.26--0.30 indicate overlapping regimes.
 
 The learners supply complementary structures: random forest (RF; 150 trees, unlimited depth), gradient boosting regressor (GBR; 150 estimators, maximum depth 3, learning rate 0.05), and multilayer perceptron (MLP; hidden layers (32,16), ReLU, Adam, at most 300 iterations). The MLP internal early-stopping subset is a random 15\% of the rows supplied to each fit, not a chronological split. Validation observations $\mathcal V$ determine inverse-MSE weights:
 \begin{equation}
 E_j=\frac{1}{|\mathcal V|}\sum_{i\in\mathcal V}(y_i-\hat y_{j,i})^2,
 \end{equation}
 \begin{equation}
-w_j=\frac{1/\max(E_j,10^{-12})}{\sum_l1/\max(E_l,10^{-12})},
+w_j=\frac{1/\max(E_j,10^{-12})}{\sum_{\ell=1}^{3}1/\max(E_\ell,10^{-12})},
 \label{eq:weights}
 \end{equation}
 \begin{equation}
-\hat y_i=\sum_jw_jf_j(\tilde{\mathbf x}_i),\qquad \sum_jw_j=1.
+\hat y_i=\sum_{j=1}^{3}w_jf_j(\tilde{\boldsymbol x}_i),\qquad \sum_{j=1}^{3}w_j=1.
 \label{eq:hybrid}
 \end{equation}
-Weights are frozen after validation and remain fixed during full-pretest refitting and final testing. The procedure is a transparent convex combination, not second-stage stacking; archived record-weighted checks also find equal weighting competitive. Full settings, cluster diagnostics, and profiles appear in Supplement S1; experiment-specific weights appear in S3.
+Here $j$ and $\ell$ index the three learners; $E_j$ is validation MSE, $w_j$ is its normalized weight, and $f_j$ is the fitted regressor. Observed and predicted targets are $y_i$ and $\hat y_{j,i}$, respectively; $|\mathcal V|$ counts validation observations. Weights remain fixed during full-pretest refitting and final testing. This convex combination is not second-stage stacking; archived record-weighted checks also find equal weighting competitive. Supplement S1 gives settings and cluster diagnostics/profiles; S3 gives experiment-specific weights.
 
 \begin{table}[t]
 \input{evidence/algorithm.tex}
@@ -127,7 +127,6 @@ Table~\ref{tab:architecture} distinguishes the roles of the surveillance streams
 \input{evidence/architecture_table.tex}
 \end{table}
 
-\clearpage
 \section{Discussion, Limitations, and Reproducibility}
 The results support moderate one-week forecasting value on NSSP respiratory ED burden and demonstrate that the same availability-aligned procedure can be independently re-estimated on both contemporary and historical ILINet, including a pandemic-transition interval. They do not establish transfer of fitted parameters, independent county-level accuracy, universal ensemble superiority, or operational readiness. Peak delays of one surveillance week in both ILINet experiments further show that favorable pooled scores do not guarantee reliable turning-point forecasts.
 
