@@ -5,7 +5,7 @@
   "release_tag": "respiratory-forecasting-v1.0.2",
   "paper_pages": 6,
   "paper_size": "A4",
-  "stage": "Prepublication verification",
+  "stage": "Public downloads checksum verified",
   "pdf_sha256": "1064efdcdd907ce49787dd6877fbfeb5aaf7223e1bc8662a032904c6bea7fa37",
   "all_fonts_embedded": true,
   "no_overfull_boxes_or_unresolved_references": true,
@@ -48,6 +48,6 @@
       "distribution_approval": "Author-approved document-only notation clarification; non-code/third-party terms apply"
     }
   ],
-  "public_download_checksums_verified": false,
+  "public_download_checksums_verified": true,
   "historical_audits": "Prior audit records retain their original snapshot scope."
 }
