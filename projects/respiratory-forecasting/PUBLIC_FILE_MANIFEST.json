@@ -1,5 +1,5 @@
 {
-  "status": "Author-approved public portfolio publication; see repository history and release for hosting state",
+  "status": "Published portfolio; document-only manuscript update v1.0.1, reference calculations preserved at v1.0.0",
   "prepared_date": "2026-11-16",
   "hash_algorithm": "SHA-256",
   "scope": "Files under projects/respiratory-forecasting; reference evidence is a separate release asset",
@@ -28,8 +28,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9395,
-      "sha256": "d46db89037af017fd962ce6100dc19e622bd2d6638f46c2aa7eaa1ceb10e910c"
+      "bytes": 10948,
+      "sha256": "e374088a90a934d02039336c97147d88ef3cbb628fea7c4f061d31c655fbe492"
     },
     {
       "path": "REVIEW_STATUS.txt",
@@ -372,6 +372,11 @@
       "sha256": "6eea241d5706cd69d50a1d42365f1186831e33474ab4e08f807cd7b3f09e46e3"
     },
     {
+      "path": "docs/MANUSCRIPT_LINKS_PUBLICATION_CHECKS.json",
+      "bytes": 2588,
+      "sha256": "03a58f820d1ac1e6331a20e71ba8ce696989758f0d7edaf6aecc4791ed3c9ac6"
+    },
+    {
       "path": "docs/PORTFOLIO_PUBLICATION_CHECKS.json",
       "bytes": 2768,
       "sha256": "059acbf4299b4d592feb997ecc2d356c6c0f8d76e9f51d9f1d7f932103049ee5"
@@ -673,13 +678,13 @@
     },
     {
       "path": "manuscript/latex/main.pdf",
-      "bytes": 2879840,
-      "sha256": "68ee69ea3aa6487b114f5283e08dc598e13413545736354d47f1800883fa2cde"
+      "bytes": 2880186,
+      "sha256": "c4883661d609e42263ec0b225a6add4414dfe28a24464753ce70b509c31ea662"
     },
     {
       "path": "manuscript/latex/main.tex",
-      "bytes": 21326,
-      "sha256": "253275f81e9774cf30b99759734a17c64c38241944a2ac30d79cc94167abe15e"
+      "bytes": 21626,
+      "sha256": "cde9af4f90495bcac56d6fafeb9e8a357bf7cad511536d0f270e0133949c350d"
     },
     {
       "path": "manuscript/latex/manuscript_kmeans_diagnostics.py",
@@ -2392,6 +2397,22 @@
       "git_tracked": false,
       "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.0/reference_calculations.zip",
       "distribution_approval": "Author-approved public publication on 2026-11-16; separate data terms apply"
+    },
+    {
+      "filename": "ICCA_Six_Page_GitHub_Links.pdf",
+      "bytes": 2880186,
+      "sha256": "c4883661d609e42263ec0b225a6add4414dfe28a24464753ce70b509c31ea662",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.1/ICCA_Six_Page_GitHub_Links.pdf",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved manuscript publication update; manuscript/third-party terms apply"
+    },
+    {
+      "filename": "ICCA_Six_Page_GitHub_Links_Overleaf.zip",
+      "bytes": 12399231,
+      "sha256": "c83005678c0a7b963bbdc18c1336e71d00f6de0879175b48b0c961c4686abfe7",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.1/ICCA_Six_Page_GitHub_Links_Overleaf.zip",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved manuscript publication update; manuscript/third-party terms apply"
     }
   ]
 }

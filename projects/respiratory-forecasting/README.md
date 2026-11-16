@@ -17,7 +17,15 @@ The [six-page manuscript](manuscript/latex/main.pdf), [supplement PDF](manuscrip
 
 **Review saved calculations:** the notebook reconstructs ensemble weights and forecasts, calculates errors and metrics, checks identical classical comparison rows, and verifies geographic means. Re-executing these checks needs `data/reference_calculations.zip`; viewing the saved tables and maps does not. The notebook reads the archive directly without unpacking. The unchanged archive is distributed separately through the portfolio's [Releases](https://github.com/DocOhms/machine-learning-portfolio/releases); consult [data/README.md](data/README.md) for its release status and download instructions. Place it inside this project's `data/` folder without renaming it. Its checksum is in [data/REFERENCE_ARCHIVE.json](data/REFERENCE_ARCHIVE.json), and `.gitignore` excludes it from ordinary Git commits.
 
-The notebook and manuscript are preserved review snapshots. Their historical references to pending public hosting do not override the current access information in this README and `data/README.md`.
+The six-page manuscript now links directly to this project and the versioned reference archive in Section V. The notebook and supplement retain their reviewed contents; any historical references to pending public hosting are superseded by this README and `data/README.md`.
+
+## Manuscript and Overleaf downloads
+
+The [six-page PDF](manuscript/latex/main.pdf) and [LaTeX source](manuscript/latex/main.tex) include the public reproducibility links. The [document-only v1.0.1 release](https://github.com/DocOhms/machine-learning-portfolio/releases/tag/respiratory-forecasting-v1.0.1) provides the [public Overleaf ZIP](https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.1/ICCA_Six_Page_GitHub_Links_Overleaf.zip) and a [direct PDF download](https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.1/ICCA_Six_Page_GitHub_Links.pdf). In Overleaf, select `main.tex` and XeLaTeX. The ZIP includes the unchanged focused supplement, tables, and figure assets, but excludes reviewer correspondence and internal author notes. It does not include raw surveillance snapshots or the reference-calculation archive.
+
+Only the paper's reproducibility paragraph changed. The PDF remains six A4 pages; models, results, maps, and all four disabled notebook switches are unchanged. The [document-publication check record](docs/MANUSCRIPT_LINKS_PUBLICATION_CHECKS.json) and [file manifest](PUBLIC_FILE_MANIFEST.json) record preservation checks and release-asset checksums. The original [v1.0.0 calculation archive](https://github.com/DocOhms/machine-learning-portfolio/releases/tag/respiratory-forecasting-v1.0.0) remains unchanged.
+
+## Optional calculation replay and refitting
 
 The original verification, sensitivity and benchmark scripts expect CSVs on disk.
 Set only `EXTRACT_REFERENCE = True` in the notebook's final cell to stage those
