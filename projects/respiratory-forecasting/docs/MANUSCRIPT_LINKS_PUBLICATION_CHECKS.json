@@ -3,7 +3,7 @@
   "scope": "Publish previously reviewed six-page manuscript with public reproducibility links; document-only update",
   "base_repository_commit": "ee1b97ea9762a55c2e0f2291de4b114e17d3bedb",
   "release_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/tag/respiratory-forecasting-v1.0.1",
-  "stage": "Prepublication byte-preservation verification",
+  "stage": "Public release downloads verified",
   "paper_pages": 6,
   "paper_size": "A4",
   "pdf_sha256": "c4883661d609e42263ec0b225a6add4414dfe28a24464753ce70b509c31ea662",
@@ -44,6 +44,6 @@
       "distribution_approval": "Author-approved manuscript publication update; manuscript/third-party terms apply"
     }
   ],
-  "public_download_checksums_verified": false,
+  "public_download_checksums_verified": true,
   "historical_reports": "Prior audits describe the prior snapshot; this record covers the document update."
 }
