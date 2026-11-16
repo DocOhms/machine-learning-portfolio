@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "phase": "Pre-publication verification of the author-approved portfolio integration",
+  "phase": "Author-approved public portfolio publication; unchanged release asset verified by public download",
   "repository": "https://github.com/DocOhms/machine-learning-portfolio",
   "project_path": "projects/respiratory-forecasting",
   "base_portfolio_commit": "315a703349387f41906e48d4b79f141b6c94b63c",
@@ -27,6 +27,12 @@
   "raw_surveillance_snapshots_included": false,
   "detailed_author_notebooks_or_runtime_files_included": false,
   "reference_archive_sha256": "2cca184052103a473c8beefe2ba1a4b3d4d6c90591edfde4f25bdcf040120c6a",
+  "project_files_staged_and_byte_verified": 476,
+  "prepared_package_files_preserved_byte_for_byte_including_unedited_documentation": 466,
+  "reference_release_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/tag/respiratory-forecasting-v1.0.0",
+  "reference_asset_public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.0/reference_calculations.zip",
+  "reference_asset_public_download_bytes": 18014420,
+  "reference_asset_public_download_sha256_verified": true,
   "line_ending_rule": "* -text",
   "historical_records": "Earlier audits and notebook/manuscript text retain their original scope and dates. Current access information is maintained in the project README and data/README.md.",
   "limits": [

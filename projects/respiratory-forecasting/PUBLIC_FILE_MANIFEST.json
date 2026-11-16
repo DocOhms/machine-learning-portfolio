@@ -338,8 +338,8 @@
     },
     {
       "path": "data/README.md",
-      "bytes": 2440,
-      "sha256": "6e94ece6351dca26c29524aaf5cc3ab48c199dfd3946f1cd0570c8848e5fd248"
+      "bytes": 2660,
+      "sha256": "314e3bc18e3b53b5a60103452d1fc595d6efc17ea2b08159576b16518447491f"
     },
     {
       "path": "data/REFERENCE_ARCHIVE.json",
@@ -373,8 +373,8 @@
     },
     {
       "path": "docs/PORTFOLIO_PUBLICATION_CHECKS.json",
-      "bytes": 2191,
-      "sha256": "f47a959bf591548b3aea4d2879b79ce22ce1ee2cee3ab69304d2d62e11ece65b"
+      "bytes": 2768,
+      "sha256": "059acbf4299b4d592feb997ecc2d356c6c0f8d76e9f51d9f1d7f932103049ee5"
     },
     {
       "path": "docs/PUBLIC_NOTEBOOK_CHECKS.json",
@@ -2390,7 +2390,7 @@
       "bytes": 18014420,
       "sha256": "2cca184052103a473c8beefe2ba1a4b3d4d6c90591edfde4f25bdcf040120c6a",
       "git_tracked": false,
-      "public_download_url": null,
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.0/reference_calculations.zip",
       "distribution_approval": "Author-approved public publication on 2026-11-16; separate data terms apply"
     }
   ]
