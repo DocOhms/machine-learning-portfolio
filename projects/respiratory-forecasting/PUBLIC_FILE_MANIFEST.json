@@ -403,8 +403,8 @@
     },
     {
       "path": "docs/SMAPE_CLARIFICATION_CHECKS.json",
-      "bytes": 2440,
-      "sha256": "b463d647ab91a2be73963d5c2e3fbba7fdd0180269c5b348d83d3243b2fdc379"
+      "bytes": 2439,
+      "sha256": "3f5257864eb48400fdf95e895aa260084f71132f1295c51fbbaba820545d173a"
     },
     {
       "path": "docs/SOURCE_PRESERVATION.json",

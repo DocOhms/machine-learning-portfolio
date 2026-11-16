@@ -46,6 +46,6 @@
       "distribution_approval": "Author-approved SMAPE wording correction; non-code/third-party terms apply"
     }
   ],
-  "public_download_checksums_verified": false,
+  "public_download_checksums_verified": true,
   "historical_audits": "Prior audit records and published releases retain their original snapshot scope."
 }
