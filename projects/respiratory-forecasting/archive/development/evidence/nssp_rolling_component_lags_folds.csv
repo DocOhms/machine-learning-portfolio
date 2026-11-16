@@ -1,0 +1,4 @@
+Fold,Train_Start,Train_End,Validation_Start,Validation_End,Train_Weeks,Validation_Weeks,Train_Rows,Validation_Rows
+1,202242,202340,202341,202350,51,10,115464,22640
+2,202242,202350,202351,202408,61,10,138104,22640
+3,202242,202408,202409,202418,71,10,160744,22640

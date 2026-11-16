@@ -1,0 +1,15 @@
+Historical development evidence copied without modification on 2026-11-06.
+
+Original archive root:
+<LOCAL_ARCHIVE_PATH>
+
+Files:
+nssp_rolling_component_lags_summary.csv
+nssp_rolling_component_lags_folds.csv
+nssp_locked_component_lags123_comparison_vs_lag1.csv
+ilinet_exp2_exp3_provider_lags_final_hybrid_comparison.csv
+
+These files document previously run development comparisons. They are not evidence
+of a newly preregistered model selection procedure or a new untouched test set.
+The supplementary script uses them verbatim and reconciles the one-auxiliary-lag
+scores against the locked reference predictions for all three experiments.

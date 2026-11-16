@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="white"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="600" y="35" font-size="26" fill="#263238" font-weight="bold" text-anchor="middle">Experiment 3 | Historical ILINet forecast trajectory</text>
+<text x="600" y="65" font-size="19" fill="#263238" font-weight="normal" text-anchor="middle">Unweighted mean across the included reporting-unit series</text>
+<line x1="95.00" y1="570.00" x2="1140.00" y2="570.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="82" y="576.0" font-size="18" fill="#263238" font-weight="normal" text-anchor="end">0</text>
+<line x1="95.00" y1="502.86" x2="1140.00" y2="502.86" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="82" y="508.8571428571429" font-size="18" fill="#263238" font-weight="normal" text-anchor="end">1</text>
+<line x1="95.00" y1="435.71" x2="1140.00" y2="435.71" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="82" y="441.7142857142857" font-size="18" fill="#263238" font-weight="normal" text-anchor="end">2</text>
+<line x1="95.00" y1="368.57" x2="1140.00" y2="368.57" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="82" y="374.57142857142856" font-size="18" fill="#263238" font-weight="normal" text-anchor="end">3</text>
+<line x1="95.00" y1="301.43" x2="1140.00" y2="301.43" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="82" y="307.42857142857144" font-size="18" fill="#263238" font-weight="normal" text-anchor="end">4</text>
+<line x1="95.00" y1="234.29" x2="1140.00" y2="234.29" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="82" y="240.28571428571428" font-size="18" fill="#263238" font-weight="normal" text-anchor="end">5</text>
+<line x1="95.00" y1="167.14" x2="1140.00" y2="167.14" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="82" y="173.14285714285717" font-size="18" fill="#263238" font-weight="normal" text-anchor="end">6</text>
+<line x1="95.00" y1="100.00" x2="1140.00" y2="100.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="82" y="106.0" font-size="18" fill="#263238" font-weight="normal" text-anchor="end">7</text>
+<line x1="95.00" y1="100.00" x2="95.00" y2="570.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="95.0" y="597" font-size="16" fill="#263238" font-weight="normal" text-anchor="middle">2019-W40</text>
+<line x1="238.43" y1="100.00" x2="238.43" y2="570.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="238.4313725490196" y="597" font-size="16" fill="#263238" font-weight="normal" text-anchor="middle">2019-W47</text>
+<line x1="381.86" y1="100.00" x2="381.86" y2="570.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="381.8627450980392" y="597" font-size="16" fill="#263238" font-weight="normal" text-anchor="middle">2020-W02</text>
+<line x1="525.29" y1="100.00" x2="525.29" y2="570.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="525.2941176470588" y="597" font-size="16" fill="#263238" font-weight="normal" text-anchor="middle">2020-W09</text>
+<line x1="689.22" y1="100.00" x2="689.22" y2="570.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="689.2156862745098" y="597" font-size="16" fill="#263238" font-weight="normal" text-anchor="middle">2020-W17</text>
+<line x1="832.65" y1="100.00" x2="832.65" y2="570.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="832.6470588235294" y="597" font-size="16" fill="#263238" font-weight="normal" text-anchor="middle">2020-W24</text>
+<line x1="976.08" y1="100.00" x2="976.08" y2="570.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="976.0784313725491" y="597" font-size="16" fill="#263238" font-weight="normal" text-anchor="middle">2020-W31</text>
+<line x1="1140.00" y1="100.00" x2="1140.00" y2="570.00" stroke="#ddd" stroke-width="1" stroke-dasharray=""/>
+<text x="1140.0" y="597" font-size="16" fill="#263238" font-weight="normal" text-anchor="middle">2020-W39</text>
+<line x1="95.00" y1="100.00" x2="95.00" y2="570.00" stroke="#333" stroke-width="1" stroke-dasharray=""/>
+<line x1="95.00" y1="570.00" x2="1140.00" y2="570.00" stroke="#333" stroke-width="1" stroke-dasharray=""/>
+<path d="M95.00,476.28 L115.49,470.24 L135.98,461.71 L156.47,460.47 L176.96,448.01 L197.45,431.22 L217.94,412.67 L238.43,399.12 L258.92,369.99 L279.41,378.89 L299.90,337.84 L320.39,264.49 L340.88,137.00 L361.37,211.63 L381.86,264.16 L402.35,234.13 L422.84,199.59 L443.33,145.91 L463.82,139.91 L484.31,172.44 L504.80,202.63 L525.29,227.20 L545.78,231.20 L566.27,209.23 L586.76,171.24 L607.25,266.33 L627.75,335.55 L648.24,396.33 L668.73,436.86 L689.22,457.83 L709.71,478.31 L730.20,490.44 L750.69,494.84 L771.18,510.11 L791.67,516.47 L812.16,521.49 L832.65,521.94 L853.14,519.22 L873.63,510.04 L894.12,504.14 L914.61,498.55 L935.10,497.76 L955.59,500.73 L976.08,503.15 L996.57,507.19 L1017.06,511.01 L1037.55,508.64 L1058.04,500.62 L1078.53,507.47 L1099.02,501.51 L1119.51,506.97 L1140.00,494.93" fill="none" stroke="#1565a9" stroke-width="3" stroke-dasharray=""/>
+<path d="M95.00,480.53 L115.49,471.51 L135.98,465.89 L156.47,456.83 L176.96,451.58 L197.45,440.61 L217.94,419.63 L238.43,399.40 L258.92,385.13 L279.41,352.37 L299.90,352.13 L320.39,305.75 L340.88,219.67 L361.37,127.59 L381.86,203.85 L402.35,250.04 L422.84,210.07 L443.33,175.17 L463.82,128.93 L484.31,160.63 L504.80,218.06 L525.29,252.12 L545.78,271.32 L566.27,276.14 L586.76,257.50 L607.25,234.98 L627.75,313.93 L648.24,370.15 L668.73,419.02 L689.22,451.69 L709.71,467.99 L730.20,485.01 L750.69,494.80 L771.18,499.07 L791.67,508.32 L812.16,517.89 L832.65,522.45 L853.14,525.14 L873.63,524.26 L894.12,517.16 L914.61,511.39 L935.10,505.70 L955.59,503.53 L976.08,503.22 L996.57,503.61 L1017.06,506.05 L1037.55,505.41 L1058.04,502.68 L1078.53,496.26 L1099.02,500.42 L1119.51,496.99 L1140.00,500.05" fill="none" stroke="#e37400" stroke-width="3" stroke-dasharray=""/>
+<path d="M95.00,479.88 L115.49,470.75 L135.98,465.37 L156.47,456.02 L176.96,450.54 L197.45,439.33 L217.94,418.86 L238.43,398.01 L258.92,388.18 L279.41,354.64 L299.90,347.79 L320.39,299.47 L340.88,211.92 L361.37,129.97 L381.86,209.16 L402.35,244.79 L422.84,205.85 L443.33,169.62 L463.82,121.23 L484.31,159.76 L504.80,222.17 L525.29,257.27 L545.78,270.49 L566.27,274.29 L586.76,258.44 L607.25,236.92 L627.75,307.78 L648.24,365.84 L668.73,418.62 L689.22,451.30 L709.71,466.33 L730.20,485.27 L750.69,495.23 L771.18,497.56 L791.67,508.25 L812.16,518.88 L832.65,522.67 L853.14,524.88 L873.63,524.35 L894.12,515.16 L914.61,509.63 L935.10,505.24 L955.59,502.56 L976.08,501.35 L996.57,501.36 L1017.06,504.62 L1037.55,504.56 L1058.04,501.75 L1078.53,496.78 L1099.02,499.71 L1119.51,496.85 L1140.00,499.83" fill="none" stroke="#22823b" stroke-width="2" stroke-dasharray=""/>
+<path d="M95.00,480.93 L115.49,472.34 L135.98,466.34 L156.47,459.29 L176.96,452.05 L197.45,441.87 L217.94,417.46 L238.43,397.02 L258.92,383.46 L279.41,352.21 L299.90,352.77 L320.39,310.13 L340.88,211.78 L361.37,136.85 L381.86,199.50 L402.35,239.29 L422.84,208.69 L443.33,171.46 L463.82,121.08 L484.31,164.09 L504.80,218.04 L525.29,252.46 L545.78,272.83 L566.27,278.33 L586.76,260.52 L607.25,235.95 L627.75,310.73 L648.24,363.26 L668.73,415.26 L689.22,447.58 L709.71,465.15 L730.20,482.58 L750.69,492.35 L771.18,497.43 L791.67,507.27 L812.16,516.31 L832.65,521.38 L853.14,523.77 L873.63,522.37 L894.12,515.85 L914.61,509.96 L935.10,503.89 L955.59,502.50 L976.08,503.85 L996.57,505.61 L1017.06,508.42 L1037.55,507.08 L1058.04,504.95 L1078.53,498.76 L1099.02,501.93 L1119.51,497.38 L1140.00,500.20" fill="none" stroke="#c62828" stroke-width="2" stroke-dasharray=""/>
+<path d="M95.00,480.78 L115.49,471.41 L135.98,465.95 L156.47,455.10 L176.96,452.15 L197.45,440.61 L217.94,422.66 L238.43,403.29 L258.92,383.77 L279.41,350.23 L299.90,355.88 L320.39,307.54 L340.88,235.73 L361.37,115.55 L381.86,203.00 L402.35,266.58 L422.84,215.79 L443.33,184.67 L463.82,144.91 L484.31,157.90 L504.80,213.91 L525.29,246.55 L545.78,270.59 L566.27,275.72 L586.76,253.40 L607.25,231.99 L627.75,323.51 L648.24,381.69 L668.73,423.32 L689.22,456.36 L709.71,472.63 L730.20,487.27 L750.69,496.93 L771.18,502.31 L791.67,509.48 L812.16,518.53 L832.65,523.35 L853.14,526.85 L873.63,526.14 L894.12,520.54 L914.61,514.67 L935.10,508.05 L955.59,505.61 L976.08,504.47 L996.57,503.82 L1017.06,505.02 L1037.55,504.53 L1058.04,501.25 L1078.53,493.11 L1099.02,499.58 L1119.51,496.74 L1140.00,500.12" fill="none" stroke="#8b62b3" stroke-width="2" stroke-dasharray=""/>
+<line x1="110.00" y1="85.00" x2="135.00" y2="85.00" stroke="#1565a9" stroke-width="3" stroke-dasharray=""/>
+<text x="141" y="91" font-size="17" fill="#263238" font-weight="normal" text-anchor="start">Observed</text>
+<line x1="295.00" y1="85.00" x2="320.00" y2="85.00" stroke="#e37400" stroke-width="3" stroke-dasharray=""/>
+<text x="326" y="91" font-size="17" fill="#263238" font-weight="normal" text-anchor="start">Hybrid ensemble</text>
+<line x1="550.00" y1="85.00" x2="575.00" y2="85.00" stroke="#22823b" stroke-width="3" stroke-dasharray=""/>
+<text x="581" y="91" font-size="17" fill="#263238" font-weight="normal" text-anchor="start">Random Forest</text>
+<line x1="785.00" y1="85.00" x2="810.00" y2="85.00" stroke="#c62828" stroke-width="3" stroke-dasharray=""/>
+<text x="816" y="91" font-size="17" fill="#263238" font-weight="normal" text-anchor="start">Gradient Boosting</text>
+<line x1="1060.00" y1="85.00" x2="1085.00" y2="85.00" stroke="#8b62b3" stroke-width="3" stroke-dasharray=""/>
+<text x="1091" y="91" font-size="17" fill="#263238" font-weight="normal" text-anchor="start">MLP</text>
+<text transform="translate(28,335) rotate(-90)" font-size="20" text-anchor="middle">Unweighted ILI (% of outpatient visits)</text>
+<text x="600" y="630" font-size="19" fill="#263238" font-weight="normal" text-anchor="middle">CDC epidemiological week (YEAR-WEEK as reported)</text>
+<text x="600" y="661" font-size="17" fill="#263238" font-weight="normal" text-anchor="middle">52 test weeks and 2,808 scored records; not a population-weighted national estimate.</text>
+</g></svg>

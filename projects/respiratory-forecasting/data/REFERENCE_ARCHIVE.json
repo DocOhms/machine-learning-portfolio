@@ -1,0 +1,1016 @@
+{
+  "archive": "reference_calculations.zip",
+  "sha256": "2cca184052103a473c8beefe2ba1a4b3d4d6c90591edfde4f25bdcf040120c6a",
+  "files": [
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp2/final_test_predictions.csv",
+      "bytes": 91619,
+      "sha256": "b8f6de1513cc66bbad15bd92a98c2e8a2210c77edb4d756800afd0bbffb6d25b"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp3/final_test_predictions.csv",
+      "bytes": 144908,
+      "sha256": "7cafc37650203fb6a3d3ba84294a802f2cf13c64b73ab25b01c308ba06696bb6"
+    },
+    {
+      "path": "results/reference/classical/exp1/final_test_predictions.csv",
+      "bytes": 60843,
+      "sha256": "dad3571a5b9bb4ce0ffe521995ad1a7380b2515fc36a1c921e853709a3e5c632"
+    },
+    {
+      "path": "results/reference/classical/exp2/final_test_predictions.csv",
+      "bytes": 91613,
+      "sha256": "a777fd43f4a693c546e19bfb48705800248960c502035f0daddabc57878ae26c"
+    },
+    {
+      "path": "results/reference/classical/exp3/final_test_predictions.csv",
+      "bytes": 145192,
+      "sha256": "707a516700f9638844a7744ca719e4cec1cbeefb55e7e5bb85d355345ad45744"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0001_predictions.csv",
+      "bytes": 101605,
+      "sha256": "88b6ed5bdc29b7da1d9faa580b0efb98c192a9738927d8072e4386cdf04c7fcf"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0002_predictions.csv",
+      "bytes": 99064,
+      "sha256": "a692783415bb48c1f040436bc47ba841b9b98e5b276d3446679c85673ce14d44"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0003_predictions.csv",
+      "bytes": 97606,
+      "sha256": "e349df0a33b7c9d18bf4876d04f45357fcdc053fd8917c7a441f1249c2b548e8"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0004_predictions.csv",
+      "bytes": 100589,
+      "sha256": "4b475082304409ac9e613115e0498bd4d0468b8c45908b3dd54a6a55bfc5b85e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0005_predictions.csv",
+      "bytes": 96252,
+      "sha256": "b6b369cabbb50f539aa3227413432569c96526b3801770fb3d899bcb8f3ab431"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0006_predictions.csv",
+      "bytes": 94411,
+      "sha256": "33a15ed90d6f099a4f9536e7f3cbcb3a72e96b35b5f9467c6e1b25d1abddd29a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0007_predictions.csv",
+      "bytes": 98595,
+      "sha256": "3403d3b28ce54dda8f48cf9d0a2519989ccc6a74a1dee118410c1111daa6a94e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0008_predictions.csv",
+      "bytes": 102402,
+      "sha256": "9da4ee30357500558179c42452b6fe02baf6f6fd8057bcd21f12ca57b633a84b"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0009_predictions.csv",
+      "bytes": 106564,
+      "sha256": "e43296298f044dd0dfe73a9c2bb453c80681b9703ad6d4fa5ba6e7120168ddf0"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0010_predictions.csv",
+      "bytes": 102701,
+      "sha256": "9d2cb3a90744c6db8e3a72ffdbb92cc97e178b25221fc1cfac2924072920a637"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0011_predictions.csv",
+      "bytes": 106024,
+      "sha256": "eddfb68754648833d71360361a00fa42ef7de87d82e028c1a8729d259194f7a6"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0012_predictions.csv",
+      "bytes": 104136,
+      "sha256": "5a09adb031ff9ea4943b08b3a95d0d99bd7fa4339ba6429075d06dce8dfdee5a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0013_predictions.csv",
+      "bytes": 99960,
+      "sha256": "02505f8717d869e4736a71e179fa14d8258b00a3610e2788a0d0f59bba5d3434"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0014_predictions.csv",
+      "bytes": 104987,
+      "sha256": "9d0ee0cca5bae375e859b3ca1eb02fdd44fc2ced77f1fd6a836afa4b37a45eae"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0015_predictions.csv",
+      "bytes": 112102,
+      "sha256": "1cba75c9487a739e0d013798339309e0ccadbfb2769baf8ba1b938328cedffdb"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0016_predictions.csv",
+      "bytes": 105649,
+      "sha256": "d54823e9d07466af92a36090cc37cb0b8d9392c2f72e0bac7b11256ca6e09d94"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0017_predictions.csv",
+      "bytes": 104204,
+      "sha256": "2e6c3afe52ee04fb348d50e668cc9172f3cc3d89787f9038ac1057f2a27a7493"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0018_predictions.csv",
+      "bytes": 94480,
+      "sha256": "b0b29756acf3b7b7b0af76d4c7ecb4ff7eb80739fd1e0f267be40d57c55bfedc"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0019_predictions.csv",
+      "bytes": 94744,
+      "sha256": "ab01dd4f90bb293a4c50c73b95547783d70d2553caca43f556514423b5f0aaa7"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0020_predictions.csv",
+      "bytes": 96862,
+      "sha256": "5aa65d96b48984bba89a9a055c1281bd9a5c6368e7c2e9502738b136993b4573"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0021_predictions.csv",
+      "bytes": 109167,
+      "sha256": "d0fc529d878b0ec9d9475e8c57bae2c9110fcadc7d8cf88692f75d11b59f47a8"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0022_predictions.csv",
+      "bytes": 108463,
+      "sha256": "e8b138a9b13a15c46d058fb4cfad387b099e536de9d88b98b2e3ea211a756a57"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0023_predictions.csv",
+      "bytes": 65291,
+      "sha256": "5c481b08bb9076ea27f306c5a56f01c8669adb991a78a3e6a8e3769b3ec2aff4"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/predictions.csv",
+      "bytes": 2298624,
+      "sha256": "ef5d5ca14eac355524d5e8c634e9c881475447c6ef7337842260a2da5435b0e2"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0001_predictions.csv",
+      "bytes": 101476,
+      "sha256": "4aca1b84de452659fe1a1438d118e628eff2837c395423258b14d41d4b7dc4f9"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0002_predictions.csv",
+      "bytes": 98972,
+      "sha256": "b3cdfa4367a7d5cbdd405bc0125569b49d37e554d31166cb96b39734e8cfd75d"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0003_predictions.csv",
+      "bytes": 97522,
+      "sha256": "6bac70c71975fadb40444476a2c38e66d1ac95128b0cf723c7e4725b74bbd141"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0004_predictions.csv",
+      "bytes": 100510,
+      "sha256": "7dad45ba2b822a1e13972e5fb70f03fab0d225e3bc5e651fcbea9fd2ecd8d88a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0005_predictions.csv",
+      "bytes": 96217,
+      "sha256": "122721adac8e1d859569f877eee4b029b4ee0d2e65e09771e245085b55897469"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0006_predictions.csv",
+      "bytes": 94358,
+      "sha256": "72fd3820f95888dc1192bce8fa1d8232f8b760b676f57033ec22f074f54fffe8"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0007_predictions.csv",
+      "bytes": 98528,
+      "sha256": "7f047ec39571fad8bb512610393b8f576b14e6aab02bd9fbc79c73c4fe2e73a5"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0008_predictions.csv",
+      "bytes": 102446,
+      "sha256": "f49ae219ae19a02fe3df439fae27ebab1239a5d95bcfc862f6581cc73952bf8c"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0009_predictions.csv",
+      "bytes": 106563,
+      "sha256": "cb937d89442318246926a2c7614c0af91b9aa0d2fb112cef1a7935008a7635af"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0010_predictions.csv",
+      "bytes": 102613,
+      "sha256": "04566cda9fdeaca25544cc25e2c34215965da4b19a4289c56bbdeba78b47bc64"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0011_predictions.csv",
+      "bytes": 105975,
+      "sha256": "d39cef71261adf823287f1fbe827e6dc79593ab79a1609b318f54dde61927d9b"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0012_predictions.csv",
+      "bytes": 104172,
+      "sha256": "8e7b3a0df2f425b0352c37e8da2460f4c9ebb74aa58abfe709ba3aca0439504c"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0013_predictions.csv",
+      "bytes": 99940,
+      "sha256": "5d5c96ba63211d0d3aef22d926f73a4453a7802f6d6b3e5e08563fa03e49c50f"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0014_predictions.csv",
+      "bytes": 104915,
+      "sha256": "8442f48c10dac58740ed6ceebc4af8fd065b741fca41d9294534c34294b83bf4"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0015_predictions.csv",
+      "bytes": 112056,
+      "sha256": "77df0242f3641d678bb07c825991d7b29b1ce111e5fae709c152856430bfda4c"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0016_predictions.csv",
+      "bytes": 105558,
+      "sha256": "0f1d020c29fd7fc5aa77ca4d16b32aec192e5498a992a9bfba95fd6934d0084d"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0017_predictions.csv",
+      "bytes": 104129,
+      "sha256": "be3c77e719e2aa5ec1d01e78a3bfc5ab45054acafc29e1f7e0943b857bebac0a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0018_predictions.csv",
+      "bytes": 94538,
+      "sha256": "6f5f38919fddd905b40e944ff0ff890e09ee12d5737ab1bc0a04150cf8bda32c"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0019_predictions.csv",
+      "bytes": 94760,
+      "sha256": "4fa58496944f131a6126e6da47c165e8b8bcf512872ab19f017a64e2c10f0098"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0020_predictions.csv",
+      "bytes": 96989,
+      "sha256": "9d1b5ab668b2dfe4dc8b8579c0d3ff39b332f3468a5d052900e2498dfe943be6"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0021_predictions.csv",
+      "bytes": 109065,
+      "sha256": "a52996a7abf3b1781208cf6da89737a34c6a5642a5eb0b2cfd0cd77c01f0c920"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0022_predictions.csv",
+      "bytes": 108444,
+      "sha256": "8ff19770e1a4b7882462a640d16940fdee9666e9f7785ef8c97b7ebdbb000da3"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0023_predictions.csv",
+      "bytes": 65277,
+      "sha256": "948784dec2953b84c702907071fb060e524f7dcea33b719f000e16018a4bb463"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/predictions.csv",
+      "bytes": 2297768,
+      "sha256": "debe9b20540c488a69e2a5f11598fc208f3a98ca788eaa05d3e5e5cb39a59707"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0001_predictions.csv",
+      "bytes": 81799,
+      "sha256": "1eba9f5b270da4f679685a8a639b2e8f29a85e52b7ee8270e7c3f6ab06eb2bb0"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0002_predictions.csv",
+      "bytes": 79805,
+      "sha256": "c2a32c7bf9f725ff4d67fa1c1247380e8bfe7d9b62ea3ecac21b916375b27f43"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0003_predictions.csv",
+      "bytes": 78524,
+      "sha256": "ac90e1bbd04248a9c89e845942bf2985c074bfec4266d24f71256b87ca1797fa"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0004_predictions.csv",
+      "bytes": 80779,
+      "sha256": "7f3f48132253f4f4d7b3e7a4fdcd35dec7bf4d53cdef9f04361f5d2b244ff14f"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0005_predictions.csv",
+      "bytes": 77215,
+      "sha256": "4139b7022e43301f0db2e01d673ed402591b1bb56c913a050cba6a9377265a9a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0006_predictions.csv",
+      "bytes": 76007,
+      "sha256": "c4de79568330519cc05643da4b3cab7bbf18eae7bcdbbad4ad4d66265245cf06"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0007_predictions.csv",
+      "bytes": 79432,
+      "sha256": "66a335a59a407d6f723d0c0ec2b536aaa392aba7f74b59461780e79df6cb5416"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0008_predictions.csv",
+      "bytes": 82470,
+      "sha256": "7df3ec134d40fa3d0c920fbd411c5ebf86d2eb7e990ed554ee223b11ad4250ed"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0009_predictions.csv",
+      "bytes": 85658,
+      "sha256": "9ab68d781297bcd12b04fee0d1cb651bf1a59df98631e4a0a104818637258e64"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0010_predictions.csv",
+      "bytes": 82301,
+      "sha256": "a29c646fe294f422eb24e1135c55e22b5e8aa3091cb172fc38807ad045d8089a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0011_predictions.csv",
+      "bytes": 85466,
+      "sha256": "99c855cb394d07cae78d8594fdd12d262068ae45caf07a8b118e68b317066fa6"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0012_predictions.csv",
+      "bytes": 84051,
+      "sha256": "f9a31a107060087050efa49833736d59a5294beb8aaf623a080253c1470eca7a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0013_predictions.csv",
+      "bytes": 80288,
+      "sha256": "6b46fcfccd70d0e1219b8446dbbde4151ac7ee63e78604b10f659e6d1ba897da"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0014_predictions.csv",
+      "bytes": 84454,
+      "sha256": "9f44f5468485598122ba8122186fd0ff7491c4c0104c8fb23f1fe78c16f7dc89"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0015_predictions.csv",
+      "bytes": 90492,
+      "sha256": "8ac2286763d3008a27c549a1da1b475ffb09bc6ee2702823267ae746ae0dcfd0"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0016_predictions.csv",
+      "bytes": 84989,
+      "sha256": "df3d7b4b86b04f35e4ed3c90f5dbf9bc7cb695f17de36f6425c801221390652a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0017_predictions.csv",
+      "bytes": 83881,
+      "sha256": "7a16b75a34a58fb2e06b49ec6dbc084f2da02602dbaacd3a3d5e74829c3d7a5d"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0018_predictions.csv",
+      "bytes": 76289,
+      "sha256": "ba6e26d9d588fc652749b1b945e929a4be021c75263f5dc905b3afe6b2ef2306"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0019_predictions.csv",
+      "bytes": 76540,
+      "sha256": "91b5e2cbd3a7915727ee714b5f76fa013a9df98543ee86f9a71b82aa3f492357"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0020_predictions.csv",
+      "bytes": 78079,
+      "sha256": "8c5a5782200499c3cf55c47c26b8b1fb9348e3a2cdf184156812596985a4ada5"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0021_predictions.csv",
+      "bytes": 87808,
+      "sha256": "d2140a26225daa3242205f8dfb9d4b9f3ff2349f7d75ec875afd9d7e651e5e20"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0022_predictions.csv",
+      "bytes": 87330,
+      "sha256": "7d13a8e0d2ba10381a96d10882cb8eeacd98dd37834d94ea18d1cfb11767110a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0023_predictions.csv",
+      "bytes": 52927,
+      "sha256": "90fa0071743a3f97784f19ad92a826874eb6e16bba8777e22bfd7362c60476cb"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/predictions.csv",
+      "bytes": 1851353,
+      "sha256": "f63016f8b7e3b3d191fd1b65935156b45f2b413aef6245321e3564acf1b8317d"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0001_predictions.csv",
+      "bytes": 81951,
+      "sha256": "f9f374d2a9f4fd7cbeacc6436dd64bf96cc3e42a250ee89924b1ae1c2d69819e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0002_predictions.csv",
+      "bytes": 80021,
+      "sha256": "2c0432b3921f9bfcbd1cbc88652a86a1c82b4f03f7a602b68c3a853e4ab763ff"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0003_predictions.csv",
+      "bytes": 78608,
+      "sha256": "2a52410cd873872849549048a76d9aca3a1eff501b9e774fc15e74995b5d9e06"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0004_predictions.csv",
+      "bytes": 80778,
+      "sha256": "924943a911dd3de225fb9afdd90cb2d8ca55531d83c95c7118bd50e2f6c656d0"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0005_predictions.csv",
+      "bytes": 77376,
+      "sha256": "cba726bab8f1bde50bd48ec0c1f5de7eea8e272878f63feedd827b86b01b9e3a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0006_predictions.csv",
+      "bytes": 76063,
+      "sha256": "1ce8c05e3c912a59e5c38221e90cb89d674036ef5f403d837d116effda357086"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0007_predictions.csv",
+      "bytes": 79663,
+      "sha256": "0d8554a4d699fc8a6f5e922c7faa9194fe5157e942ea2df9fd6a02eb9c227d00"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0008_predictions.csv",
+      "bytes": 82585,
+      "sha256": "30b4cb81b8ece18aed02f733cf190bd9422129fcf076cf78c7379d34b9628810"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0009_predictions.csv",
+      "bytes": 85695,
+      "sha256": "01d7f419cd19e69d315f2537f96f6e01a8a855cc4f8c89615aad9ea74d61c8e2"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0010_predictions.csv",
+      "bytes": 82303,
+      "sha256": "4d09be6fda240f5168623005b507536736ee045f1f715c523ae024b51b8265be"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0011_predictions.csv",
+      "bytes": 85559,
+      "sha256": "3c2f66ccef0f3e43d4f6dfb6bc6cd6c11d5b42a40e27817d6e6072452de18f09"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0012_predictions.csv",
+      "bytes": 84268,
+      "sha256": "8fd495819a200c4b5a6d9e5675b331b2e46b97c99367d0fa3fcc7eac5a88a8e0"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0013_predictions.csv",
+      "bytes": 80619,
+      "sha256": "afb95b6d475f7fb6f30e51aaff79f732a60fa6a27e72ddaf23f6060cb48cf571"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0014_predictions.csv",
+      "bytes": 84548,
+      "sha256": "2c231c4b9b0c8e42a381b0ce0c646e16c30cbde1204d3edf4ac0544343e042a3"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0015_predictions.csv",
+      "bytes": 90601,
+      "sha256": "d8fdc2a32d26118a9c6653561a712d4e88146afd0d1577e7d8be70c903140fb4"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0016_predictions.csv",
+      "bytes": 85424,
+      "sha256": "a91463af8e1a23158169bf0dd127d1292f7b470473f07defc5dae7234afdc574"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0017_predictions.csv",
+      "bytes": 83852,
+      "sha256": "40f83c19d88c078a43c9d9a32e82eb32603bd99afd603aae908c8d3399b52999"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0018_predictions.csv",
+      "bytes": 76622,
+      "sha256": "765827c6d39f91883020e98874a2d4b51b9f06e6e07c7261e5193a266214309e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0019_predictions.csv",
+      "bytes": 76645,
+      "sha256": "617413ea828a95fabce1002dc9be765cf353d2cbbf5f7c7d1eabbcb9c47677a6"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0020_predictions.csv",
+      "bytes": 78260,
+      "sha256": "59b1c29601918d98060d0d82a551ce4ddb93c5ec931d1e077967cd39eadc22b1"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0021_predictions.csv",
+      "bytes": 87966,
+      "sha256": "fa983c7ce9123e500587f7fd99bac272bc950072f7f3727493207a735b1e6649"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0022_predictions.csv",
+      "bytes": 87393,
+      "sha256": "05fba674acaca1bc77dfb2dc2f0b66a0223c6cad3c15a19fdcee9d7bbdbae715"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0023_predictions.csv",
+      "bytes": 52987,
+      "sha256": "32614c532ea6615ac1d05ab72271391bc21b3bc2e227f1ef5cac7fcebdab3170"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/predictions.csv",
+      "bytes": 1854264,
+      "sha256": "563b45cc8597fa7346dd7ed23f9185a67af71646d6d0e95eb0ff6e6c2b459506"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0001_predictions.csv",
+      "bytes": 81547,
+      "sha256": "5e74e6c6fc2241b2a10100bcfd955ac8a68389090a2eaa02737fe5b3b57678a4"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0002_predictions.csv",
+      "bytes": 78858,
+      "sha256": "130435fd863cb29c2f9039556ac32848c06b115786f96726dc051ed00e4473e9"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0003_predictions.csv",
+      "bytes": 78178,
+      "sha256": "77d0c3f0b542450b6bc29ce4a6f25b671141d390c3a382c304103471880bf25f"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0004_predictions.csv",
+      "bytes": 80777,
+      "sha256": "36533067d53c43fdc1effaacc4cf51cf125c4f56de4eee35d69e6c142aaf3798"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0005_predictions.csv",
+      "bytes": 76724,
+      "sha256": "0f9d70813582676970aba31429f965e77987f66422c9d467c7f047c23f178b25"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0006_predictions.csv",
+      "bytes": 75632,
+      "sha256": "8f2b4f9392b0c7bbeffae44545868d9a02c56a485ac9e506d86946fc9fb1ab20"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0007_predictions.csv",
+      "bytes": 78893,
+      "sha256": "28a7322c38254721635025702b6ef8af392fb5c434e5f40a6cca233fbc839774"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0008_predictions.csv",
+      "bytes": 82666,
+      "sha256": "f6d7a56c9a00fbc740a90f354ad551fd24ec5bd2f6f246892951a18048e24e58"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0009_predictions.csv",
+      "bytes": 85630,
+      "sha256": "b03988522f6f2016aace6b68b27739cf276d2f41a7804d68360cf7654ab83598"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0010_predictions.csv",
+      "bytes": 82235,
+      "sha256": "ec6d120072b436489c3851836bdd495f34f45512f8a15eb608a7b3fe0ec15cf8"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0011_predictions.csv",
+      "bytes": 85431,
+      "sha256": "654e8cded0b238cfc4bfd2e6f6cdf8654783260943a69d18b59c425724ab8c3f"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0012_predictions.csv",
+      "bytes": 83718,
+      "sha256": "5a4f95a2e62f7fb1be200f50531ce6ac554706fd63bfec0327ef8fe7a9c12d84"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0013_predictions.csv",
+      "bytes": 79570,
+      "sha256": "bd915f25ac6b65a617a8e6415527ff854c63394761cb961cb502dfcde70e6116"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0014_predictions.csv",
+      "bytes": 84449,
+      "sha256": "e2c8095f2226c7c715ddeadd735050a1523a728ef1e57d8482fd521ae239dba7"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0015_predictions.csv",
+      "bytes": 90443,
+      "sha256": "3b570a786b41e11af44ab457085e272a1dcb86304185628278b2617d7136f29c"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0016_predictions.csv",
+      "bytes": 85426,
+      "sha256": "296bb8c50f1594f7fcf4995508fa4039928d3b0afcffc0a7eefb14892dc38c68"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0017_predictions.csv",
+      "bytes": 83802,
+      "sha256": "37440122f415868472ef9432b6aa1540eacaad90fcf2da5b5345839d2a1c5746"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0018_predictions.csv",
+      "bytes": 75326,
+      "sha256": "8e80cdb9373979f7fea559182907c60fc3e0c781d6a017ef6d565ea1c6707940"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0019_predictions.csv",
+      "bytes": 76597,
+      "sha256": "08d16e26f64fbdb5e0e96ebceae7c575e84cc86b560106a66132087fed6c32b4"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0020_predictions.csv",
+      "bytes": 77881,
+      "sha256": "9dce23468b25cca512d485fae9557ca4451a801e04dbc881d67a1ef58e6492b3"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0021_predictions.csv",
+      "bytes": 87563,
+      "sha256": "28239e174f8463a38218097fa9d043cbf6b717a1db200deb99ad2ff10bc2acd3"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0022_predictions.csv",
+      "bytes": 86969,
+      "sha256": "b93abb0b175cfd5966c37ec27d0c35b7239308df22b02e59914feb51c0cf2a12"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0023_predictions.csv",
+      "bytes": 52692,
+      "sha256": "420097f7d0933edb716c229d76da804e3475d37653f891c42dd3663ed698ad93"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/predictions.csv",
+      "bytes": 1846028,
+      "sha256": "ccc5479a3fd65b323263ff475e0591deac39aeaec44c9aadc80de00b201890df"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0001_predictions.csv",
+      "bytes": 81690,
+      "sha256": "432faa89e5d930e641da443b86d90ac9f1aecf8c73ebfc78734dedb71447ecf9"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0002_predictions.csv",
+      "bytes": 79973,
+      "sha256": "a255c49e038927ed5efc1a210689bac5563c4c711023c1b4e8cfa3fbed7928a0"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0003_predictions.csv",
+      "bytes": 78529,
+      "sha256": "bff6d66ca894542cb423d932c5eb580bd87e4a3e65fcaed73c2b289f254c79fb"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0004_predictions.csv",
+      "bytes": 80717,
+      "sha256": "dc63f0e9354a1287e12a09f01c0b6406098b1ad36a66092039b2c3d143763af5"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0005_predictions.csv",
+      "bytes": 77299,
+      "sha256": "4d3e86e113e90ac02f9544372e5af029982b53e710fbda1df47a3de1311a0e96"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0006_predictions.csv",
+      "bytes": 75980,
+      "sha256": "a48c4fc08b70270e329df20eebf4665c87fb3bf40d5c09489b82786b3f6b9fc2"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0007_predictions.csv",
+      "bytes": 79516,
+      "sha256": "89f2579420feb2427685301d8168457e032af8ca2054ae58360864fa3faf504b"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0008_predictions.csv",
+      "bytes": 82458,
+      "sha256": "ffed6e35570b6fbcfbbacd4b683ceaad8ed0a5f0f3e363df7c32200bfbc8d99b"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0009_predictions.csv",
+      "bytes": 85523,
+      "sha256": "7d377c88f772d5ec9a22447fb12d2cb93740e6973532c90a2a2362571a315bc9"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0010_predictions.csv",
+      "bytes": 82292,
+      "sha256": "8c676fcefe0d470e34aae094ceb9c3a6ce0f23f1d74b601540efe450cd16749e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0011_predictions.csv",
+      "bytes": 85372,
+      "sha256": "5ee92630d76232214cf25f1c1c10dd163941b20c62aa3f1cbf5dbbffb3379b9a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0012_predictions.csv",
+      "bytes": 84021,
+      "sha256": "f620191cd86808ad830ae1231056335d47a705104674168c1028efd7e0ced84b"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0013_predictions.csv",
+      "bytes": 80655,
+      "sha256": "4b709be072254372b2a76d3e4a8f7b3e55e751b3284311e3062830b3cbbfd741"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0014_predictions.csv",
+      "bytes": 84410,
+      "sha256": "fa8560fce655209639359c9fd0a034526ab9736e5cf21605cd180a086f2bf212"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0015_predictions.csv",
+      "bytes": 90293,
+      "sha256": "c4a3edc4c8f871db116e019e5622febd93ab9c53732984abb317c8384cd0e87a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0016_predictions.csv",
+      "bytes": 85027,
+      "sha256": "c4059366a1b60e67b90b947b2e1ddbc8b3af6bb6329cd58ef098620647eadc84"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0017_predictions.csv",
+      "bytes": 83791,
+      "sha256": "3c2111f5c3219bf42dc5e7aea47f7513f7047141909dcb88f312ba299ab33c3a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0018_predictions.csv",
+      "bytes": 76301,
+      "sha256": "a71ad9e293e5f8cdee0fa07d660c6471a6e6e926cf32a8388fec3486ca97671c"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0019_predictions.csv",
+      "bytes": 76577,
+      "sha256": "a82503b14c2b7a030bd9c0c21721009edb07c898ba5c2f702a98c4489d17f6d8"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0020_predictions.csv",
+      "bytes": 78222,
+      "sha256": "bc629fd97b251f37163a30c1abe94202fafb2e10437ea29f1e907501a54abf1b"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0021_predictions.csv",
+      "bytes": 87894,
+      "sha256": "038f9f8718e608b700c3be88f1ede64c321cc16de43bc8113da00753d4b71b62"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0022_predictions.csv",
+      "bytes": 87300,
+      "sha256": "f47f970207feca75e2948de4349f559c214e562cb0b291dcc4044466ae6aed6a"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0023_predictions.csv",
+      "bytes": 52946,
+      "sha256": "6c30f0eda742f30eb4fa57c6235a52c1764c168f296d88a7dd62ed676fd1d771"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/predictions.csv",
+      "bytes": 1851150,
+      "sha256": "049c55ef68aaf16954fed9b9825713a9bbc2c1b2a49e5cd197139ec42f8479ce"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0001_predictions.csv",
+      "bytes": 81830,
+      "sha256": "1a82f83829730070324370398aac892378f2a945257c3a60bc0d10c66954eec3"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0002_predictions.csv",
+      "bytes": 80112,
+      "sha256": "6b01253937b35c8f877711ce36a77869d4e2a3db1a3f74412917782f414f17f4"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0003_predictions.csv",
+      "bytes": 78669,
+      "sha256": "a0a303408ff9c5c1369d2d4bfadf3787f61ff54f479aaf08b0e394f995097618"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0004_predictions.csv",
+      "bytes": 81169,
+      "sha256": "13173a33835c30beadb29762accb883c66fbe9b5ac624add7a982a540971ea0f"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0005_predictions.csv",
+      "bytes": 77611,
+      "sha256": "bf72b96fccc04af099a2e88d38ba48acf2d6b273203adb79f27857b5d23a7514"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0006_predictions.csv",
+      "bytes": 76219,
+      "sha256": "80bb02678355916b9b7046c3df76da7dc84a32a54085d55fce463188318dc67f"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0007_predictions.csv",
+      "bytes": 79782,
+      "sha256": "6d740281e4cf4fa581361b27a8ec7a4aab0d47d81fbe0c1cde7ec554b3f1d5f5"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0008_predictions.csv",
+      "bytes": 82877,
+      "sha256": "ab410344cc5489651e8ab6acbf857b514d580571488b19a4e6dedf39bec83c15"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0009_predictions.csv",
+      "bytes": 85764,
+      "sha256": "b0e4762f58a45946cdb3fd55f8ae32faa220c2afc40c0787012a89649f657637"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0010_predictions.csv",
+      "bytes": 82684,
+      "sha256": "8fe8c5855c4f14043803daaaa29c47483404c140a51ebc089b3749028fdd6e3e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0011_predictions.csv",
+      "bytes": 85556,
+      "sha256": "15ab7720581d21f86843d4e7afbbffd00a22bed8b217446d4794e7475aa71d60"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0012_predictions.csv",
+      "bytes": 84307,
+      "sha256": "9199b28239643f299fef80183b19ecc0ff3ec0186bf2e094dde64d7a49675e6f"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0013_predictions.csv",
+      "bytes": 80868,
+      "sha256": "554e9d208bff0a69e127fef27ed15210991e85a2d159aa8295def9cccb0b6e32"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0014_predictions.csv",
+      "bytes": 84662,
+      "sha256": "9dd12428cb237fc6907bcc261df229153cfb2df32acbf671852e7f94d9ceb6b5"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0015_predictions.csv",
+      "bytes": 90565,
+      "sha256": "dab41e179cdbc82c862a868fa77f53f113b907bf4746c7d529391a111463acf0"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0016_predictions.csv",
+      "bytes": 85129,
+      "sha256": "e4a5b1788478c9e8e237ea4c2f4110ae5b830fe8cea2b1a8900462e899cb5e55"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0017_predictions.csv",
+      "bytes": 84025,
+      "sha256": "2c5645e55acad442d8b76f7f32bc2710d81fb29395e29d2d666342c458aa8eca"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0018_predictions.csv",
+      "bytes": 76351,
+      "sha256": "8a4ab701add2ed80dcab9c48df8587dc0e198546a482cf937137c48f0ea7f555"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0019_predictions.csv",
+      "bytes": 76675,
+      "sha256": "be059170fd529ad21df983d8ef584f2382b1b996fcd8eee7bd25ff4fbba59e1f"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0020_predictions.csv",
+      "bytes": 78387,
+      "sha256": "ad164c6f2769ec9ea08356229bdec79fea2ae9525bf8fe275a3bcb82e4021943"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0021_predictions.csv",
+      "bytes": 88320,
+      "sha256": "b4ffb9b4d70f1652110d1a5e87bf42d24b9bcc51da8785cff4a6e54678d5feb9"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0022_predictions.csv",
+      "bytes": 87660,
+      "sha256": "64a835485189ab1c9d281d12af5a3b08b24fefd62cffd6eb50774ef402fd0a72"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0023_predictions.csv",
+      "bytes": 53151,
+      "sha256": "f046d06391b7492ad1d76b7b8aaa3e119f616e5757510c01163d665e77903739"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/predictions.csv",
+      "bytes": 1856882,
+      "sha256": "233f45875179aeb319126482c22e286a6f57fac0529094c33e5318d1cd3d4580"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0001_predictions.csv",
+      "bytes": 81952,
+      "sha256": "9a42584361d9d51824a0c3a33af58a626366d5307d5a1579b4d716a7852d71b8"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0002_predictions.csv",
+      "bytes": 80236,
+      "sha256": "75187ba074deadc50b5adcd7939b08989ac5e6cfbaa31a5bd09206394de4022e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0003_predictions.csv",
+      "bytes": 78780,
+      "sha256": "ca8f11ff267b10ec9b5109b674a53517ffdabe1c180abdddd706e7f0ed5a1850"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0004_predictions.csv",
+      "bytes": 81030,
+      "sha256": "6716b929d70077ed21fffe6bc389a9d1a8c7fe9486daff4bcb9eb032a974828e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0005_predictions.csv",
+      "bytes": 77718,
+      "sha256": "ef482f5146d32e3a72d4373f3dc79772f9b9fda264b703a4318cc032493c8298"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0006_predictions.csv",
+      "bytes": 76119,
+      "sha256": "437003597c925140283a4f7fb44ffd0c1f008f9a127c645fd87f9c37d0820d84"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0007_predictions.csv",
+      "bytes": 79507,
+      "sha256": "425c33ec32aaf3e8926cd696af33144e770800c4bda1373655713e925a3222a5"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0008_predictions.csv",
+      "bytes": 82508,
+      "sha256": "a6c7537ac42a9bcfc75321b317ca5e15104cbd33b46097590d5267ba881db20f"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0009_predictions.csv",
+      "bytes": 86074,
+      "sha256": "b51d730b76983cc1cfe9e6df0342ac8601561299634d530075fc6304e246b929"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0010_predictions.csv",
+      "bytes": 82545,
+      "sha256": "a21d2b4ab144c95a6708803b0d0e65a83f12ffa8b05ec0450e6aadcb1e9f6283"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0011_predictions.csv",
+      "bytes": 85459,
+      "sha256": "c43837e9ed2793d74da2226e0af782e4bba75b5339580bc6636fda87bfaf86c0"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0012_predictions.csv",
+      "bytes": 84291,
+      "sha256": "61b864334fcef989db77881896b7a3f9b0951950fa295141e4f5b887bec5403e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0013_predictions.csv",
+      "bytes": 80736,
+      "sha256": "eed0bafbc81a0e786de3b05dd08ba2a5a62c6ca4b29fb3fdeb41bd658d2fecb3"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0014_predictions.csv",
+      "bytes": 84720,
+      "sha256": "fa343013f7b9b828ff9737b9efcbd8be9a8482552a466ae879b127b45ea8abc8"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0015_predictions.csv",
+      "bytes": 90691,
+      "sha256": "2cb9deff8d840fcaa6b70a67adc84eebfb39a298e1e1b95d64003faab7bd6d7c"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0016_predictions.csv",
+      "bytes": 85125,
+      "sha256": "2365842a9e621197dfadab2a1ceed94824661a3fcd8131ae5e3b17a3259bbbff"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0017_predictions.csv",
+      "bytes": 83954,
+      "sha256": "0403bfa078b6505ecfd58b7983fbde6fffe18014c6d6d86e40672fb8e05350a7"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0018_predictions.csv",
+      "bytes": 76326,
+      "sha256": "764030e25cfeb4c9782fabba50361b2872230956c0f88ae9adc22b6fbb06d82e"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0019_predictions.csv",
+      "bytes": 76622,
+      "sha256": "7a69a3de0a83f294e05b1ce31eac9d2853a5f44afdd3170cd68dfeb677810d01"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0020_predictions.csv",
+      "bytes": 78233,
+      "sha256": "c563757aa780b47a23a65b0b72cc157769d556a1ae82a2171fe4cf9b1a832b8d"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0021_predictions.csv",
+      "bytes": 88478,
+      "sha256": "8102f18235864facf5479242baffeff9587d3ec385d5451f1a6f47fa818aa2ac"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0022_predictions.csv",
+      "bytes": 87577,
+      "sha256": "90660205efcdd93284672a5993dd920f8015d8cc7e558e33a27dc66ec0d75156"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0023_predictions.csv",
+      "bytes": 53007,
+      "sha256": "5eff01979723bf97d10e23bc260f28644a2fb988413e212fc959b1213077ff24"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/predictions.csv",
+      "bytes": 1855559,
+      "sha256": "00ea912b3933402bfbe1ec055147a48fbdb97f45660b265bea148bcd5517b2dc"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_core_features_only/predictions/experiment_1_nssp_ablation_core_features_only_predictions.csv",
+      "bytes": 20883654,
+      "sha256": "bd172236130f87cbf3fcfcf74b14158fc06171c9161cf51fea32b545cc74a868"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_no_clustering/predictions/experiment_1_nssp_ablation_no_clustering_predictions.csv",
+      "bytes": 20871295,
+      "sha256": "a33f27f0643779a383d6d9e280e2291bb0c502ba6a9a15413809122dd0877354"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_primary/predictions/experiment_1_nssp_primary_predictions.csv",
+      "bytes": 20868066,
+      "sha256": "aca44db61ab7c3dca2293cb60821a3bad5b3ea570cfbe88dd74a6c8464762c29"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_2_ilinet_contemporary/predictions/experiment_2_ilinet_contemporary_predictions.csv",
+      "bytes": 528328,
+      "sha256": "670084e16107fbf2eb3df16540db351a3fd8ba766fd08221500deadf8a7152f7"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/predictions/experiment_3_ilinet_pandemic_stress_test_predictions.csv",
+      "bytes": 836044,
+      "sha256": "a8f8ebd0af9e58910695123d2c3929bcb48cb848241205ebf0a8649da251ad0b"
+    }
+  ]
+}

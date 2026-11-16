@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "name": "ILINet.csv",
+      "bytes": 608725,
+      "sha256": "e17266363730278be708ceb29894c6956c62a02c22a965ee1ba41ed8be1ce74d"
+    },
+    {
+      "name": "ILINet_2016_2021.csv",
+      "bytes": 839760,
+      "sha256": "3a6a71bd371c9877837647d882e426fef0e04ae5c4793f2bc7a71aea199248aa"
+    },
+    {
+      "name": "NSSP.csv",
+      "bytes": 128815854,
+      "sha256": "fb0650a4d436c1e5e06b248a3b12a5412ab4f9fd8849ed3d12b5b8db9e7cba85"
+    }
+  ]
+}

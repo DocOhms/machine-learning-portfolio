@@ -1,0 +1,8 @@
+Author-approved public portfolio project, prepared 16 November 2026.
+Original code: MIT. Manuscript, data, figures, and third-party materials: see
+TERMS_AND_ATTRIBUTION.md; no blanket MIT grant applies to those materials.
+All four notebook switches remain off. No cells or scientific experiments were run.
+The manuscript, model implementations, saved results, and heat maps are unchanged.
+The reference calculation ZIP is a separate release asset, not a Git-tracked file.
+See data/README.md for current release status and exact-data access limitations.
+Earlier audit reports retain their historical scope and date.

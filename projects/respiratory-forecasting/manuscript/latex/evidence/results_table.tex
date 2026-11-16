@@ -1,0 +1,22 @@
+\par\noindent\begin{minipage}{\textwidth}
+\captionof{table}{Same-Unit Final-Test Performance; Bold Indicates the Smallest MAE/RMSE or Largest $R^2$ Within Each Experiment}
+\label{tab:results}\centering\footnotesize
+\begin{tabular}{@{}lrrrrrrrrr@{}}
+\toprule
+&\multicolumn{3}{c}{NSSP HSA-weeks ($n=13,356$)}&\multicolumn{3}{c}{Contemporary ILINet ($n=1,774$)}&\multicolumn{3}{c}{Historical ILINet ($n=2,808$)}\\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}\cmidrule(l){8-10}
+Model & MAE & RMSE & $R^2$ & MAE & RMSE & $R^2$ & MAE & RMSE & $R^2$\\
+\midrule
+Hybrid &\textbf{0.6182}&0.9725&0.5986&\textbf{0.399}&0.716&0.890&\textbf{0.466}&\textbf{0.833}&\textbf{0.895}\\
+RF &0.6497&1.0225&0.5562&0.412&0.728&0.886&0.481&0.854&0.889\\
+GBR &0.6495&1.0337&0.5465&0.407&\textbf{0.715}&\textbf{0.891}&0.473&0.850&0.890\\
+MLP &0.6186&\textbf{0.9723}&\textbf{0.5987}&0.416&0.766&0.874&0.476&0.849&0.891\\
+ARIMA &0.7330&1.1231&0.4647&0.469&0.838&0.850&0.504&0.899&0.877\\
+Annual SARIMA &0.8307&1.2882&0.2957&0.424&0.739&0.883&0.490&0.851&0.890\\
+Persistence &0.6318&1.0914&0.4945&0.507&0.908&0.823&0.522&0.922&0.871\\
+Moving average (3) &0.7032&1.1149&0.4724&0.721&1.286&0.646&0.714&1.194&0.784\\
+Seasonal naive &0.9667&1.5395&-0.0059&1.029&1.686&0.391&1.033&1.648&0.588\\
+\bottomrule
+\end{tabular}
+\end{minipage}
+\par\smallskip

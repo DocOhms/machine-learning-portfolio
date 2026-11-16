@@ -1,0 +1,20 @@
+{
+  "Experiment": "exp1_nssp_full",
+  "Phase": "validation",
+  "Candidate": "SARIMA_100x011_52",
+  "Seasonal": true,
+  "N": 2040,
+  "RMSE": 1.8258504818675918,
+  "MAE": 1.0746492495576754,
+  "R2": 0.6539085544634344,
+  "Coverage": 1.0,
+  "Groups": 120,
+  "Converged_Groups": 0,
+  "Convergence_Rate": 0.0,
+  "Fit_Seconds": 299.1062108000042,
+  "Median_Group_Seconds": 2.482101399997191,
+  "P95_Group_Seconds": 2.712403935004841,
+  "Error_Groups": 0,
+  "Wall_Seconds_Current_Invocation": 300.2886459000001,
+  "Cohort_Audit": "{\"extra_reproduced_test_keys\": 0, \"feature_count\": 10, \"locked_test_rows\": 47534, \"locked_validation_rows\": 38488, \"reproduced_test_rows\": 47534, \"reproduced_validation_rows\": 38488, \"test_keys_missing_from_reproduction\": 0}"
+}

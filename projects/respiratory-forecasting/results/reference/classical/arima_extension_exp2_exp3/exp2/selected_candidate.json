@@ -1,0 +1,18 @@
+{
+  "name": "ARIMA_011",
+  "order": [
+    0,
+    1,
+    1
+  ],
+  "seasonal_order": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "trend": "n",
+  "seasonal": false,
+  "selection_rule": "lowest pooled chronological-validation RMSE, then MAE; coverage >= 0.95",
+  "final_test_used_for_selection": false
+}

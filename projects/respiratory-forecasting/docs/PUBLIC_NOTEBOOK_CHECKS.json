@@ -1,0 +1,79 @@
+{
+  "status": "Local publication-notebook preparation; not uploaded to GitHub",
+  "scope": "Saved-prediction arithmetic and display only; no model training, reference extraction, scientific test suite, or map generation",
+  "notebook": "notebooks/Calculation_Review.ipynb",
+  "notebook_cells": 18,
+  "review_code_cells_executed": 10,
+  "execution_counts_sequential": true,
+  "execution_errors": 0,
+  "execution_method": "Fresh Python 3.12.10 process with sequential IPython cell execution and ordered output capture; the separate Jupyter-kernel startup attempt did not complete and was stopped",
+  "switches": {
+    "RUN_PRIMARY": false,
+    "RUN_SENSITIVITY": false,
+    "RUN_EXISTING_TESTS": false,
+    "EXTRACT_REFERENCE": false
+  },
+  "final_status_checks_all_four_switches": true,
+  "code_sources_unchanged_by_execution": true,
+  "author_working_project_files_verified_unchanged": 481,
+  "author_notebook_sha256_unchanged": "35a475d1349ab6d664efda37d17f7060fbb8806d265638b75acc4861ce233ac8",
+  "public_notebook_sha256": "af594dc69a2cca525e17eabc1b637a65548119f65579ad227afb1b9e38b197c1",
+  "author_markdown_words": 4993,
+  "public_markdown_words": 2440,
+  "markdown_reduction_percent": 51.1,
+  "public_notebook_bytes": 3374388,
+  "upload_preparation_update": {
+    "date": "2026-11-16",
+    "previous_pre_autosave_sha256": "9ee5b1893e84bfb6b1f58adfcdf5f1ea9d577d23dfe043c76e8d0cc777f86145",
+    "reason": "Refresh the checksum after Jupyter saved JSON formatting and top-level language metadata; preserve the current author-visible notebook without reverting it.",
+    "all_18_cells_identical_to_pre_autosave_version": true,
+    "cell_sources_outputs_execution_counts_and_switches_unchanged": true,
+    "notebook_cells_executed_for_upload_preparation": 0,
+    "source_working_copy_modified_by_upload_preparation": false,
+    "execution_note": "The execution and presentation checks elsewhere in this report describe their recorded earlier preparation, not a new scientific run for GitHub packaging."
+  },
+  "wording_update": {
+    "date": "2026-11-16",
+    "first_use_definition": "Health Service Area (HSA)",
+    "changed_markdown_cell": 0,
+    "code_and_saved_outputs_unchanged": true,
+    "notebook_cells_executed_for_this_update": 0,
+    "execution_note": "Execution counts and presentation checks above and below describe the earlier publication-notebook preparation, not a new execution for this wording update."
+  },
+  "embedded_maps": 3,
+  "embedded_map_bytes_match_original_files": true,
+  "all_models_results_heat_maps_and_manuscript_files_byte_unchanged": true,
+  "public_files_changed": [
+    "notebooks/Calculation_Review.ipynb",
+    "README.md",
+    "supplement/README.md",
+    "PUBLIC_FILE_MANIFEST.json"
+  ],
+  "public_files_added": [
+    "docs/PUBLIC_NOTEBOOK_CHECKS.json"
+  ],
+  "checks_retained": [
+    "Reference ZIP checksum and accessed archive-member hashes",
+    "Selected feature arithmetic",
+    "Validation-derived ensemble weights and saved test forecast identities",
+    "N, SSE, SST, RMSE and R² under both NSSP scoring rules",
+    "All nine HSA-week model scores",
+    "Original model metrics and exact classical row/target alignment",
+    "All 157 geographic map summaries and Alabama/Texas examples",
+    "Archived classical configurations, equal-weight scores and geographic comparisons"
+  ],
+  "presentation_checks": {
+    "html_export_succeeded": true,
+    "html_tables": 14,
+    "embedded_images": 3,
+    "local_notebook_source_links_valid": true,
+    "full_source_dumps_removed": true,
+    "saved_output_errors": 0,
+    "visual_inspection": "Not completed: browser preview unavailable in this session. Structural HTML/output checks passed."
+  },
+  "limitations": [
+    "Not a clean full-training reproduction or confirmation of real-time data availability",
+    "Raw-snapshot access, reference release-asset URL, author-approved reuse terms and third-party notices remain pending",
+    "Historical audit files retain their original scope/date; this report does not retroactively expand those checks"
+  ]
+}

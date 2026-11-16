@@ -1,0 +1,77 @@
+[
+  {
+    "path": "source/ilinet_exp2_exp3_provider_lags_final_hybrid_comparison.csv",
+    "bytes": 773,
+    "sha256": "ae2e15e5e7e72e9b9fa7b9b03d03fd9dddca3d6ef64d4ad657d9413980eacb22"
+  },
+  {
+    "path": "source/nssp_locked_component_lags123_comparison_vs_lag1.csv",
+    "bytes": 454,
+    "sha256": "9f84518ae5d4812719e7a27071d10b5bca8eb7abf1be76cf21c5f2eaa573fd89"
+  },
+  {
+    "path": "source/nssp_rolling_component_lags_folds.csv",
+    "bytes": 266,
+    "sha256": "b7d126db63c4a3c16fdcba73e6de0c73f5e5eb5460c4eb07ea60e4621f2c3828"
+  },
+  {
+    "path": "source/nssp_rolling_component_lags_summary.csv",
+    "bytes": 976,
+    "sha256": "abde7b113b0763c04aef16fe69dea731085272f56a45b747d4a8047766216c9a"
+  },
+  {
+    "path": "repo/results/reference/classical/nssp_full/test/AR1/predictions.csv",
+    "bytes": 2298624,
+    "sha256": "ef5d5ca14eac355524d5e8c634e9c881475447c6ef7337842260a2da5435b0e2"
+  },
+  {
+    "path": "repo/results/reference/classical/nssp_full/test/SARIMA_100x100_52/predictions.csv",
+    "bytes": 2297768,
+    "sha256": "debe9b20540c488a69e2a5f11598fc208f3a98ca788eaa05d3e5e5cb39a59707"
+  },
+  {
+    "path": "repo/results/reference/hybrid/experiment_1_nssp_primary/metrics/experiment_1_nssp_primary_ensemble_weights.csv",
+    "bytes": 178,
+    "sha256": "c79dde106f6e2dc2c5d175e14a7540b1b7dd75e3f23a7872653b54709a5b3e95"
+  },
+  {
+    "path": "repo/results/reference/hybrid/experiment_1_nssp_primary/metrics/experiment_1_nssp_primary_metrics.csv",
+    "bytes": 979,
+    "sha256": "98d3f48cb04bc18ed92645dc38a1ab80e27a7e5f5658a185184d577a16e4078d"
+  },
+  {
+    "path": "repo/results/reference/hybrid/experiment_1_nssp_primary/predictions/experiment_1_nssp_primary_predictions.csv",
+    "bytes": 20868066,
+    "sha256": "aca44db61ab7c3dca2293cb60821a3bad5b3ea570cfbe88dd74a6c8464762c29"
+  },
+  {
+    "path": "repo/results/reference/hybrid/experiment_2_ilinet_contemporary/metrics/experiment_2_ilinet_contemporary_ensemble_weights.csv",
+    "bytes": 183,
+    "sha256": "d7e57e05c9c9370eec12870d5d933a00931d6b8bf140c9ee8fd996aad591e11a"
+  },
+  {
+    "path": "repo/results/reference/hybrid/experiment_2_ilinet_contemporary/metrics/experiment_2_ilinet_contemporary_metrics.csv",
+    "bytes": 980,
+    "sha256": "1bcaac112aafece0d519188b5893bc5021cd1e660a5a8c1b53a546b5fcea05af"
+  },
+  {
+    "path": "repo/results/reference/hybrid/experiment_2_ilinet_contemporary/predictions/experiment_2_ilinet_contemporary_predictions.csv",
+    "bytes": 528328,
+    "sha256": "670084e16107fbf2eb3df16540db351a3fd8ba766fd08221500deadf8a7152f7"
+  },
+  {
+    "path": "repo/results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_ensemble_weights.csv",
+    "bytes": 182,
+    "sha256": "f4fa94d8e85816fb84d60fa0edf2da034a38d81ce2e46fe1472edad961ce39e2"
+  },
+  {
+    "path": "repo/results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_metrics.csv",
+    "bytes": 983,
+    "sha256": "27514b0dab6cd7cad69da072266678de1b0848cc354ba5f82534ad58cb7a52eb"
+  },
+  {
+    "path": "repo/results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/predictions/experiment_3_ilinet_pandemic_stress_test_predictions.csv",
+    "bytes": 836044,
+    "sha256": "a8f8ebd0af9e58910695123d2c3929bcb48cb848241205ebf0a8649da251ad0b"
+  }
+]

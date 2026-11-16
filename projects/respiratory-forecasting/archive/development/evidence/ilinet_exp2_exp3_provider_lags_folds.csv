@@ -1,0 +1,7 @@
+Experiment,Fold,Train_Start,Train_End,Validation_Start,Validation_End,Train_Weeks,Validation_Weeks,Train_Rows,Validation_Rows
+Experiment_2_Contemporary,1,202243,202452,202501,202510,114,10,6156,540
+Experiment_2_Contemporary,2,202243,202510,202511,202520,124,10,6696,540
+Experiment_2_Contemporary,3,202243,202520,202521,202530,134,10,7236,540
+Experiment_3_Pandemic,1,201643,201909,201910,201919,123,10,6642,540
+Experiment_3_Pandemic,2,201643,201919,201920,201929,133,10,7182,540
+Experiment_3_Pandemic,3,201643,201929,201930,201939,143,10,7722,540

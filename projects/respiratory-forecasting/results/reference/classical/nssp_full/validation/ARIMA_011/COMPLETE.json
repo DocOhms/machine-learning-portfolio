@@ -1,0 +1,20 @@
+{
+  "Experiment": "exp1_nssp_full",
+  "Phase": "validation",
+  "Candidate": "ARIMA_011",
+  "Seasonal": false,
+  "N": 38488,
+  "RMSE": 1.8439584201288308,
+  "MAE": 1.1209102354474376,
+  "R2": 0.668130822995449,
+  "Coverage": 1.0,
+  "Groups": 2264,
+  "Converged_Groups": 2264,
+  "Convergence_Rate": 1.0,
+  "Fit_Seconds": 13.820972100176618,
+  "Median_Group_Seconds": 0.00590104999719185,
+  "P95_Group_Seconds": 0.007568244999128999,
+  "Error_Groups": 0,
+  "Wall_Seconds_Current_Invocation": 18.464449000006425,
+  "Cohort_Audit": "{\"extra_reproduced_test_keys\": 0, \"feature_count\": 10, \"locked_test_rows\": 47534, \"locked_validation_rows\": 38488, \"reproduced_test_rows\": 47534, \"reproduced_validation_rows\": 38488, \"test_keys_missing_from_reproduction\": 0}"
+}

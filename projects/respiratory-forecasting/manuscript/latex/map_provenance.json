@@ -1,0 +1,69 @@
+{
+  "Geometry_URL": "https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json",
+  "Geometry_SHA256": "6e7bb086a3c791490361968a3094f377f7726c5d0c4900fec03cc42db2305a3d",
+  "Geometry_Description": "Census-derived US Atlas 3 preprojected Albers USA state geometry; Alaska/Hawaii inset transform",
+  "Experiments": [
+    {
+      "Experiment": "experiment_1_nssp_primary",
+      "Input": "<PROJECT_ROOT>\\results\\reference\\hybrid\\experiment_1_nssp_primary\\predictions\\experiment_1_nssp_primary_predictions.csv",
+      "SHA256": "aca44db61ab7c3dca2293cb60821a3bad5b3ea570cfbe88dd74a6c8464762c29",
+      "Test_Rows": 47534,
+      "Test_Weeks": 21,
+      "Mapped_Units": 48,
+      "Unmapped_Units": [
+        "United States"
+      ],
+      "Missing_Map_States": [
+        "Missouri",
+        "New Hampshire",
+        "South Dakota"
+      ],
+      "Mapped_Minimum": 0.8752548816413426,
+      "Mapped_Maximum": 3.5081002337179235,
+      "Scale": [
+        0,
+        4.0
+      ]
+    },
+    {
+      "Experiment": "experiment_2_ilinet_contemporary",
+      "Input": "<PROJECT_ROOT>\\results\\reference\\hybrid\\experiment_2_ilinet_contemporary\\predictions\\experiment_2_ilinet_contemporary_predictions.csv",
+      "SHA256": "670084e16107fbf2eb3df16540db351a3fd8ba766fd08221500deadf8a7152f7",
+      "Test_Rows": 1774,
+      "Test_Weeks": 37,
+      "Mapped_Units": 51,
+      "Unmapped_Units": [
+        "New York City",
+        "Puerto Rico",
+        "Virgin Islands"
+      ],
+      "Missing_Map_States": [],
+      "Mapped_Minimum": 0.6210792314744167,
+      "Mapped_Maximum": 4.49803015291849,
+      "Scale": [
+        0,
+        6.0
+      ]
+    },
+    {
+      "Experiment": "experiment_3_ilinet_pandemic_stress_test",
+      "Input": "<PROJECT_ROOT>\\results\\reference\\hybrid\\experiment_3_ilinet_pandemic_stress_test\\predictions\\experiment_3_ilinet_pandemic_stress_test_predictions.csv",
+      "SHA256": "a8f8ebd0af9e58910695123d2c3929bcb48cb848241205ebf0a8649da251ad0b",
+      "Test_Rows": 2808,
+      "Test_Weeks": 52,
+      "Mapped_Units": 51,
+      "Unmapped_Units": [
+        "New York City",
+        "Puerto Rico",
+        "Virgin Islands"
+      ],
+      "Missing_Map_States": [],
+      "Mapped_Minimum": 0.9326989832330123,
+      "Mapped_Maximum": 5.668834812024287,
+      "Scale": [
+        0,
+        6.0
+      ]
+    }
+  ]
+}

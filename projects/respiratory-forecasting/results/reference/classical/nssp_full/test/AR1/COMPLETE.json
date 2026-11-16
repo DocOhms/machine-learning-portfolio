@@ -1,0 +1,21 @@
+{
+  "Experiment": "exp1_nssp_full",
+  "Phase": "test",
+  "Candidate": "AR1",
+  "Seasonal": false,
+  "N": 47534,
+  "RMSE": 0.910801919386792,
+  "MAE": 0.5889535737186083,
+  "R2": 0.5776034121983288,
+  "Coverage": 1.0,
+  "Groups": 2264,
+  "Converged_Groups": 2248,
+  "Convergence_Rate": 0.9929328621908127,
+  "Fit_Seconds": 27.890082200275973,
+  "Median_Group_Seconds": 0.0122003500000573,
+  "P95_Group_Seconds": 0.015100039992103114,
+  "Error_Groups": 0,
+  "Wall_Seconds_Current_Invocation": 32.5425336999906,
+  "Maxiter": 75,
+  "Cohort_Audit": "{\"extra_reproduced_test_keys\": 0, \"feature_count\": 10, \"locked_test_rows\": 47534, \"locked_validation_rows\": 38488, \"reproduced_test_rows\": 47534, \"reproduced_validation_rows\": 38488, \"test_keys_missing_from_reproduction\": 0}"
+}

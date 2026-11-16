@@ -1,0 +1,19 @@
+{
+  "primary_records": 47534,
+  "primary_geography_county_keys": 2264,
+  "hsa_source_records": 46515,
+  "hsa_county_keys": 2215,
+  "unique_hsa_ids": 636,
+  "unique_hsa_weeks": 13356,
+  "all_aggregate_records": 1019,
+  "all_aggregate_keys": 49,
+  "hsa_weeks_with_repeated_records": 11235,
+  "records_in_repeated_hsa_weeks": 44394,
+  "hsa_weeks_with_target_disagreement": 0,
+  "hsa_weeks_with_hybrid_prediction_spread_above_1e_12": 0,
+  "test_epi_start": 202419,
+  "test_epi_end": 202439,
+  "training_performed": false,
+  "primary_results_replaced": false,
+  "inference": "Descriptive sensitivities; no independent-sample or significance claim."
+}

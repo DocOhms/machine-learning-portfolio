@@ -1,0 +1,2 @@
+Configuration,Selection_Basis,Modeling_Rows,Fit_Rows,Validation_Rows,Train_Rows,Test_Rows,Validation_Cutoff,Test_Cutoff,Raw_Feature_Count,Final_Feature_Count,Requested_Clusters,Effective_Clusters,Elapsed_Minutes
+Components_Lag1_2_3,Lowest mean RMSE across three rolling-origin validation windows,230918,144896,38488,183384,47534,202402,202419,16,20,4,4,17.7465753475825

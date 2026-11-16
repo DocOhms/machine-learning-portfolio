@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-16",
+  "status": "Separate local upload-ready copy; no GitHub upload or public release performed",
+  "scope": "Packaging, static notebook inspection, archive integrity, file hashes, and isolated Git checks only",
+  "notebook": "notebooks/Calculation_Review.ipynb",
+  "notebook_sha256": "af594dc69a2cca525e17eabc1b637a65548119f65579ad227afb1b9e38b197c1",
+  "notebook_bytes": 3374388,
+  "notebook_cells": 18,
+  "notebook_copied_byte_for_byte_from_current_publication_review": true,
+  "all_cells_identical_to_pre_autosave_version": true,
+  "first_hsa_use_defined_as": "Health Service Area (HSA)",
+  "switches": {
+    "RUN_PRIMARY": false,
+    "RUN_SENSITIVITY": false,
+    "RUN_EXISTING_TESTS": false,
+    "EXTRACT_REFERENCE": false
+  },
+  "notebook_cells_executed_for_upload_preparation": 0,
+  "model_training_runs": 0,
+  "scientific_test_runs": 0,
+  "map_generation_runs": 0,
+  "saved_output_errors": 0,
+  "saved_embedded_maps_matching_original_png_bytes": 3,
+  "release_archive": {
+    "filename": "reference_calculations.zip",
+    "bundled_separately_from_git_repository": true,
+    "intended_reader_location": "data/reference_calculations.zip",
+    "bytes": 18014420,
+    "sha256": "2cca184052103a473c8beefe2ba1a4b3d4d6c90591edfde4f25bdcf040120c6a",
+    "matches_source_archive": true,
+    "member_hashes_verified": 202,
+    "zip_integrity_check_passed": true,
+    "public_download_url": null
+  },
+  "line_ending_protection": {
+    "file": ".gitattributes",
+    "rule": "* -text",
+    "git_attribute_check": "text unset for notebook, map PNG, and numeric reference CSV",
+    "isolated_git_staging_check": "All intended candidate files included; reference ZIP, checkpoints, environment, and runtime examples ignored",
+    "git_remote_configured": false,
+    "commit_or_push_performed": false
+  },
+  "excluded_from_repository": [
+    "Detailed author working notebooks and sibling working/checkpoint folders",
+    "Jupyter checkpoints, runtime/authentication files, environments, logs, and caches",
+    "Raw surveillance snapshots",
+    "reference_calculations.zip (separate release asset)"
+  ],
+  "privacy_check": "No credential-like tokens or workstation paths detected in scanned source/docs/CSV text, notebook source/text outputs, or the 202 reference-archive members; this is a scoped scan, not a guarantee of all third-party permissions.",
+  "existing_file_changes_allowed": [
+    "README.md",
+    "REVIEW_STATUS.txt",
+    "data/README.md",
+    "supplement/README.md",
+    "docs/PUBLIC_NOTEBOOK_CHECKS.json",
+    "PUBLIC_FILE_MANIFEST.json"
+  ],
+  "new_repository_files": [
+    ".gitattributes",
+    "docs/UPLOAD_PREPARATION_CHECKS.json"
+  ],
+  "scientific_preservation": "The notebook, model implementations, source evidence, result tables, manuscript PDFs/LaTeX, and heat maps are copied without changes. Only upload documentation/checksum records and line-ending protection are changed or added.",
+  "checks_not_claimed": [
+    "A fresh model-training reproduction",
+    "Execution of the notebook in the new repository",
+    "Live GitHub upload or rendering verification",
+    "Completion of licensing or third-party distribution approval"
+  ],
+  "pending_before_public_release": [
+    "Final author approval and code license",
+    "Separate data and third-party distribution terms",
+    "Durable exact-raw-snapshot access route",
+    "Actual repository/release download URLs and publication-status wording",
+    "Final proceedings citation when available"
+  ],
+  "historical_checks": "Earlier audit reports retain their original dates and scopes. Saved execution counts do not imply cells were executed during this packaging step."
+}

@@ -1,0 +1,2 @@
+Experiment,Dataset_Type,Split_Mode,Split_Description,Test_Cutoff,Validation_Cutoff,Requested_N_Clusters,Validation_Effective_N_Clusters,Final_Effective_N_Clusters,Use_Clustering,Validation_Train_Silhouette,Full_Train_Silhouette,Fit_Rows,Validation_Rows,Train_Rows,Test_Rows,Feature_Count,Cohort_Feature_Count
+experiment_3_ilinet_pandemic_stress_test,ilinet,explicit_epi,"{'train_start': 201640, 'train_end': 201939, 'test_start': 201940, 'test_end': 202039}",201940,201909,4,4,4,True,0.2775148363059481,0.2691872385650502,6588,1674,8262,2808,12,8

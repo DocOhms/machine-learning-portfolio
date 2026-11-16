@@ -1,0 +1,27 @@
+\par\noindent\begin{minipage}{\columnwidth}
+\centering\textbf{Algorithm 1: Proposed Hybrid Spatiotemporal Forecasting Framework}\par\smallskip
+\centering\footnotesize
+\begin{tabularx}{\columnwidth}{@{}lX@{}}
+\toprule
+\multicolumn{2}{l}{\textbf{Inputs}}\\
+I. & NSSP and contemporary/historical ILINet surveillance panels.\\
+II. & Target-history and lagged auxiliary features; cluster indicators.\\
+\midrule
+\multicolumn{2}{l}{\textbf{Procedure}}\\
+III. & Load data; harmonize types and source-week identifiers.\\
+IV. & Order each series; identify missing or invalid source values.\\
+V. & Define whole-week fit, validation, and final-test boundaries.\\
+VI. & Build target lags, rolling summaries, annual phase, and lag-1 auxiliary inputs. Exclude rows missing target/required features; apply week partitions; fit scaling on the fit segment.\\
+VII. & Fit K-means on that segment; append one-hot assignments.\\
+VIII. & Fit RF, GBR, and MLP; predict the later validation segment.\\
+IX. & Calculate (\ref{eq:weights}); freeze weights and classical orders; refit on all pre-test rows; combine with (\ref{eq:hybrid}).\\
+X. & Score all methods on matched units: HSA-weeks for primary NSSP, reporting rows for ILINet. Retain NSSP record-weighted comparisons.\\
+XI. & Summarize temporal errors and descriptive state maps.\\
+XII. & Repeat independently for each surveillance experiment.\\
+\midrule
+\multicolumn{2}{l}{\textbf{Outputs}}\\
+XIII. & One-week forecasts, metrics, ablations/sensitivities, and test-period geographic summaries.\\
+\bottomrule
+\end{tabularx}
+\end{minipage}
+\par\smallskip

@@ -1,0 +1,2 @@
+Experiment,Candidate,Seasonal,N,RMSE,MAE,R2,Coverage,Groups,Converged_Groups,Convergence_Rate,Fit_Seconds,Median_Group_Seconds,P95_Group_Seconds,Error_Groups,Selected_On
+exp3,SARIMA_200x100_52,True,2808,0.851388188929322,0.49013833336109036,0.8899707688055688,1.0,54,53,0.9814814814814815,28.995105200025137,0.5083259999955771,0.7300178199984655,0,chronological_validation_RMSE

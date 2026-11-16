@@ -1,0 +1,4 @@
+Source,Test_records,Geography_county_keys,HSA_identifiers,Epidemiological_weeks,Min_records_per_key,Max_records_per_key
+HSA,46515,2215,636,21,21,21
+State,998,48,0,21,11,21
+United States,21,1,0,21,21,21

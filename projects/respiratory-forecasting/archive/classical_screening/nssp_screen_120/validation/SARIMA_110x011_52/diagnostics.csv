@@ -1,0 +1,121 @@
+geography,county,converged,error,fit_seconds,train_n,warnings,aic
+Illinois,All,False,,2.396954199997708,67,81,6.0
+Washington,All,False,,2.518757799989544,67,81,6.0
+Wisconsin,All,False,,2.555867400005809,67,81,6.0
+Virginia,All,False,,2.5166379000002053,67,81,6.0
+Kentucky,All,False,,2.612788800004637,67,81,6.0
+Nevada,All,False,,2.5792589000047883,67,81,6.0
+Nebraska,All,False,,2.538632099996903,67,81,6.0
+Montana,All,False,,2.5205572999984724,67,81,6.0
+North Carolina,All,False,,2.5656574000022374,67,81,6.0
+Maine,All,False,,2.535730900010094,67,81,6.0
+Texas,Orange,False,,2.583012700008112,67,81,6.0
+Louisiana,East Baton Rouge,False,,2.5348014000046533,67,81,6.0
+New York,Livingston,False,,2.4831545000051847,67,81,6.0
+Georgia,Baker,False,,2.555035500001395,67,81,6.0
+Georgia,Coweta,False,,2.534494299994549,67,81,6.0
+Massachusetts,Norfolk,False,,2.5977015999960718,67,81,6.0
+Idaho,Idaho,False,,2.4909069999994244,67,81,6.0
+Georgia,Candler,False,,2.5156428999907803,67,81,6.0
+Louisiana,Calcasieu,False,,2.6072611000126926,67,81,6.0
+Virginia,Mathews,False,,2.4522442999877967,67,81,6.0
+Tennessee,Williamson,False,,2.463652200007345,67,81,6.0
+North Carolina,Dare,False,,2.5946648999961326,67,81,6.0
+Iowa,Iowa,False,,2.540764699995634,67,81,6.0
+Georgia,Screven,False,,2.520835000002989,67,81,6.0
+North Carolina,Durham,False,,2.494489199991221,67,81,6.0
+Kansas,Saline,False,,2.563371099997312,67,81,6.0
+Georgia,Jenkins,False,,2.5704365000128746,67,81,6.0
+Nevada,Lincoln,False,,2.568381199991564,67,81,6.0
+Georgia,Tift,False,,2.488170299999183,67,81,6.0
+Kentucky,Anderson,False,,2.5085214999999152,67,81,6.0
+Texas,Austin,False,,2.541040500000236,67,81,6.0
+Kentucky,Owen,False,,2.866107199995895,67,81,6.0
+Maryland,Baltimore City,False,,2.517545800001244,67,81,6.0
+Virginia,New Kent,False,,2.707235699999728,67,81,6.0
+Idaho,Bannock,False,,2.5375926999986405,67,81,6.0
+Iowa,Scott,False,,2.4604475000087405,67,81,6.0
+Kentucky,Green,False,,2.4781779999902938,67,81,6.0
+Idaho,Owyhee,False,,2.4508939999941504,67,81,6.0
+Utah,Uintah,False,,2.42321439999796,67,81,6.0
+Louisiana,Rapides,False,,2.4788851000048453,67,81,6.0
+Mississippi,Covington,False,,2.481955900002504,67,81,6.0
+Georgia,Newton,False,,2.465200700011337,67,81,6.0
+Texas,Wise,False,,2.5170656999980565,67,81,6.0
+Virginia,Prince William,False,,2.4773677999910437,67,81,6.0
+Georgia,Lumpkin,False,,2.561303800001042,67,81,6.0
+New York,Yates,False,,2.747641000009025,67,81,6.0
+Wisconsin,Buffalo,False,,2.557052999996813,67,81,6.0
+Nebraska,Hitchcock,False,,2.5081686999910744,67,81,6.0
+Kentucky,Boyd,False,,2.490119699999923,67,81,6.0
+Louisiana,Plaquemines,False,,2.5181900000025053,67,81,6.0
+Texas,Ellis,False,,2.4829313999944134,67,81,6.0
+West Virginia,Fayette,False,,2.4678146000078414,67,81,6.0
+Tennessee,Macon,False,,2.490376899993862,67,81,6.0
+Vermont,Grand Isle,False,,2.5467803000065032,67,81,6.0
+Nebraska,McPherson,False,,2.509446800002479,67,81,6.0
+Louisiana,Tensas,False,,2.49362100000144,67,81,6.0
+Louisiana,Bossier,False,,2.4959286999946926,67,81,6.0
+Utah,Davis,False,,2.9177078000066103,67,81,6.0
+West Virginia,Taylor,False,,2.480276399990544,67,81,6.0
+Virginia,Alexandria City,False,,2.490366600002744,67,81,6.0
+Maine,Hancock,False,,2.505407700009528,67,81,6.0
+Illinois,Effingham,False,,2.998676100003649,67,81,6.0
+Texas,Wharton,False,,2.687000100006117,67,81,6.0
+Virginia,Petersburg City,False,,2.8683625000121538,67,81,6.0
+Mississippi,Leake,False,,2.7484180000028573,67,81,6.0
+Texas,Dickens,False,,2.647104199990281,67,81,6.0
+New York,Greene,False,,2.8070675999915693,67,81,6.0
+Texas,Garza,False,,2.5025494000001345,67,81,6.0
+Wisconsin,Jefferson,False,,2.6454490999894915,67,81,6.0
+Colorado,Pitkin,False,,2.471901600001729,67,81,6.0
+Utah,Sevier,False,,2.448708000010811,67,81,6.0
+Virginia,Loudoun,False,,2.423701899999287,67,81,6.0
+Louisiana,Acadia,False,,2.493872599996393,67,81,6.0
+Louisiana,Winn,False,,2.516465499997139,67,81,6.0
+Virginia,Tazewell,False,,2.5044858000037493,67,81,6.0
+New York,Columbia,False,,2.508247999998275,67,81,6.0
+Montana,Teton,False,,2.4869488999975147,67,81,6.0
+Minnesota,Nicollet,False,,2.5247360999928787,67,81,6.0
+Tennessee,Lewis,False,,2.553123899997445,67,81,6.0
+Kentucky,Bell,False,,2.536343100000522,67,81,6.0
+New York,Essex,False,,2.656305500000599,67,81,6.0
+Mississippi,Tunica,False,,2.5241884000133723,67,81,6.0
+Virginia,Amherst,False,,2.469007600011537,67,81,6.0
+Indiana,Marshall,False,,2.5280286000052,67,81,6.0
+Louisiana,Terrebonne,False,,2.4433181999920635,67,81,6.0
+Kansas,Logan,False,,2.502568900003098,67,81,6.0
+Indiana,Rush,False,,2.486638300004415,67,81,6.0
+West Virginia,Wirt,False,,2.484334199994919,67,81,6.0
+Montana,Valley,False,,2.5000148999970406,67,81,6.0
+Indiana,Sullivan,False,,2.527088400005596,67,81,6.0
+Kansas,Trego,False,,2.535385799987125,67,81,6.0
+New York,Franklin,False,,2.454756599996472,67,81,6.0
+Virginia,Rockbridge,False,,2.649859800003469,67,81,6.0
+Iowa,Carroll,False,,2.511001899998518,67,81,6.0
+Wisconsin,Manitowoc,False,,2.4868319000088377,67,81,6.0
+Illinois,Henry,False,,2.5100193999969638,67,81,6.0
+Michigan,Hillsdale,False,,2.5286883000080707,67,81,6.0
+Minnesota,Lincoln,False,,2.4739723000093363,67,81,6.0
+Kentucky,Shelby,False,,2.531047299999045,67,81,6.0
+Kentucky,Rowan,False,,2.878751600001124,67,81,6.0
+Indiana,Switzerland,False,,2.5662391999940155,67,81,6.0
+Kansas,Meade,False,,2.5902061000088,67,81,6.0
+Iowa,Worth,False,,2.5797958000039216,67,81,6.0
+Tennessee,Bedford,False,,2.628492700008792,67,81,6.0
+Virginia,Smyth,False,,2.536373900002218,67,81,6.0
+Minnesota,Faribault,False,,2.545743399998173,67,81,6.0
+Texas,Parmer,False,,2.463652300008107,67,81,6.0
+North Carolina,Rockingham,False,,2.5680779999966035,67,81,6.0
+Kentucky,Metcalfe,False,,2.54347200000484,67,81,6.0
+West Virginia,McDowell,False,,2.530136900008074,67,81,6.0
+West Virginia,Upshur,False,,2.5793330000014976,67,81,6.0
+North Carolina,Bertie,False,,2.497167299996363,67,81,6.0
+Indiana,Wells,False,,2.5050096999912057,67,81,6.0
+Minnesota,Todd,False,,2.4788418999960413,67,81,6.0
+Kentucky,Morgan,False,,2.254978200013284,67,81,6.0
+Kansas,Crawford,False,,2.2518064999894705,67,81,6.0
+North Carolina,Gaston,False,,2.1999737000005557,67,81,6.0
+Kansas,Wallace,False,,2.208164399999077,67,81,6.0
+Illinois,Jo Daviess,False,,2.1250088000088,67,81,6.0
+Nebraska,Holt,False,,2.0778169999975944,67,81,6.0

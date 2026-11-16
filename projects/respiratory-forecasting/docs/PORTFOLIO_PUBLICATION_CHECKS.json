@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-16",
+  "phase": "Pre-publication verification of the author-approved portfolio integration",
+  "repository": "https://github.com/DocOhms/machine-learning-portfolio",
+  "project_path": "projects/respiratory-forecasting",
+  "base_portfolio_commit": "315a703349387f41906e48d4b79f141b6c94b63c",
+  "author_approval": "Public project publication; MIT for original code; separate terms for manuscript, data, and third-party materials; broader portfolio README",
+  "notebook_sha256": "af594dc69a2cca525e17eabc1b637a65548119f65579ad227afb1b9e38b197c1",
+  "scientific_support_files_byte_identical_to_prepared_package": 448,
+  "saved_embedded_maps_matching_original_png_bytes": 3,
+  "notebook_copied_without_changes": true,
+  "switches": {
+    "RUN_PRIMARY": false,
+    "RUN_SENSITIVITY": false,
+    "RUN_EXISTING_TESTS": false,
+    "EXTRACT_REFERENCE": false
+  },
+  "notebook_cells_executed": 0,
+  "model_training_runs": 0,
+  "new_experiments": 0,
+  "map_generation_runs": 0,
+  "existing_traffic_project_and_root_mit_license_unchanged": true,
+  "root_readme_update": "Broadened to ML coursework, research, and independent projects; fixed the traffic-project link and added the respiratory project",
+  "original_code_license": "MIT",
+  "non_code_terms": "TERMS_AND_ATTRIBUTION.md; manuscript, data, saved outputs, figures, and third-party materials excluded from the blanket MIT grant",
+  "third_party_notice_added": "third_party/us-atlas-LICENSE.txt",
+  "raw_surveillance_snapshots_included": false,
+  "detailed_author_notebooks_or_runtime_files_included": false,
+  "reference_archive_sha256": "2cca184052103a473c8beefe2ba1a4b3d4d6c90591edfde4f25bdcf040120c6a",
+  "line_ending_rule": "* -text",
+  "historical_records": "Earlier audits and notebook/manuscript text retain their original scope and dates. Current access information is maintained in the project README and data/README.md.",
+  "limits": [
+    "This is a publication/preservation check, not a fresh training reproduction",
+    "Exact raw-data access and final proceedings citation remain unresolved",
+    "No blanket redistribution license for third-party material or excluded manuscript/data assets is claimed"
+  ]
+}

@@ -1,0 +1,2 @@
+Modeling_Rows,Fit_Rows_For_K_Sensitivity,Validation_Rows_Excluded_From_K_Sensitivity,Full_Pretest_Rows_For_Final_Profiles,Final_Test_Rows_Excluded,Validation_Cutoff,Test_Cutoff,Configured_K,Configured_K_Fit_Silhouette,Elbow_Selected_K,Final_Pretest_Silhouette
+230918,144896,38488,183384,47534,202402,202419,4,0.3078143116018393,4,0.3028214530882267

@@ -1,0 +1,36 @@
+# Local Python/Jupyter environments and potentially sensitive runtime state
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter*/
+.ipython/
+*.log
+*.env
+.env*
+*server*.json
+*runtime*.json
+
+# Data/release assets are versioned separately; preserve manifests in Git
+data/raw/*
+archive/development/legacy_project/data/raw/
+!data/raw/.gitkeep
+data/reference_calculations.zip
+
+# Never replace archived/reference evidence with new runs
+results/*
+!results/reference/
+results/reference/**/predictions/
+results/reference/**/predictions.csv
+results/reference/**/final_test_predictions.csv
+results/reference/**/validation_predictions.csv
+
+# Local build products
+*.aux
+*.out
+*.toc
+node_modules/
+review_outputs/
+AUTHOR_WORKSPACE.json
+SETUP_STATUS*.json

@@ -1,0 +1,16 @@
+\begin{equation}
+\min_{\{\mu_k\},\{c_i\}}\sum_{i\in\mathcal F}\|\mathbf z_i-\mu_{c_i}\|^2,
+\qquad \tilde{\mathbf x}_i=[\mathbf z_i,\mathbf h(c_i)],
+\label{eq:k}
+\end{equation}
+\begin{equation}
+E_j=\frac{1}{|\mathcal V|}\sum_{i\in\mathcal V}(y_i-\hat y_{j,i})^2.
+\end{equation}
+\begin{equation}
+w_j=\frac{1/\max(E_j,10^{-12})}{\sum_l1/\max(E_l,10^{-12})}.
+\label{eq:weights}
+\end{equation}
+\begin{equation}
+\hat y_i=\sum_jw_jf_j(\tilde{\mathbf x}_i),\qquad \sum_jw_j=1.
+\label{eq:hybrid}
+\end{equation}

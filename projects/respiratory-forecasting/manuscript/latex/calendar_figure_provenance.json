@@ -1,0 +1,16 @@
+{
+  "source": "<PROJECT_ROOT>\\results\\reference\\hybrid\\experiment_3_ilinet_pandemic_stress_test\\predictions\\experiment_3_ilinet_pandemic_stress_test_predictions.csv",
+  "sha256": "a8f8ebd0af9e58910695123d2c3929bcb48cb848241205ebf0a8649da251ad0b",
+  "records": 2808,
+  "weeks": 52,
+  "observed_peak": {
+    "YEAR": 2019.0,
+    "WEEK": 52.0,
+    "%UNWEIGHTED ILI": 6.448975185185185
+  },
+  "predicted_peak": {
+    "YEAR": 2020.0,
+    "WEEK": 1.0,
+    "Hybrid_InvMSE": 6.5890311905642545
+  }
+}

@@ -1,0 +1,2224 @@
+{
+  "copied_sources": [
+    {
+      "path": "src/common_config.py",
+      "source_sha256": "a22acd09e1e7b09c4b20899bcb0170231371281f9b68da15a1f74f5bad334955",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "src/common_features.py",
+      "source_sha256": "a97bf39fcf2b2252748961972116cf4213e2b85faff900348964d85ad57c25b7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "src/common_io.py",
+      "source_sha256": "c41dd32d656df1abf6ae2fca3059f77373a5e455ef63f3442b99b478a92a0601",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "src/common_metrics.py",
+      "source_sha256": "5f766976c9ccb11cc60d011a9f9fd1a5de3d3a24b0b344da8b57e2f6f237ce64",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "src/common_models.py",
+      "source_sha256": "4742871d0cc4eb296bc21260f9c277849f1c95d3cc609b7b70afdf11c240163b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "src/common_plots.py",
+      "source_sha256": "23709791eecef3589b3f03852e2490a1fe783d67d03e8f4bd73c5f38f1924993",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "experiments/_run_template.py",
+      "source_sha256": "d91e02164410644d26ce128fc39de6ceeed87aa309cbc4075cfd0a0cf5615334",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "experiments/diagnostic_feature_importance_nssp.py",
+      "source_sha256": "4f87b7f9c6166bff0d968bc164d6072d552f10f98c126358b4bf496993a4cb2e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "experiments/diagnostic_leakage_test_nssp.py",
+      "source_sha256": "767bb525ee5f3c6cc31d37abdba93a5ca0a9402dcad328ab8be2653eeebf4c3f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "experiments/diagnostic_n_clusters_sensitivity.py",
+      "source_sha256": "14b476586ef51fc77fc56f559b582af5fdd1496a3b76dad8062eb6b8c02c9a88",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "experiments/experiment_1_nssp_ablation_core_features_only.py",
+      "source_sha256": "5353a06a0dc51015e053b4eb40acf29ef91ef72fd794c2dc053ecf5b8f2adb6b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "experiments/experiment_1_nssp_ablation_no_clustering.py",
+      "source_sha256": "cfa903d8ce4fd1f8377edde5216e0751afb0e4114e6005b5b3e74af8eae86f86",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "experiments/experiment_1_nssp_primary.py",
+      "source_sha256": "8c8a88328367673b9576482da99a7cfafe8433c2f6080b5a7e32a507c21cf453",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "experiments/experiment_2_ilinet_contemporary.py",
+      "source_sha256": "4be455cc37cdaaabd31ca5da852e097c18324f1fe7d598faa366e291de6d0030",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "experiments/experiment_3_ilinet_pandemic_stress_test.py",
+      "source_sha256": "afd4e63f58014dd0175b0e807893c9e9fddc13d37171bffda6b8a6e87a8382ff",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/finalize_arima_extension.py",
+      "source_sha256": "7e430f19904a6812e58c9ab03a6aa2bf660a21c5f415501d3ec2b6fadb1c34ad",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/finalize_nssp_full.py",
+      "source_sha256": "b5660727fe5d7c652866f39556cce56d94f2a386549c2604455489001ba1425f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/nssp_full_runner.py",
+      "source_sha256": "1402722a925880bb954f4d8eb44a29a8b7399961c95f57059b6bf99a8cdc37b7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/pilot_config.json",
+      "source_sha256": "3c147d1a7265e8fc24c0b1b168f30debeb29639631ecb00dcd617bac1d168b55",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/README.md",
+      "source_sha256": "25a0cad0c23ebe46fcde2892f1408e106040e13422e62a1e9a62181590358b9a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/requirements-pilot.txt",
+      "source_sha256": "e234ae261ac80d8a4709f2c8b59624a5138345f648a87a387d2180f885b4fc47",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/run_ilinet_arima_extension.py",
+      "source_sha256": "623fe22f602e17e56964082e1e28bd132bf0dd2ea4d0b1ce506292602d65479d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/sarima_pilot.py",
+      "source_sha256": "491271f88cd19a94792c97501eff20da3115b9492c109e49273c6f0b7c6569d0",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/summarize_pilot.py",
+      "source_sha256": "b48f34d8f9062bc09c09a087101b70a4dfb95b8fa46d27f291dabb97a0c0767f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/validate_ilinet_arima_extension.py",
+      "source_sha256": "afe5c5ad69b2b2522e11fd5282c338fe8d803140c890a688e0d682e096469d9a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "benchmarks/sarima/validate_pilot.py",
+      "source_sha256": "a35b9ca84d9dea1f782e1a98d787fefdba0615987a2ab6174390a0d806268bef",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "scripts/create_repository_manifest.py",
+      "source_sha256": "84f204dbedde5276b0ffab91ebeb5d6467c532670a1b6a2363fdd7911262fac6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "scripts/run_pipeline.py",
+      "source_sha256": "9ab8ad3712cb8e073fa9211a0be1001026a51b42956fa170b8b210fc40ea7b90",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "scripts/stage_data.py",
+      "source_sha256": "6a7738f0e1b169507e5c26b48d164d167aae5ad0fa7cb485c7ff85745822c035",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "scripts/verify_data.py",
+      "source_sha256": "b3e68f918055863f230e718f7abbfa2b70a6728dee30efa6f7e326ff99fa48bf",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "scripts/verify_reference_results.py",
+      "source_sha256": "75da18e87db7e35536e722add8319f35661822cce05779dc7a51b6688d7d22cd",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "tests/test_mmwr_calendar.py",
+      "source_sha256": "98848bcb45a8fe1d90b4de752f844b8d4521b501252e00f9a48b39bf4f913177",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "tests/test_repository.py",
+      "source_sha256": "1ecf816da9101ab23d485a37bab9a3eefd9e444fa9873ee86d4483ad457c9041",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "requirements.txt",
+      "source_sha256": "b42a2da6c9b191d025544899bc2d7b9498007258e38c1275b3e762fde2312eed",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "pyproject.toml",
+      "source_sha256": "476b899a05a7fc76b29bfa8fca9bddf6a4b771be374b3e58ab025f00df82e646",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": ".python-version",
+      "source_sha256": "7b55f8e67b5623c4bef3fa691288da9437d79d3aba156de48d481db32ac7d16d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "data/manifest.json",
+      "source_sha256": "4bc513214d76658a32b9d531f7550e407fdd088ab401d9342a6472a09bb7c7bf",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "generate_choropleth_maps.py",
+      "source_sha256": "1afa5cfe04f188b0f321c8b0aee1a655f28c908d579cfbe3c880ab1c5a2fec4a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/ARIMA_EXTENSION_DECISION_DATA.csv",
+      "source_sha256": "d7ed2d53836186bbf87b419a35fd2bcd3c30afaa47b0fbb3607e8ffece4a469c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/COMBINED_SAME_ROW_MODEL_COMPARISON.csv",
+      "source_sha256": "d61c0dfd3d27d4522e368b716afd9c03021267b2bd5cf1f0b9b05a8cddec5560",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/CROSS_EXPERIMENT_ARIMA_SARIMA_HYBRID.csv",
+      "source_sha256": "809cea5dbe3e48f977c5b39307ebdb977f977afb1baa0f89db866ddce65205a7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/EXACT_ROW_AUDIT.csv",
+      "source_sha256": "14ba335f99b2cda10ef5c63f23c79b1ad42213be5fb0b448a65af6ab4678a757",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp2/exact_row_audit.csv",
+      "source_sha256": "b54dd5c5bd743de09d9537400a3c48272731b258bb36e05f261022959406fc1d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp2/final_test_group_diagnostics.csv",
+      "source_sha256": "b961e404b4b306266dbefcef0fc239c525beb52b9ff7de246a8d035ab1458f7d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp2/final_test_summary.csv",
+      "source_sha256": "dfcf945094d5fc40fa6a7a012414d6519523fcc86e465258ff30f10442518c6b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp2/same_row_model_comparison.csv",
+      "source_sha256": "93e50806f89bd7a472a10e38a2ec5956414a2d8522e1cff39a56ecbeb3dda7d5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp2/selected_candidate.json",
+      "source_sha256": "5079d713da24249492ba09bff14bfff4c33fc8c3e81f2bb4bd6039855260612b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp2/validation_nonseasonal_selection.csv",
+      "source_sha256": "f506dc38ef4cc26c45d7b96d252cf5ecd40c81a77dfae2c019d37d8e3cda3027",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp3/exact_row_audit.csv",
+      "source_sha256": "6e9c53e2080431540eb00a642f149f647aa9a486fb489963489fa1e476b79cf9",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp3/final_test_group_diagnostics.csv",
+      "source_sha256": "001dd6910929e132fa343da2de52c49a051fd9c355dfa83d747572b34510e371",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp3/final_test_summary.csv",
+      "source_sha256": "30d78643009c7518fd6359f3f404b535f9180ee3a88d1a777569b761fb25b780",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp3/same_row_model_comparison.csv",
+      "source_sha256": "2b88f4c858acde95e98011045afd65744776e4e5e6c116c6e4e7f1591457db15",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp3/selected_candidate.json",
+      "source_sha256": "f2e91fcfd01e1c6c0096a46c1d913d09562fa0ccab9caf26c46aadddb61366a1",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/exp3/validation_nonseasonal_selection.csv",
+      "source_sha256": "dd35747b72bb86c91e7a41ae783887813f0e9a86d9a9b20b7e2f0ce2b3c01cb7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/LOCKED_INPUT_HASH_AUDIT.csv",
+      "source_sha256": "08b2049ca42fbbaebf1edcf50351aeb61a79294e66f21d748353f0fabaf1fcde",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/combined_validation_candidate_summary.csv",
+      "source_sha256": "06a1f2411af86e8091ee2a8e4db096f01a1272acda09d73d93975035b5638e39",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/day_one_run_summary.json",
+      "source_sha256": "4507f2d83776c7c6d456ac66fba7d403b2acd26dcc6fff534b0b665ad6c9cc08",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/environment.json",
+      "source_sha256": "b9e93facf107b30507f0c44d28988dfa9500a5af86a098b6529706bec84457fc",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp1/final_test_group_diagnostics.csv",
+      "source_sha256": "29ca588f76ceab48d983adc911bd7b702fb689a84cd703451631548b646b19ad",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp1/final_test_summary.csv",
+      "source_sha256": "349d9e7ee105e19f7df585e757ee88f36aae4514f692e61c743e06f151f59ecf",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp1/nssp_sampled_groups.csv",
+      "source_sha256": "fe67e5a338d32c4d0c1a36bf9c3f0cddd1ca54f9d197c2c6c6d64b148779c665",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp1/run_summary.json",
+      "source_sha256": "8099ac2c419449aa5104b9ac06e94e7fbace1900f57ac652924b07893026ed8a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp1/validation_candidate_summary.csv",
+      "source_sha256": "c381d76d9557a3b0d3e2f32121cfb385a8b9998e38e19094674b61a4e05eb6c5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp1/validation_candidate_summary.partial.csv",
+      "source_sha256": "c381d76d9557a3b0d3e2f32121cfb385a8b9998e38e19094674b61a4e05eb6c5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp1/validation_group_diagnostics.csv",
+      "source_sha256": "67a6ca2c24e27329708086e88aa7807ee22ff9d1483ce313639baf66e2951ecf",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp2/final_test_group_diagnostics.csv",
+      "source_sha256": "437548065c8f34023231325d7ef36e2f52e64cb55060a7d98211893e03731380",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp2/final_test_summary.csv",
+      "source_sha256": "bf1861ba1cd2f9d1a8dcb5e98565af73111a10a4dea5c06a068fe7c54e9660d6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp2/run_summary.json",
+      "source_sha256": "775178604fea4f070aa446a5301c4c9bcb7179817a6435d1936639e12ed5a82b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp2/validation_candidate_summary.csv",
+      "source_sha256": "564242b130bf642ae57f04cc02a270cd17612c4619559f6c12b75024463eb226",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp2/validation_candidate_summary.partial.csv",
+      "source_sha256": "564242b130bf642ae57f04cc02a270cd17612c4619559f6c12b75024463eb226",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp2/validation_group_diagnostics.csv",
+      "source_sha256": "62a449582ebfde9ac5197444f9809ef01fed864b45cb952102ed0417df90d916",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp3/final_test_group_diagnostics.csv",
+      "source_sha256": "c957bc7414ee97bb5914ef4826a48063d669166e150edbc102d3331094283ad5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp3/final_test_summary.csv",
+      "source_sha256": "c600c3ffd6396f2757b47cdac281ddc9a45c368039e7b0e372e10f2a7d6160ee",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp3/run_summary.json",
+      "source_sha256": "09e1067ca872d2bb1789eb00c8fcde20fb9855b026a803a78ca6a2efb2e03252",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp3/validation_candidate_summary.csv",
+      "source_sha256": "5356ef46fa3323276d67f6795a65f64d382b0e5dc22c1463d5872b904b483dd7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp3/validation_candidate_summary.partial.csv",
+      "source_sha256": "5356ef46fa3323276d67f6795a65f64d382b0e5dc22c1463d5872b904b483dd7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/exp3/validation_group_diagnostics.csv",
+      "source_sha256": "6fb3af1130d4f876133c66caf936756ade19fdf673456c16ae5a2b3952e5b42a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/input_manifest_sha256.csv",
+      "source_sha256": "e3232f622455d00448b6afbe8e255b3890064a9cc371590e639819a016af1cbe",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/FINAL_SAME_ROW_COMPARISON.csv",
+      "source_sha256": "6fc6f51b64f65711614af871557b077ad892b9fdeca5d557369270c81d449be7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/SELECTED_CANDIDATE.json",
+      "source_sha256": "023b091ccf158f91ed9056abd8a2a3ce1a48bd42452c3ca9083ea98d91e75f7c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0001_diagnostics.csv",
+      "source_sha256": "7bce002333f27a26e598147968c7948afa3f8d74fe457c30bcc2fafe0b91ad50",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0002_diagnostics.csv",
+      "source_sha256": "6e7b5274f26988a929621675b064c337d357fbc83e58c841eaac2699b5feae85",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0003_diagnostics.csv",
+      "source_sha256": "1d728755305f8beffd350bda15649b3a9a80f93fa52e846ab3480ee21eb80660",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0004_diagnostics.csv",
+      "source_sha256": "26211662957e1fcf9a48398d247de01272e03d631c9f862c8149cd9c2c64b03d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0005_diagnostics.csv",
+      "source_sha256": "fb484b9108325ee0d1cbf82627c85482167128e9dd9cb3737883506144b7586c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0006_diagnostics.csv",
+      "source_sha256": "c68e5a73fd82169146ea0f4c3eb01cedda5e05be8a1b06f983422cd4e5d4133c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0007_diagnostics.csv",
+      "source_sha256": "39ebc33fd3e3314339b27fa708cff4a744b9feb240af92aa0f487f57bede5793",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0008_diagnostics.csv",
+      "source_sha256": "6931868aa7984fefd1b22a4bd415c11519a0ca3ae8ff89903f93dd5e1e25acc1",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0009_diagnostics.csv",
+      "source_sha256": "bd37674f9336667abce30a2f97bf0aded994e90eda66635e7570f52c7058f669",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0010_diagnostics.csv",
+      "source_sha256": "66af532997f04cf98290757a985b986d20e21f9c794173378519d5dc4701301c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0011_diagnostics.csv",
+      "source_sha256": "fc5188dff5f02a1a3dddae047986d7c70818854e12ab6aa96d8a5928d9d707d5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0012_diagnostics.csv",
+      "source_sha256": "03a95411b5589fda77766fb639f77b3e76d8080902b05cb7adde63a30c4cdaad",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0013_diagnostics.csv",
+      "source_sha256": "50a0ca6856ec95c325b41078b30a1e2ae0c60b9a8d4395c655045d73c40ddc7d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0014_diagnostics.csv",
+      "source_sha256": "e6414d1680b5631de131723509970826c16f1c03e839f3d22188d9db0e69ea27",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0015_diagnostics.csv",
+      "source_sha256": "7f19297726be3dfc621b206d00f84a0d4c233e360b3d853c5226b6c321a04682",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0016_diagnostics.csv",
+      "source_sha256": "1605e7741d66b293d852e8ba5fe51571660919578d9904d819bae0f683d434b7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0017_diagnostics.csv",
+      "source_sha256": "edc0c78f1fd9da54288bbb1b1538869d819124f2b59b9d5bd0a7099f15f7781f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0018_diagnostics.csv",
+      "source_sha256": "45a3d07b3cfe401ab5a5b52271d76d5a52b328506abfcb55756efbdbad75a1aa",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0019_diagnostics.csv",
+      "source_sha256": "904432bd7078f73508adf1457025c4c37ea672ec87378262c9a53f5d7b47de5d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0020_diagnostics.csv",
+      "source_sha256": "27d89abfe7adf9db06e182b37e785c3b88d39761054e02264ee296989f265d15",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0021_diagnostics.csv",
+      "source_sha256": "cf2c43e0462f0495a015689f17d8ab984cc5efbd4d6cda78ca91695a8b7d3c86",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0022_diagnostics.csv",
+      "source_sha256": "6b0816e7bd4d81f87892d949982969dcd4d16e2d9819e7b28a0423eb8474a1e5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/batches/batch_0023_diagnostics.csv",
+      "source_sha256": "4fa2d85a3895b014288279a15211341836a864f35ecb74a342b52378a46be216",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/COMPLETE.json",
+      "source_sha256": "c04f7a1dc6e9ef9ebf49473a8cfc0a5ba217d7ccd18bd53d2450f178216e8f21",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/diagnostics.csv",
+      "source_sha256": "3beac57d69d906fc25a6ba5d8ff6510d34775e1b427b89c29c3387daca1fd845",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/AR1/summary.csv",
+      "source_sha256": "b046c4efa5dc89d29c2791df48132091c7200ecf37cab587c19b313e98b2cb50",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0001_diagnostics.csv",
+      "source_sha256": "92aef58a820be9e009be93b97a58035d4d2ba88c048966153a748bf823db0f43",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0002_diagnostics.csv",
+      "source_sha256": "0289ab61e97ee3ab5e83b7c336c3d7f434af31c2858f08024b86056f8f94c127",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0003_diagnostics.csv",
+      "source_sha256": "ba494416331b2aec4808f761ea3807c0708b0b78f0ace3b2b63381504e8a0d7a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0004_diagnostics.csv",
+      "source_sha256": "eba0a8f62cf82413653215bf0f136e913deabe75e73378fd4789e7c7d97f0fe4",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0005_diagnostics.csv",
+      "source_sha256": "2890dd95b8892f555c09b9c1cc85d20401cb96e2a1dcc6b70b93d55ccccb6aee",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0006_diagnostics.csv",
+      "source_sha256": "77f8b7e4d5424186354ded12eebc408585e12eb85520c4be7e198cdba25550e8",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0007_diagnostics.csv",
+      "source_sha256": "89fb04034f5f7f00c3f713b92dbf0fcd02387bffff8e55fe80a6e01f278cf022",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0008_diagnostics.csv",
+      "source_sha256": "b8d3348dc65cd4987bcbf68a73ba9fa49d4522f4169ae5d40d20e184ac1a1ea3",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0009_diagnostics.csv",
+      "source_sha256": "b62cb75244191c72e9f313f732c1a385d369014f9ddc5f9133dfe0a82ed98567",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0010_diagnostics.csv",
+      "source_sha256": "4b2ec393cf6773e0b31e6a0f00d3a4bb946b3b4b074cde4e65f8bf0c2a62cb19",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0011_diagnostics.csv",
+      "source_sha256": "59bae75958f53fb2c18b4a87c794508f0870c322a541f7b29e5cce4e368a3454",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0012_diagnostics.csv",
+      "source_sha256": "ff115a440c5adde4b4b19a60eda65fad152cac7601ae6a32dfbcfb1d0fa88b13",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0013_diagnostics.csv",
+      "source_sha256": "580b618e88ceb4c46fd62c8f446ac1099e1ef57568dc80e59e09d141b465bd9e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0014_diagnostics.csv",
+      "source_sha256": "8e4343313f6272e46ca0266cd3225d2a8dbef9de2fd3acfde2a711ca02a1fcad",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0015_diagnostics.csv",
+      "source_sha256": "5dcde40901e500cd70e1041896123dba0674a12fbb7926690f51bc9417519c17",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0016_diagnostics.csv",
+      "source_sha256": "7ead9cd0b23bc4c1f6c7313d89a1783f021db175270a8aec8ec3ff6f5d8d42e1",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0017_diagnostics.csv",
+      "source_sha256": "364ea8a4d4a768a1584e84a8137e3bfa953824f7c39e1d3252cd36935d2e85bb",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0018_diagnostics.csv",
+      "source_sha256": "6fbd963047864f6d169a8600b7c2a8cc522db05c35f3d8d79d9fe2b9f96623b5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0019_diagnostics.csv",
+      "source_sha256": "6b8f2631219b6cc34a23edcb84af39400bb94a72aca762d93268d1258a40100e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0020_diagnostics.csv",
+      "source_sha256": "799618c8a6660283ba9a3252f597a81b584ce3187e26b53a7c089aa28d8f9078",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0021_diagnostics.csv",
+      "source_sha256": "b3ee4f0780dd0b509a56c363560cf6906b41e7604deaa39dee730c52851fee36",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0022_diagnostics.csv",
+      "source_sha256": "b2aef48407d4e9bda7ebd89f7199c63392c51552f6e49b04e1ac84ff6d3ad7ce",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/batches/batch_0023_diagnostics.csv",
+      "source_sha256": "75690e8670a2a4f68950b17feafab436d216d2ac906258be82e8c7b1bd16f800",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/COMPLETE.json",
+      "source_sha256": "8ba06d70ef41cb466425e19a96052b8ee143d9c626386bed411ecf556e6bc6dc",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/diagnostics.csv",
+      "source_sha256": "5db348a15857ad5c2969a2684a49fa03489087ba3917b85b9cf4a21c6e797977",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/test/SARIMA_100x100_52/summary.csv",
+      "source_sha256": "6db1d36db54218f3480c254e0be4ba4a81c6bfc93a1e5e50ec333e27adba746a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0001_diagnostics.csv",
+      "source_sha256": "74d43b26b33b7f06158f84a805287cae263d77c1f95596fc86c4d83edc82dea7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0002_diagnostics.csv",
+      "source_sha256": "fbc4b13f8d4dac9e3786246606e5a19b28e9b0f854f7c3ed6fdd19b8022a664a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0003_diagnostics.csv",
+      "source_sha256": "413863e2af1ba9146e48d787dc9ed2cd36343618c177baca540c378684cc8207",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0004_diagnostics.csv",
+      "source_sha256": "aeee62fa5dab09871cf4619bd0e498768d7f3045727b7b45983ca94b2a1e396e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0005_diagnostics.csv",
+      "source_sha256": "9ef82ca3bd0c6cae15823e944d5b7c8f28e1d32b30157b0d6e24dabf904982c6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0006_diagnostics.csv",
+      "source_sha256": "b73f7341d21f7eb9fe5f252444009e616adbe795f3c0775ac80e2f1a185e614b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0007_diagnostics.csv",
+      "source_sha256": "7adb0357b5db86f26ca551080f353f97f5ba144af66423f290d03dd0701f9759",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0008_diagnostics.csv",
+      "source_sha256": "8b9e22b5e07e8f8a53e90cb46a9ac5426e37930d21fd19939d709e8836006f27",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0009_diagnostics.csv",
+      "source_sha256": "070d5609cfcc86ecebfbab21f1e000526e0f915b3888a18931f8b4053ab1d9ba",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0010_diagnostics.csv",
+      "source_sha256": "d8d90d0480a0c3546f446c4b2890b679a1f52c8cea1aa8c4c3af63b6d20488cc",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0011_diagnostics.csv",
+      "source_sha256": "abb3ef18a00abd8201b2e18598605dd47b1d48fea141fda655e0351b073d3f9b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0012_diagnostics.csv",
+      "source_sha256": "556539110b43a7cd0bf571b15ca343527f318d01c365e1ac62a279f3b8ac3638",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0013_diagnostics.csv",
+      "source_sha256": "34995d66a3e39214644da6aed5c72b3967f8a190af249b1f814c91d118816bf2",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0014_diagnostics.csv",
+      "source_sha256": "d5b7ab0570b4861b96536d186f716294e799ba8d520c480f54b5f0fa2061bd49",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0015_diagnostics.csv",
+      "source_sha256": "e3b7f47e9a1d89e9607d592c9c33fb10d4968e110c268f2f957a64670999f496",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0016_diagnostics.csv",
+      "source_sha256": "977cdbb14476e8413cc6a9ca8ac39996ed66d20f3ff408dbd8fa2952eca2a39f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0017_diagnostics.csv",
+      "source_sha256": "112e0b01b866ece1604c5d371c57e64c80f1165c21dea8880ebaa079001d370a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0018_diagnostics.csv",
+      "source_sha256": "2627dd6e3ea29bcf9cdcd53f463079024f384a94174cfe83596cfe6e44b26650",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0019_diagnostics.csv",
+      "source_sha256": "689c5bf52a504f0ffe7ca6c4d6540f875c798be62cfd4bc42d24f5a5c8fb4016",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0020_diagnostics.csv",
+      "source_sha256": "8b86fb4a27a504b153a8859cfda739c1cd2c5fb3a322c64f6593ec0428b840e0",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0021_diagnostics.csv",
+      "source_sha256": "3470c8ad9379077efa86b3d61dc2ea930e93c52c14c1857be4ff52d58fad84cf",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0022_diagnostics.csv",
+      "source_sha256": "232fce6f2fcc57cc3651ced4b7fd972097122052fff57e9adb5c395f33c35a18",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/batches/batch_0023_diagnostics.csv",
+      "source_sha256": "003d51b2529284bb3d35a859ad98abbbb268720feb73b96973ea949645a37d85",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/COMPLETE.json",
+      "source_sha256": "c8658afd6fe243178816c6f6ae024a3e648c8a22ebf2f0c9923ed84397860513",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/diagnostics.csv",
+      "source_sha256": "cd33b25f246ae2e09edc78c1b47f9f03df717320bcffe1412226bc5ff0457469",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/AR1/summary.csv",
+      "source_sha256": "7b5b686e761af753d9c0e609854ae15af0edd98b29f607bc64526d31f11dc26d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0001_diagnostics.csv",
+      "source_sha256": "984817a49905713d928777a4e5a0e8666fa855eae13bc06449d0b350e195abcc",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0002_diagnostics.csv",
+      "source_sha256": "501ada27b3e2aa36ab8a96b75d87b83c55b5ce9256fada55023fa1181185a37b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0003_diagnostics.csv",
+      "source_sha256": "e8a43c815cc000d30c350266e8f97b1a700f9db79c52f0219a537e8ccf481183",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0004_diagnostics.csv",
+      "source_sha256": "05dcfbda1db75a3dd70fe8e1efad22b31f40e19e0301122f94c26bab5f20d035",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0005_diagnostics.csv",
+      "source_sha256": "8b5738d3dcf191178f218d49f508819469edc42ba8619b1517c271deebb521a1",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0006_diagnostics.csv",
+      "source_sha256": "bf832e459c1446aa13548971f84e20495497aed47a2fcded20bc81cc348902a6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0007_diagnostics.csv",
+      "source_sha256": "37ec6f29dd517e9bbf1abe531e36c41570f605ef040e4a92bd1911c3349d1860",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0008_diagnostics.csv",
+      "source_sha256": "0a6cf97b62da1ae1cee07c552ba8344734c493ecfa64ac05cab35f1e4ea641dd",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0009_diagnostics.csv",
+      "source_sha256": "7204726b97868be4327191e7ea0d38b837cc7fa532617fdb8263f423932836f3",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0010_diagnostics.csv",
+      "source_sha256": "46e0d68fd07ec6cc0c0d4d361361841dd10f5ced537c85a2259ac417aa9e7e86",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0011_diagnostics.csv",
+      "source_sha256": "8ce4e9bd7f19d20910cfa141b727ff1f33c208db0986b2869b9f21b0017a8ca0",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0012_diagnostics.csv",
+      "source_sha256": "092b8a2a68b029a6cdf19abb9333475aaaf0dd4d2e0b13d40a637482afdd69d0",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0013_diagnostics.csv",
+      "source_sha256": "ce7854fc3ef7585b89b934dec2dfe9445e26122d11e8de1ef426bdbda01e2dc2",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0014_diagnostics.csv",
+      "source_sha256": "e9b2c51927b397379d6c2220abdd85011a455f4191fb5fd1d761410a6b983ca3",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0015_diagnostics.csv",
+      "source_sha256": "816a760041ba63d1708509acf9076c0c50486bed372c921b4c119e1f1f17ceaf",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0016_diagnostics.csv",
+      "source_sha256": "fe776abf343f39e3a6431784efd4e3404f3fe78921f1e21e7652a799a05a3b9c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0017_diagnostics.csv",
+      "source_sha256": "1187e6702a4bf7f0cae21a23a8e3a54a0e5a1cd60dc5c243660072098a4e515b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0018_diagnostics.csv",
+      "source_sha256": "7e4992ba734aa55751019e6580104419fc9e1471871e5ca85f2328dc227b6f3f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0019_diagnostics.csv",
+      "source_sha256": "e6635d5cf0bf82a1518c634ff4263dc5516bc7e7ecb8297a8d566460974eb544",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0020_diagnostics.csv",
+      "source_sha256": "d5ba1bc27017e4104b4ba2d6fc7897ed0daba4a0155743a65e190d261ec580dd",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0021_diagnostics.csv",
+      "source_sha256": "39ee4037d266fae65d248c896fcdab4d277e1f0618d167098936e905905b34aa",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0022_diagnostics.csv",
+      "source_sha256": "fd42e19f98cabe1c0c0b281519af9a2d76e3bb2f2137a962619ff0278bcc1656",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/batches/batch_0023_diagnostics.csv",
+      "source_sha256": "3f42400ace9095e1da08af980853974177ac9eae054b3af030eeb02fc648f0de",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/COMPLETE.json",
+      "source_sha256": "ae992080bc7e7bf0118e18c602d00dac8b68387152a9824f6212e866fbf7202d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/diagnostics.csv",
+      "source_sha256": "8027993201cc6ccdaee166d4e1dd68d38a72a4862d095dd86fdc42e336bad104",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_011/summary.csv",
+      "source_sha256": "fd4e58b768f2c68284864788fdd7230a74481a1c6b7b19b04e71481fa2630fd9",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0001_diagnostics.csv",
+      "source_sha256": "61e57da72f1ad294a296e06ec6e4390d2bc53a6f2e4f95bee59215712af59665",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0002_diagnostics.csv",
+      "source_sha256": "d81462fbf95c95e1abd0cdf26a948e064c44753681fe853841b07b7d39304ad8",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0003_diagnostics.csv",
+      "source_sha256": "1dafb7aa0f958d27bc5f8ccb4dce5bb75b36b47fabf26e15b9d77907303fe5a8",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0004_diagnostics.csv",
+      "source_sha256": "86bf3adbd5c2fed6a78039b329011b74582a09451f35967962ccbf5a3ee308c8",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0005_diagnostics.csv",
+      "source_sha256": "4d80921845d7ba09881c7073d4e4ee32aca5fb5b08aeae5d3132a0aa752c2a09",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0006_diagnostics.csv",
+      "source_sha256": "8e867678aa6e85d6e2f4d78abd944e563a2a876d18ebd81f1f33259664f576f3",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0007_diagnostics.csv",
+      "source_sha256": "57e66dce3ce7a5c4037bf0d8aeb0fffd878118e75439397096802f71f39b273e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0008_diagnostics.csv",
+      "source_sha256": "6a183990c7bae667b737e97323ac3d0c8eb7588de970b100b9241fbc257da66f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0009_diagnostics.csv",
+      "source_sha256": "79d83582c5fef9b3637f1fa6309b12fbe7b70b1c5c712a29236db15e09c4a384",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0010_diagnostics.csv",
+      "source_sha256": "79ad05645c0e47ba3c7fd6cee49ff13ed1c3d8147a35e36fbf468ce7e46bb381",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0011_diagnostics.csv",
+      "source_sha256": "b9a4ee879f02c13fc3526d3c806542ad79f7da5a7378453179f0799c7ffbe0b2",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0012_diagnostics.csv",
+      "source_sha256": "12d22f827cf1ee65923bdd4c5359d676e40dfd8fe6930e76653e3ed64e97c26f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0013_diagnostics.csv",
+      "source_sha256": "cf8969689cbd54af169598c7ff8e76d07e3942deb2625b915f19f483385f08cf",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0014_diagnostics.csv",
+      "source_sha256": "fdf82ae7b2ae12160b52bb122b0760840308d55dd9f66a15707af4cadfda352f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0015_diagnostics.csv",
+      "source_sha256": "803d8997fb71c2c761738af05d9728603fea65f38182768cc3bcda70e2c7a5fe",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0016_diagnostics.csv",
+      "source_sha256": "f1af941f4f733a72b6d7121392dc6bb11c0d89a36c296d832fc49e799652bc08",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0017_diagnostics.csv",
+      "source_sha256": "525822c395e56999f7b142f0e7ec73eca8dac93311708884dc943a635f592c7e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0018_diagnostics.csv",
+      "source_sha256": "abe450e8410f6cbf488424c1a73bd1e8d1988fb6262f9ad96709ed1040587095",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0019_diagnostics.csv",
+      "source_sha256": "37e2fcf04cf541bb297d3a4e7e45c93bc86a337c21850d7ee8026ffff900b806",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0020_diagnostics.csv",
+      "source_sha256": "8987a334c7db7317dd125d4e31128f32345a046d5235817fa6a26cef31e3c43b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0021_diagnostics.csv",
+      "source_sha256": "52956fa29eb41fc91b40a6cbab82b867d945a8ca214479b9e66da497f660ce67",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0022_diagnostics.csv",
+      "source_sha256": "de17b005f59a96ffbce4b798580127395e6972b2d660519575904ad1e26c3b6c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/batches/batch_0023_diagnostics.csv",
+      "source_sha256": "2ce2478031d5d762f9a7298bf4c46bab3b69438bd02f542dcf31a6edfd2c7a66",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/COMPLETE.json",
+      "source_sha256": "39f5b926418c7b0a7d3cc59ffe487eabbe89225eaada6e2b262146ad4530214e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/diagnostics.csv",
+      "source_sha256": "0b611ac0c14e31311be037ff81fcf6a71d4b99119749c850b57ac361d75081dc",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/ARIMA_110/summary.csv",
+      "source_sha256": "45a5922673a9971f1794cb57b649c24aa333e51df6686723799660885ee05f78",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0001_diagnostics.csv",
+      "source_sha256": "e62a7e5838d1fa597f6ac8ef21a8c4eff742ff7376186560f2c58832f230b347",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0002_diagnostics.csv",
+      "source_sha256": "db459130e96340b8d811c4c1ec88c41ddd99bcb1ee577152593204e45b195215",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0003_diagnostics.csv",
+      "source_sha256": "36478a17de5fef0ea771f48f851cffbb97c416cb0a0a85d6024aea2e8cf48277",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0004_diagnostics.csv",
+      "source_sha256": "2fdbf0c4a8a7997fd891b12d26b63cd209c5bee1283c2fa33106587c5c2ba22e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0005_diagnostics.csv",
+      "source_sha256": "86ca0f8128097f3312fb4b7705f5bb8ae40a2e3ae5fc200d4b8abc1344909e9b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0006_diagnostics.csv",
+      "source_sha256": "df7350c2edaec14486f8c92d310f0f60a324ea7778fb2c688d3b2304968c42f8",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0007_diagnostics.csv",
+      "source_sha256": "9e8066afabd63fecf7da3b28277e5cb836eaaa49a13904dfa205b1e29c06365a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0008_diagnostics.csv",
+      "source_sha256": "1350068b29d1d61bf0a907ce6161ef69e9023235de1f903776559b3df5b846d1",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0009_diagnostics.csv",
+      "source_sha256": "034ad82caae435fde91bd2d612151ce110b515e117cf3413820399ddd3ec87cf",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0010_diagnostics.csv",
+      "source_sha256": "ac42118c2e3b30805233e4e822a7868d0e264186146f665958ffab33d78bba49",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0011_diagnostics.csv",
+      "source_sha256": "0bd86846c0604a25508162a2881c0575b8d41facc8460bb9fd65341e8ca6922f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0012_diagnostics.csv",
+      "source_sha256": "40e0c60bb5e56cb80fb79ab5b36a2570b32ca23063650226aacb75b3873c5655",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0013_diagnostics.csv",
+      "source_sha256": "d24af6a031b551e6a94bd1236fd2928b6fd19017a62f1cd2720f5d421f941166",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0014_diagnostics.csv",
+      "source_sha256": "b92ccf48c5b8ee626ace188925247da80a2f5bb7230e86d0815c7450aeb2aa4a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0015_diagnostics.csv",
+      "source_sha256": "5168f4fad520bf7260daa3ccd45b29ce6030fa6e3452aadf0c1a2b64abc98406",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0016_diagnostics.csv",
+      "source_sha256": "e79df76adf71efc23e2af38e71269c04f8baeda607fde8c814440b3899eec9da",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0017_diagnostics.csv",
+      "source_sha256": "382ae4346963fc5290401eed4a4e49f88b2a70877307debbae78f9ac6b2e44f0",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0018_diagnostics.csv",
+      "source_sha256": "b4eda31005925e52d4fc09339333660b0dffe636a6f298534c68566003aa18de",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0019_diagnostics.csv",
+      "source_sha256": "624628570e3ec313e82b7310b18d8a75307d549a242c1cad534d9b4872e9326c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0020_diagnostics.csv",
+      "source_sha256": "12b3d15f888cfb5d8100e3a399439ea86e5e3a5b3c076cc039f8e83b94499fbe",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0021_diagnostics.csv",
+      "source_sha256": "d33a099351e1ea3b41204bebf3ca180530dcb141804b27f637c63aa46fb923c8",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0022_diagnostics.csv",
+      "source_sha256": "efc7bab794937a70f99cee5c08153dd50f8ab2809d1bc3f9624e3bb0837d69e5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/batches/batch_0023_diagnostics.csv",
+      "source_sha256": "065e56bba0fbd40209a8d50902b37a4d2950b9a921e5631a1022fc897be9a45e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/COMPLETE.json",
+      "source_sha256": "eb758449afeb779f0d1262c9cad81f9613e250230233d97dcae5ba6317e1b724",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/diagnostics.csv",
+      "source_sha256": "1c4b735682f2a75a1a9eabc806d3ddecb3d7620beed1ae900fec79e3e28d46c6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_100x100_52/summary.csv",
+      "source_sha256": "1424ca56bd31aaefc324d70debce2e8d2f8ad6c69b302b334e16576e92f41b13",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0001_diagnostics.csv",
+      "source_sha256": "163a409b763efb6efb2a1f4f43b20901ce99977480f64550cdb74e0797c0d21f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0002_diagnostics.csv",
+      "source_sha256": "b4656ef2a6b677fcf035f542bbf478fb7ea249833036ab911da20a7a88f2ea70",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0003_diagnostics.csv",
+      "source_sha256": "cc54fc11d056c31aa0a6f1ffd2ee273de198c6847983b9d34ed693d37eb7491f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0004_diagnostics.csv",
+      "source_sha256": "993cd8c23ac5036c00cd12dc72f6b1b35fca282e3b0ac08772704a91a216fd12",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0005_diagnostics.csv",
+      "source_sha256": "3a904b826c5e617bdb69e03a3fbdf5d188b74e2e6e707d0195d0f170f407c2f1",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0006_diagnostics.csv",
+      "source_sha256": "706e3ac161721386d2f453e9084b40c3d883e7b0cc5924c4db043335359c7d84",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0007_diagnostics.csv",
+      "source_sha256": "cddbf3c7248f8dae92573f392657a208f43ade9ec1f70cfb3da814e216dd0ea0",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0008_diagnostics.csv",
+      "source_sha256": "fde3caf8fe53db60e7694b36f661db02eb81e357ab27fa9345eebbd0fe08e98a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0009_diagnostics.csv",
+      "source_sha256": "c108b8dc176109c6b752a0c76aa55f3d76eb0119fa2c88d2c1aff099f99e7661",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0010_diagnostics.csv",
+      "source_sha256": "7a233bf65e573112bc2580e83fc194b7530b2e7aa4f0808f939bd8e8fd45ce19",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0011_diagnostics.csv",
+      "source_sha256": "6e1553509a4ef6043d5714c0f99ab68c972d110f5215f12b91e7f89b4259a8e7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0012_diagnostics.csv",
+      "source_sha256": "07ef83df0003dca2a389dcf59e75892f15189943643e73ceff692b8d7c5d913c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0013_diagnostics.csv",
+      "source_sha256": "69d16c48247083ddc6f649c89652adf7b0de4363013089596ea3d7a21b9a40b0",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0014_diagnostics.csv",
+      "source_sha256": "f89e39ff9662015ee4b1e9f23d7031cb188f0199ee226bc2e51a7930ad9825e6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0015_diagnostics.csv",
+      "source_sha256": "6c1a34a965e88f1f04936f8de63c9d87fd041d8dee77b0fb7f15ecf79ac44a0a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0016_diagnostics.csv",
+      "source_sha256": "14c5080c8c0775fcbe5bab89b468b49ecee3db0bbd4b118adbc412aad219591b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0017_diagnostics.csv",
+      "source_sha256": "7be0bdbf2ac096c6c467fabf8907fd8cf4669a90f905327474fff4cbe3fe0b1f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0018_diagnostics.csv",
+      "source_sha256": "334dde8c53d09c826fdbc482d58917527bef5539deb95b8596167c680860e58e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0019_diagnostics.csv",
+      "source_sha256": "c5b8b97c5d6e084c37c7b92f629231b2d2263ac7dfd95bf85a13fe9695f2acea",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0020_diagnostics.csv",
+      "source_sha256": "c7ea043d4ce6ccf0f8a35f850f503b629a43a79f1c35017363820c2cf2cce4fe",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0021_diagnostics.csv",
+      "source_sha256": "c9d7e0178979d627c729f95b07c419df1824ac0846271d95adb8da891336799d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0022_diagnostics.csv",
+      "source_sha256": "64aadc96c801409b05fb7d7d1bf1047d18707b44ebc610c8578ba46fad92a9b7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/batches/batch_0023_diagnostics.csv",
+      "source_sha256": "b4b025e55957155958cf2e51d116f5c80f7c0ca1408b6a1564a90605873414c8",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/COMPLETE.json",
+      "source_sha256": "35922c290df8514f9c1c5e8ada871e0adefa20d68d047d6b2c405de4bb3bd695",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/diagnostics.csv",
+      "source_sha256": "9b5023fffff688b05bc701aa8c9f6842f3551b9100d0a68158889b8aeb41b7ed",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_101x100_52/summary.csv",
+      "source_sha256": "4cc4a9f9c28907dba0d9fbe9c51c932e52d3c14322960229914d721c97c6a142",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0001_diagnostics.csv",
+      "source_sha256": "cd9adf5515aaf2d6536096a109d8525bbaba09734db41e4dee03e798dbe0c0b8",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0002_diagnostics.csv",
+      "source_sha256": "62bc1d6c913934a718caf352df1d8e692b0a4faeec01824f760809e3f99b6d9d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0003_diagnostics.csv",
+      "source_sha256": "ef7247614e726ddd6e12315404a582ea53dc6a0870fd36a57fb2bb2d182c5b3f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0004_diagnostics.csv",
+      "source_sha256": "a7befd4ad25d2281914a6fd3f8339f91c87d5ea6ab1f4f0702997f8304462274",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0005_diagnostics.csv",
+      "source_sha256": "be0e203c5664b985f65807b7ea9b8bdfa54b0dc94dee7d00abeac77490e509a5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0006_diagnostics.csv",
+      "source_sha256": "e16db48267df8fee5da33bd9e78b32016f6667bd4d3836ae2f3d896aad360256",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0007_diagnostics.csv",
+      "source_sha256": "5a1ddf07b78dfedd05faad02441a6eaee909d9ce94419a6c1c936b665817dcd4",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0008_diagnostics.csv",
+      "source_sha256": "b50c7f7ad9dcf96dd56a655656249623ff728b501ff92eb8fb7948334bc7bd07",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0009_diagnostics.csv",
+      "source_sha256": "764f7c1f70e3e5242c52b422dd8fafdecff529d8c9f3a058f5e02922406bdf13",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0010_diagnostics.csv",
+      "source_sha256": "57fde78bb3e93eada8f6ee027668b30280fdc692da2b2023e75f4297d6d32300",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0011_diagnostics.csv",
+      "source_sha256": "e5a829f91f31626ed7f107b51c1274b6450dac02832a6333783ef2c789d8b987",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0012_diagnostics.csv",
+      "source_sha256": "92800d7be106875ecc48753492d96192b1485e661ab7f8313f2036851d768a02",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0013_diagnostics.csv",
+      "source_sha256": "67521796e4680a86fd0538a02f3a141017318531bd011e0859d550b88eb1bde0",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0014_diagnostics.csv",
+      "source_sha256": "99eea25d33b27bc91c51139749e98f4c14be3b9e0e69d8be4445c16d99c863d5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0015_diagnostics.csv",
+      "source_sha256": "d3c0e52d8ce544ceaa76b0092386143b6266e59a0413cbc0887fec67fe68b8f6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0016_diagnostics.csv",
+      "source_sha256": "ffc9543f0a20d74a6d13c4b55ae202764697f653527dd1c1ed0d450a4c3600c3",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0017_diagnostics.csv",
+      "source_sha256": "0268911120aba44440582126b8e8468ed38c9d7e1f0542d486b455a49e80f071",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0018_diagnostics.csv",
+      "source_sha256": "c0b2e1f616f0e9663b05459330ff963acf1b1efc20db80c5a7a1d728890ce33e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0019_diagnostics.csv",
+      "source_sha256": "b54796e7fea39298699f2a7a31ec69d09f77878c40d1240b652a847579866f9b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0020_diagnostics.csv",
+      "source_sha256": "2e7614ed429b1804576a38cc816f0fc0c79ecccf6fd77c63dc4bb47422d0f3e1",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0021_diagnostics.csv",
+      "source_sha256": "79fd212d4bed740f6ed5509ad42779d658949757af8a0ce00083a5afbb01c10e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0022_diagnostics.csv",
+      "source_sha256": "5c8de08f96386c662ed296905aceba9efcb7988caedf15ead772f7c0d4bfe1ef",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/batches/batch_0023_diagnostics.csv",
+      "source_sha256": "430fe6cd4cc38dbee79a9add7db7998d6e2b5ce6f4441e7e0d209a57801a1890",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/COMPLETE.json",
+      "source_sha256": "fbcae627729ed13a862a9136ff41a58a78270b0d995fe18fc40d44fd0bce2a0e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/diagnostics.csv",
+      "source_sha256": "84680c8a9b1fb49a36ee3846d860d3d5f255d6e1448a6f8e22a1f626364006cc",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation/SARIMA_200x100_52/summary.csv",
+      "source_sha256": "2a296aa3ef147a2471a2046741c00a444d5e126a6a6a3aecf84c3a260fb945d3",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_full/validation_candidate_summary.csv",
+      "source_sha256": "f2e2272d473eada14c4e5ca062c28fe4930972e9e0d5cf7e6c2149020c2aa574",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/nssp_runtime_projection.csv",
+      "source_sha256": "374d970e27de2206618af58af1a8321080f9f3919d8f59f68974dadffea0fa49",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/pilot_run_summary.json",
+      "source_sha256": "123dc44c302629f62f3b1ced88b37a047fe6410ec9a5aa469307941ef21ddd05",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/same_row_test_comparison.csv",
+      "source_sha256": "520934ad67f7fa99aa32bae9fd27dc645cec15186daad12c514e8c9d49074316",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/classical/sarima_vs_hybrid_summary.csv",
+      "source_sha256": "25a0dd5871f327d8d6efbb1a5fff001a0979fb451f9e246c59e39b4b170b7166",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/artifact_manifest.csv",
+      "source_sha256": "296e244ad07b2f83ebb86a8f1ecc8acd918f220d385d94d0f3c139bc5d88be6e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_core_features_only/metrics/experiment_1_nssp_ablation_core_features_only_ensemble_weights.csv",
+      "source_sha256": "542c1ac4ef5bc971d418c569093dc1353ab445054c177d3a0ac53ff9880d6f16",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_core_features_only/metrics/experiment_1_nssp_ablation_core_features_only_features_used.csv",
+      "source_sha256": "a7e44fc9c41348d09e5f99b64f50c5b9435fea8a222590145aea244506ad7e73",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_core_features_only/metrics/experiment_1_nssp_ablation_core_features_only_metrics.csv",
+      "source_sha256": "dd62cab5b2e5ea0d9696065744fa7ebf3b29725596dfbad6c842eac5c7155fb6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_core_features_only/metrics/experiment_1_nssp_ablation_core_features_only_run_metadata.csv",
+      "source_sha256": "b85cc0f2b9dfbaada341f534529375a3b8cc181d80d46b8bdb71fdf56667d8f5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_core_features_only/metrics/experiment_1_nssp_ablation_core_features_only_state_test_period_summary.csv",
+      "source_sha256": "1baefe26765c84366b5fadd0f1fae66b6fff67dee8cc187108333eec1ec812ae",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_core_features_only/metrics/experiment_1_nssp_ablation_core_features_only_validation_metrics.csv",
+      "source_sha256": "59174a2fa4ef385b1e46cb2a744653747147c54a54a618861f4ed7ee8cf6dc3b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_no_clustering/metrics/experiment_1_nssp_ablation_no_clustering_ensemble_weights.csv",
+      "source_sha256": "5e67d064b38c08b49cbb608508d4a47f60e434857ec0f85d8296d74859eed6a7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_no_clustering/metrics/experiment_1_nssp_ablation_no_clustering_features_used.csv",
+      "source_sha256": "4d22509ec49b755569f42c5d9205eb73c5bce517f5a24299d1a8b69ba712022f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_no_clustering/metrics/experiment_1_nssp_ablation_no_clustering_metrics.csv",
+      "source_sha256": "e5aa25ff23371ac3cfd38316a0d927ee05e26c019bd8647dbd8a1eb7d75ff8d5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_no_clustering/metrics/experiment_1_nssp_ablation_no_clustering_run_metadata.csv",
+      "source_sha256": "fc46ec5ac670f6e5c6ffa59e71ea757082f48684aea76951c516b3ffd363dda3",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_no_clustering/metrics/experiment_1_nssp_ablation_no_clustering_state_test_period_summary.csv",
+      "source_sha256": "87f24cba3eb5f4f9180b9c665de1156f6a1a0d2a763954c4f30c669d61a451a3",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_ablation_no_clustering/metrics/experiment_1_nssp_ablation_no_clustering_validation_metrics.csv",
+      "source_sha256": "180e2b12d188e2bc9b4b18ba2e5b944a111b6793fb8e0aad1d490834824c8f51",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_primary/metrics/experiment_1_nssp_primary_ensemble_weights.csv",
+      "source_sha256": "c79dde106f6e2dc2c5d175e14a7540b1b7dd75e3f23a7872653b54709a5b3e95",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_primary/metrics/experiment_1_nssp_primary_features_used.csv",
+      "source_sha256": "97248a554755a708498a7079de03265ed9433995aa7d6618c64c62ca72fac90f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_primary/metrics/experiment_1_nssp_primary_metrics.csv",
+      "source_sha256": "98d3f48cb04bc18ed92645dc38a1ab80e27a7e5f5658a185184d577a16e4078d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_primary/metrics/experiment_1_nssp_primary_run_metadata.csv",
+      "source_sha256": "2e9536c836cbc7ff6b71b05d472fbcb927814b9f41700ef80c4e6e0942d8acab",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_primary/metrics/experiment_1_nssp_primary_state_map_values.csv",
+      "source_sha256": "db0bbd4f7757904d7ae8e25c9f3de9acbc441c29c9473eef8cc10c3c2c0fe645",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_primary/metrics/experiment_1_nssp_primary_state_test_period_summary.csv",
+      "source_sha256": "e09b4e7d70b4f453e51ddf18589d1a35d1511c0216edd8e511edf7957bd28d75",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_1_nssp_primary/metrics/experiment_1_nssp_primary_validation_metrics.csv",
+      "source_sha256": "7778c55b0467eaf72a1060f0336d06b5edea357778515067b2abaeed1ddea1f2",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_2_ilinet_contemporary/metrics/experiment_2_ilinet_contemporary_ensemble_weights.csv",
+      "source_sha256": "d7e57e05c9c9370eec12870d5d933a00931d6b8bf140c9ee8fd996aad591e11a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_2_ilinet_contemporary/metrics/experiment_2_ilinet_contemporary_features_used.csv",
+      "source_sha256": "450dc0b6650dee7a28d54186ee9d7fd5cef56a509a60a5eed40bad6b0e5ab043",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_2_ilinet_contemporary/metrics/experiment_2_ilinet_contemporary_metrics.csv",
+      "source_sha256": "1bcaac112aafece0d519188b5893bc5021cd1e660a5a8c1b53a546b5fcea05af",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_2_ilinet_contemporary/metrics/experiment_2_ilinet_contemporary_run_metadata.csv",
+      "source_sha256": "ca0f17bac6d3163d26a61232ce140c531d6415651a840b28390bbe9d2037de4e",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_2_ilinet_contemporary/metrics/experiment_2_ilinet_contemporary_state_map_values.csv",
+      "source_sha256": "a2953fbf0179d140bd9a14adf7abe527750a0e444c462b84b7e91867516b7a76",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_2_ilinet_contemporary/metrics/experiment_2_ilinet_contemporary_state_test_period_summary.csv",
+      "source_sha256": "0a7977e333083b1d111432240e0c630ab77f81aed0eccf43e8ad779b2299ef5a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_2_ilinet_contemporary/metrics/experiment_2_ilinet_contemporary_validation_metrics.csv",
+      "source_sha256": "21995118bfd6ef1f3f38a0cfb0a2f97fa2cb6c7dc0bd8a882e4cd8ca962c03a5",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_ensemble_weights.csv",
+      "source_sha256": "f4fa94d8e85816fb84d60fa0edf2da034a38d81ce2e46fe1472edad961ce39e2",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_features_used.csv",
+      "source_sha256": "450dc0b6650dee7a28d54186ee9d7fd5cef56a509a60a5eed40bad6b0e5ab043",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_metrics.csv",
+      "source_sha256": "27514b0dab6cd7cad69da072266678de1b0848cc354ba5f82534ad58cb7a52eb",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_national_weekly.csv",
+      "source_sha256": "7747293bf350721eb976cd48605b78a7f67541b5a06a22d02a80c919c990627c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_peak_metrics.csv",
+      "source_sha256": "e2d33c9b96ae7d5cee6bc9696ba373b9a7084cb7c1b67462397e268c57cb47e3",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_pre_post_metrics.csv",
+      "source_sha256": "b9de4539c9feb105016aa9e7ceba209755f0f29b0e8325165979c74284e7065d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_run_metadata.csv",
+      "source_sha256": "a80884a84fb77df75958d77f128026a91774a0e47dfb27183646b1e80a78bc44",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_state_map_values.csv",
+      "source_sha256": "0c01a654e7edd21c2ee3c276be2dc2580b3ae15807dd2c251be10546150d260b",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_state_test_period_summary.csv",
+      "source_sha256": "4d32d74a9ad794539c030e3eb21b628d0a0ba582ed8e572ac7b1fc321627d57c",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "results/reference/hybrid/experiment_3_ilinet_pandemic_stress_test/metrics/experiment_3_ilinet_pandemic_stress_test_validation_metrics.csv",
+      "source_sha256": "08341bdd993dd994e8af5cd8860a7bda2b44a1419bc35db2f659c86b05ee8e0d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/evidence/algorithm.tex",
+      "source_sha256": "9c9b8184e2804586fcd4fb8ec5491e32d8e36ce5607c2f105c2d82b5ec504882",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/evidence/architecture_table.tex",
+      "source_sha256": "43d6c4073aecfe74d12904b85525d0a127e881ec7ef7ee8e3b93572bf528cbee",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/evidence/data_table.tex",
+      "source_sha256": "34a3a798c2984c76b4a6e4d4d54d1991297222ac568c7298929738118065fe7b",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/evidence/equations.tex",
+      "source_sha256": "ec8a879311a1b009c1c79372b5bbb05e7bf803add5aca046d8c08e6baeb37f3e",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/evidence/maps_figure.tex",
+      "source_sha256": "56789d6b2e9b2c0a256e6a481d33819114149539bb7de8e2d538bd1b46adf5f1",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/evidence/prior_table.tex",
+      "source_sha256": "16353fa4842c81fe6ed323751fd367c2fddf17313a4d543429c1d209e6ebb5e9",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/evidence/references.tex",
+      "source_sha256": "98f7c2d3d6c850d5fa9e93f9ce6fcc7209ae1111c80fe4b04fc1c9e92911eee5",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/evidence/results_table.tex",
+      "source_sha256": "1acf03ecfa5660594cd4bf36883c31b53f9ee361c3318d5357ea3ac1427afe78",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/evidence/system_figure.tex",
+      "source_sha256": "d0235ad447af8539251a2ed3d712a646b20bab5097c496a2e32748a992fda418",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig01.png",
+      "source_sha256": "11283e9b1e8d0b03d96cde70ac9ea195a7cf50c64afe0fd764d1bb2f88c60c3f",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig01.svg",
+      "source_sha256": "bd772e24e903df828c2d35cdc68e3f4677c2932f9fbf52fd7faea09d267cd712",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig02.png",
+      "source_sha256": "b0e484b8391c3240507ed3eca718e3ac2792a86dabd384671a327cb7e41fae36",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig03.png",
+      "source_sha256": "5c53be2055dc2454722147cfb2f1603e865369669b61f1019653ce137c65a609",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig04.png",
+      "source_sha256": "7f3915e74a4b93ec446d847130673e51ff860ef64e14d0b4ba20de52948f8126",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig05.png",
+      "source_sha256": "45e3bad6e6362764737a1527f3e49ab8e7671f950832b9430bcda686640ae1a9",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig06.png",
+      "source_sha256": "fc8d143571b8a38cec71eaae16e6d86f4ca54a75752eef314dc82411706e4e7f",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig07.png",
+      "source_sha256": "06878c79644d15763c1648158545a09357ad518b0b9d627f1fbcac00cef3e630",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig08.png",
+      "source_sha256": "f75f42b56bd618bba038f048ab6efaefb8e4c4f0f6bbfa29682cf312d2a3367a",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig09.png",
+      "source_sha256": "32d1cc92121adc2673e1af030596a9add21bd6946c7b7d3e1e79c25408f9dfb5",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig10.png",
+      "source_sha256": "d5863090e9676ef97ba520d2860c502a1763775c63fdd284ad0a06564cbbd457",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig11.png",
+      "source_sha256": "cebeee39ff748003fa4f14aa49dcbbd9ffb8c3f784dcb2c47caef52376efb2da",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig12.png",
+      "source_sha256": "26c218a7e02336ad3af8e253b9a0a5484b1528f4e67b33e01d31b75f688269eb",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig13.png",
+      "source_sha256": "238400abba610aeda944281507e3680266040f5ab48cf4b9c13d2b69d5c87717",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig14.png",
+      "source_sha256": "25569fc746cb3bc4a02f3c43c2b221f5ccc128139e83965e29cc1df739a570f7",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/fig15.png",
+      "source_sha256": "5d39b50acaf18125a642de1cf41e7620031fab5022b5b293ab0d9bceab146e96",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/framework_vector.pdf",
+      "source_sha256": "3e7cacfe4ba6d1780fe1a222cf7c39bbac012cd6b649d8751b54199263df2ee5",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/figures/framework_vector.svg",
+      "source_sha256": "b38a9bae774095634d437202c6dcdca42b27c60f2b977418dd75c0513b8f69f5",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/focused_supplement.pdf",
+      "source_sha256": "99262d6cd2d7ad432cf13bf424c42cd7f317c37797ddcc20b795f7a4f5db4ba8",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/focused_supplement.tex",
+      "source_sha256": "b819057e01f1ca3b59b08e68e223d197375d8a8f1bd224874dd7d58373385e57",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/main.pdf",
+      "source_sha256": "6b81dc6aff591aae1521e42a525938296c4276e2196ec5630f3414d1ae01e65d",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/main.tex",
+      "source_sha256": "6104a2561ac04f90500f961b17b29549e511ded394ab1ba9edead224aa4945c8",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/map_provenance.json",
+      "source_sha256": "f58a7fc26dc20d98b9637070efc53fe369a209319eb7612f0e7c9325a692869b",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/map_values.csv",
+      "source_sha256": "6c1eec02b19293bd461ee0fac6bbc2a5de4a7f0c01df3c5bf894b57d2eadb033",
+      "source_group": "six-page-paper"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_analysis.py",
+      "source_sha256": "c88731e2bacb24805eddadb1e49ac28aa233fbd19ac4dcd223141bd76236e1c6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/manuscript_kmeans_diagnostics.py",
+      "source_sha256": "189d7d6b474d82f9ef523d5ae1e31288ce8a6e65f41d2fb122f37f87c111a7b6",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/verify_saved_results.py",
+      "source_sha256": "1549da59ae601ca005354ff64b7840ad8dddd989a2113c1181453550ba91e0cf",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/verify_model_cohorts.py",
+      "source_sha256": "9c813d8918803df6cd132105b135d575ba4218b25d26985a5c1fe48ee673d6ae",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/build_review_figures.py",
+      "source_sha256": "5ccc885ca4987e2eee0c95f199afbce3300c84f520705ba66bc3a028da24a26d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/build_calendar_figures.py",
+      "source_sha256": "8302c00e16f1de17b86c9230af773dfb327a22f1096b681ddb8cd0b3d0d436f7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/test_calendar_correction.py",
+      "source_sha256": "5ede570a311d38db076ec6a97120763377ae3f04a003a49c95413736046b7724",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/render_review_maps.cjs",
+      "source_sha256": "efec91ffa5ab3a06503a80fe87590189207af6e044cad3d5613cc68e8f9ffb01",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/build_framework_vector.py",
+      "source_sha256": "d087336ea079a4ee7dec5781846723d2f5c40360ecf2b3ee80915c4584d6b648",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/analysis_summary.json",
+      "source_sha256": "eb5215e74117e60c5ca5777d79249698756c899b9eb6887e2af98f9227511d7a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/input_manifest.json",
+      "source_sha256": "c3496f88ce350de986e0782e95b783635d55e0182c2062ca5a68216c942117d8",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/S1_lag_test_comparison.csv",
+      "source_sha256": "5273104a0898b5648ec99e65158ef200371b91482e5d7ab4d5dfc3bf7d62b659",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/S1_nssp_rolling_validation.csv",
+      "source_sha256": "7bbe6813d606ebb0d04f164bd73d3d334634fe35e044db042473dba88c858641",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/S1_nssp_rolling_windows.csv",
+      "source_sha256": "b7d126db63c4a3c16fdcba73e6de0c73f5e5eb5460c4eb07ea60e4621f2c3828",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/S2_ensemble_weighting_metrics.csv",
+      "source_sha256": "a0d8a7afc2d3c9f5a37a2821d802b71ca60508e7c475e1ee85244ae26c8b7eec",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/S2_ensemble_weights.csv",
+      "source_sha256": "7b8829a734d4a375608984c98a50e90714a7d3cf24bc39018fa34e306f09837a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/S3_hsa_week_mean_predictions.csv",
+      "source_sha256": "a3af01c16bb0d4ea4cf74514665da91ea5e396d32490662bf2003f48421bd42a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/S3_nssp_geographic_metrics.csv",
+      "source_sha256": "fd1e2fc09a28095735eae50d901b0583870348d3bca4a4a515dac6b6a3a35c4d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/S3_nssp_source_counts.csv",
+      "source_sha256": "2835fc652007af2d4563db1ce29379bd04a44c3e9bbf2ac15af8a0ecc715123f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/source/ilinet_exp2_exp3_provider_lags_final_hybrid_comparison.csv",
+      "source_sha256": "ae2e15e5e7e72e9b9fa7b9b03d03fd9dddca3d6ef64d4ad657d9413980eacb22",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/source/nssp_locked_component_lags123_comparison_vs_lag1.csv",
+      "source_sha256": "9f84518ae5d4812719e7a27071d10b5bca8eb7abf1be76cf21c5f2eaa573fd89",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/source/nssp_rolling_component_lags_folds.csv",
+      "source_sha256": "b7d126db63c4a3c16fdcba73e6de0c73f5e5eb5460c4eb07ea60e4621f2c3828",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/source/nssp_rolling_component_lags_summary.csv",
+      "source_sha256": "abde7b113b0763c04aef16fe69dea731085272f56a45b747d4a8047766216c9a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/source/PROVENANCE.txt",
+      "source_sha256": "27af8740b89baf08bde072cdf82bf83015c09f4ad72e7e2c251bd9ace3ef162d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/kmeans_evidence/nssp_kmeans_analysis_metadata.csv",
+      "source_sha256": "88c0627ef9e3bbda68046c2733ccd70c85e27473c72788773fc7aa871d231727",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/kmeans_evidence/nssp_kmeans_candidate_metrics.csv",
+      "source_sha256": "9aa7c51ef29e6397750aef6d1fc0808182aa6f0f0c21c962c72af31af97289ec",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/kmeans_evidence/nssp_kmeans_cluster_profiles.csv",
+      "source_sha256": "52c7812ad309d61a59fc517868c1b04866ca5b10cae107e90259159eff232238",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/kmeans_evidence/nssp_kmeans_input_features.csv",
+      "source_sha256": "4d22509ec49b755569f42c5d9205eb73c5bce517f5a24299d1a8b69ba712022f",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/kmeans_evidence/nssp_kmeans_standardized_centroids.csv",
+      "source_sha256": "95b56547fcababe81c599dd290cecb23d48c9f3a4360f9fd8260103935059334",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/geometry/states-albers-10m.json",
+      "source_sha256": "6e7bb086a3c791490361968a3094f377f7726c5d0c4900fec03cc42db2305a3d",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/map_sources/fig10.svg",
+      "source_sha256": "5eff15ca9b1ade3319a711eac904bd4028079beba13d04cd0a44eae9b40dce49",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/map_sources/fig12.svg",
+      "source_sha256": "7367b29f215d4d8dfe30a20cf9b138f81a447dc8db801005068db42413ac1fce",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/map_sources/fig13.svg",
+      "source_sha256": "fe39037d7f54ddf050746671bbe6461229db5976a6be2b821feda1321e5b5075",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/map_sources/fig14.svg",
+      "source_sha256": "dbb192146450a5be13c1835dda597988b7302a6ec9b78f7151a5740a74965060",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/map_sources/fig15.svg",
+      "source_sha256": "9af386fba0f4fcb9d3457d9f56e7b2d3d9b2403a6e333774e329c747ee4d33ab",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/code_patches/common_io.py",
+      "source_sha256": "c41dd32d656df1abf6ae2fca3059f77373a5e455ef63f3442b99b478a92a0601",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/code_patches/common_plots.py",
+      "source_sha256": "23709791eecef3589b3f03852e2490a1fe783d67d03e8f4bd73c5f38f1924993",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/calendar_cohort_audit.json",
+      "source_sha256": "5a1df9bd56fe3215b7942ed8e13fca6a8eb3577c2e7a9c71a41ac9ef96168166",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/calendar_figure_provenance.json",
+      "source_sha256": "3b2c68afc619a159fe636832dc1736d3da1f0e79748491306043ff0f8bda973a",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/calendar_weekly_residuals.csv",
+      "source_sha256": "57bd5da074f1e73ca08159a5c930ea5311f75f3a052c62ecaa4ee6fb431605e7",
+      "source_group": "author-reviewed-project"
+    },
+    {
+      "path": "manuscript/latex/calendar_weekly_trajectory.csv",
+      "source_sha256": "7f0907d457c4258f9b6c8b42c257a2680501dc7b6543fac533b270bea18e04c2",
+      "source_group": "author-reviewed-project"
+    }
+  ],
+  "path_only_adaptations": [
+    {
+      "path": "manuscript/latex/calendar_figure_provenance.json",
+      "change": "Local path metadata generalized; scientific values/hashes retained."
+    },
+    {
+      "path": "manuscript/latex/map_provenance.json",
+      "change": "Local path metadata generalized; scientific values/hashes retained."
+    },
+    {
+      "path": "manuscript/latex/sensitivity_data/source/PROVENANCE.txt",
+      "change": "Local path metadata generalized; scientific values/hashes retained."
+    },
+    {
+      "path": "results/reference/classical/input_manifest_sha256.csv",
+      "change": "Local path metadata generalized; scientific values/hashes retained."
+    },
+    {
+      "path": "results/reference/classical/arima_extension_exp2_exp3/LOCKED_INPUT_HASH_AUDIT.csv",
+      "change": "Local path metadata generalized; scientific values/hashes retained."
+    },
+    {
+      "path": "manuscript/latex/build_review_figures.py",
+      "change": "Default project root resolves relative to script; no numerical change."
+    },
+    {
+      "path": "manuscript/latex/render_review_maps.cjs",
+      "change": "Removed machine-specific dependency fallback; normal sharp import only."
+    },
+    {
+      "path": "manuscript/latex/test_calendar_correction.py",
+      "change": "Default project root resolves relative to script; verification assertions unchanged."
+    }
+  ],
+  "annotation_checks": [
+    {
+      "path": "benchmarks/sarima/finalize_arima_extension.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "benchmarks/sarima/finalize_nssp_full.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "benchmarks/sarima/nssp_full_runner.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "benchmarks/sarima/run_ilinet_arima_extension.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "benchmarks/sarima/sarima_pilot.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "benchmarks/sarima/summarize_pilot.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "benchmarks/sarima/validate_ilinet_arima_extension.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "benchmarks/sarima/validate_pilot.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "experiments/_run_template.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "experiments/diagnostic_feature_importance_nssp.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "experiments/diagnostic_leakage_test_nssp.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "experiments/diagnostic_n_clusters_sensitivity.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "experiments/experiment_1_nssp_ablation_core_features_only.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "experiments/experiment_1_nssp_ablation_no_clustering.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "experiments/experiment_1_nssp_primary.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "experiments/experiment_2_ilinet_contemporary.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "experiments/experiment_3_ilinet_pandemic_stress_test.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "generate_choropleth_maps.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/build_calendar_figures.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/build_framework_vector.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/build_review_figures.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/code_patches/common_io.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/code_patches/common_plots.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/manuscript_kmeans_diagnostics.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/sensitivity_analysis.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/test_calendar_correction.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/verify_model_cohorts.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "manuscript/latex/verify_saved_results.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "scripts/create_repository_manifest.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "scripts/run_pipeline.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "scripts/stage_data.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "scripts/verify_data.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "scripts/verify_reference_results.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "src/common_config.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "src/common_features.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "src/common_io.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "src/common_metrics.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "src/common_models.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "src/common_plots.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "tests/test_mmwr_calendar.py",
+      "annotation_ast_unchanged": true
+    },
+    {
+      "path": "tests/test_repository.py",
+      "annotation_ast_unchanged": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+\par\noindent\begin{minipage}{\columnwidth}
+\captionof{table}{Architectural Comparison of Referenced Streams and Methods}
+\label{tab:architecture}\centering\footnotesize
+\begin{tabularx}{\columnwidth}{@{}p{0.23\columnwidth}YY@{}}
+\toprule
+Reference & Role / temporal inputs & Learning and geographic output\\
+\midrule
+NSSP / ILINet & National surveillance streams; weekly observations & Data sources, not forecasting architectures\\
+Naive references & Last value, local mean, annual lag & No fitted learner or spatial model\\
+ARIMA / SARIMA & Per-series validation-selected orders & Univariate fitted references; no auxiliary signals\\
+Proposed framework & Lags, rolling/seasonal terms, lagged auxiliary signals & K-means + RF/GBR/MLP; descriptive maps; independently refitted across streams\\
+\bottomrule
+\end{tabularx}
+\end{minipage}
+\par\smallskip

@@ -1,0 +1,20 @@
+[
+  {
+    "dataset": "ILINet.csv",
+    "train_rows": 7776,
+    "train_start": 202243,
+    "train_end": 202530,
+    "test_rows": 1774,
+    "test_start": 202531,
+    "test_end": 202614
+  },
+  {
+    "dataset": "ILINet_2016_2021.csv",
+    "train_rows": 8262,
+    "train_start": 201643,
+    "train_end": 201939,
+    "test_rows": 2808,
+    "test_start": 201940,
+    "test_end": 202039
+  }
+]

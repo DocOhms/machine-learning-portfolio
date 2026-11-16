@@ -1,0 +1,38 @@
+[
+  {
+    "experiment": "exp1",
+    "candidate_profile": "day1",
+    "selected_sarima": "SARIMA_100x100_52",
+    "pilot_groups": 60,
+    "validation_rows": 1020,
+    "test_rows": 1260,
+    "wall_seconds": 63.20379739999771,
+    "cohort_audit": {
+      "feature_count": 10,
+      "reproduced_validation_rows": 38488,
+      "locked_validation_rows": 38488,
+      "reproduced_test_rows": 47534,
+      "locked_test_rows": 47534,
+      "test_keys_missing_from_reproduction": 0,
+      "extra_reproduced_test_keys": 0
+    },
+    "test_summary": {
+      "Experiment": "exp1",
+      "Candidate": "SARIMA_100x100_52",
+      "Seasonal": true,
+      "N": 1260,
+      "RMSE": 0.8601315486156601,
+      "MAE": 0.5587059384744362,
+      "R2": 0.6105435947151436,
+      "Coverage": 1.0,
+      "Groups": 60,
+      "Converged_Groups": 60,
+      "Convergence_Rate": 1.0,
+      "Fit_Seconds": 12.486819000027026,
+      "Median_Group_Seconds": 0.20484324999415549,
+      "P95_Group_Seconds": 0.24092844500555655,
+      "Error_Groups": 0,
+      "Selected_On": "chronological_validation_RMSE"
+    }
+  }
+]

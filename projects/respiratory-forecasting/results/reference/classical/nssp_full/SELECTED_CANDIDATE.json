@@ -1,0 +1,22 @@
+{
+  "Experiment": "exp1_nssp_full",
+  "Phase": "validation",
+  "Candidate": "SARIMA_100x100_52",
+  "Seasonal": true,
+  "N": 38488,
+  "RMSE": 2.119381221727318,
+  "MAE": 1.4667108765109975,
+  "R2": 0.56158759431219,
+  "Coverage": 1.0,
+  "Groups": 2264,
+  "Converged_Groups": 2257,
+  "Convergence_Rate": 0.9969081272084804,
+  "Fit_Seconds": 466.2589472000982,
+  "Median_Group_Seconds": 0.1970272999969893,
+  "P95_Group_Seconds": 0.2640607949964759,
+  "Error_Groups": 0,
+  "Wall_Seconds_Current_Invocation": 475.5056159000087,
+  "Cohort_Audit": "{\"extra_reproduced_test_keys\": 0, \"feature_count\": 10, \"locked_test_rows\": 47534, \"locked_validation_rows\": 38488, \"reproduced_test_rows\": 47534, \"reproduced_validation_rows\": 38488, \"test_keys_missing_from_reproduction\": 0}",
+  "Selection_Rule": "lowest pooled validation RMSE, then MAE; coverage>=0.95; convergence>=0.90",
+  "Final_Test_Used": false
+}

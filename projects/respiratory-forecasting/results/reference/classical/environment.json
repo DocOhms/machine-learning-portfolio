@@ -1,0 +1,170 @@
+{
+  "python": "3.12.13",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.1",
+  "pandas": "3.0.1",
+  "scipy": "1.18.0",
+  "statsmodels": "0.14.6",
+  "config": {
+    "pilot_id": "sarima_pilot_20260716",
+    "random_seed": 42,
+    "nssp_pilot_groups": 60,
+    "minimum_candidate_coverage": 0.95,
+    "seasonal_period": 52,
+    "maxiter": 75,
+    "day_one_candidate_names": [
+      "AR1",
+      "ARIMA_011",
+      "ARIMA_110",
+      "SARIMA_100x100_52",
+      "SARIMA_200x100_52",
+      "SARIMA_101x100_52"
+    ],
+    "candidate_models": [
+      {
+        "name": "AR1",
+        "order": [
+          1,
+          0,
+          0
+        ],
+        "seasonal_order": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "trend": "c",
+        "seasonal": false
+      },
+      {
+        "name": "ARIMA_011",
+        "order": [
+          0,
+          1,
+          1
+        ],
+        "seasonal_order": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "trend": "n",
+        "seasonal": false
+      },
+      {
+        "name": "ARIMA_110",
+        "order": [
+          1,
+          1,
+          0
+        ],
+        "seasonal_order": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "trend": "n",
+        "seasonal": false
+      },
+      {
+        "name": "SARIMA_100x100_52",
+        "order": [
+          1,
+          0,
+          0
+        ],
+        "seasonal_order": [
+          1,
+          0,
+          0,
+          52
+        ],
+        "trend": "c",
+        "seasonal": true
+      },
+      {
+        "name": "SARIMA_200x100_52",
+        "order": [
+          2,
+          0,
+          0
+        ],
+        "seasonal_order": [
+          1,
+          0,
+          0,
+          52
+        ],
+        "trend": "c",
+        "seasonal": true
+      },
+      {
+        "name": "SARIMA_101x100_52",
+        "order": [
+          1,
+          0,
+          1
+        ],
+        "seasonal_order": [
+          1,
+          0,
+          0,
+          52
+        ],
+        "trend": "c",
+        "seasonal": true
+      },
+      {
+        "name": "SARIMA_100x011_52",
+        "order": [
+          1,
+          0,
+          0
+        ],
+        "seasonal_order": [
+          0,
+          1,
+          1,
+          52
+        ],
+        "trend": "n",
+        "seasonal": true
+      },
+      {
+        "name": "SARIMA_011x011_52",
+        "order": [
+          0,
+          1,
+          1
+        ],
+        "seasonal_order": [
+          0,
+          1,
+          1,
+          52
+        ],
+        "trend": "n",
+        "seasonal": true
+      },
+      {
+        "name": "SARIMA_110x011_52",
+        "order": [
+          1,
+          1,
+          0
+        ],
+        "seasonal_order": [
+          0,
+          1,
+          1,
+          52
+        ],
+        "trend": "n",
+        "seasonal": true
+      }
+    ]
+  }
+}

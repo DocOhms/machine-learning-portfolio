@@ -1,0 +1,2 @@
+Experiment,Dataset_Type,Split_Mode,Split_Description,Test_Cutoff,Validation_Cutoff,Requested_N_Clusters,Validation_Effective_N_Clusters,Final_Effective_N_Clusters,Use_Clustering,Validation_Train_Silhouette,Full_Train_Silhouette,Fit_Rows,Validation_Rows,Train_Rows,Test_Rows,Feature_Count,Cohort_Feature_Count
+experiment_2_ilinet_contemporary,ilinet,chronological,test begins at epi_order 202531,202531,202502,4,4,4,True,0.2633201659242578,0.2623551911340571,6210,1566,7776,1774,12,8
