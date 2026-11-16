@@ -1,5 +1,5 @@
 {
-  "status": "Prepared portfolio document-only visible-URL update v1.0.5; scientific calculations unchanged",
+  "status": "Published portfolio document-only visible-URL update v1.0.5; scientific calculations unchanged",
   "prepared_date": "2026-11-16",
   "hash_algorithm": "SHA-256",
   "scope": "Files under projects/respiratory-forecasting; reference evidence is a separate release asset",
@@ -423,8 +423,8 @@
     },
     {
       "path": "docs/VISIBLE_URL_PUBLICATION_CHECKS.json",
-      "bytes": 2457,
-      "sha256": "304a91f7b77956c21a22406f5866b42e9dc2f74859a1b861882080a6e9f55463"
+      "bytes": 2456,
+      "sha256": "6c48390fbb9ff1aa2d5b5f42bd6423773bf2e0eba97dc864fe8917faae989bbb"
     },
     {
       "path": "experiments/_run_template.py",
