@@ -145,7 +145,7 @@ def make_figure(output):
     segment(87, 317, 211.5, 317, green)
     arrow(126, 317, 126, 322, green)
     box(10, 322, 234, 17, white, green)
-    text(127, 326, "Same-row metrics + descriptive state maps", 7.9, True)
+    text(127, 326, "Matched-unit metrics + descriptive state maps", 7.9, True)
 
     output.mkdir(parents=True, exist_ok=True)
     renderPDF.drawToFile(d, str(output / "framework_vector.pdf"))

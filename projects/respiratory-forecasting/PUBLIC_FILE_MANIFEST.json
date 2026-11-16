@@ -1,5 +1,5 @@
 {
-  "status": "Published portfolio; document-only SMAPE clarification v1.0.3; original calculations unchanged",
+  "status": "Published portfolio; document-only Figure 1 clarification v1.0.4; original calculations unchanged",
   "prepared_date": "2026-11-16",
   "hash_algorithm": "SHA-256",
   "scope": "Files under projects/respiratory-forecasting; reference evidence is a separate release asset",
@@ -28,8 +28,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 11582,
-      "sha256": "fd9978edb484c548e13f28fc0bd47c26abe622d84262a6aa59b33f0baf6f60d7"
+      "bytes": 11629,
+      "sha256": "e76f60015488b625ef12390f37f2f5e369a82221aba3c462efcebea34cdc1f10"
     },
     {
       "path": "REVIEW_STATUS.txt",
@@ -362,6 +362,11 @@
       "sha256": "f78a065b706bf7fb243b431a03e13de55407ce0b157d70ec38e60437f204ec9e"
     },
     {
+      "path": "docs/FRAMEWORK_CLARIFICATION_CHECKS.json",
+      "bytes": 2675,
+      "sha256": "3bcabb7074f32cac7d8d1582a1b43f8a91636268ee4f12b14fe03a6b3cab4c05"
+    },
+    {
       "path": "docs/FUNCTION_INDEX.md",
       "bytes": 15510,
       "sha256": "37281cdf0b44f2c2d0d763ec63eb5537cae2da299fb501c11ab515df4a6262f1"
@@ -473,8 +478,8 @@
     },
     {
       "path": "manuscript/latex/build_framework_vector.py",
-      "bytes": 8059,
-      "sha256": "c83a7b34c78bb6b2788e034602919636d5743a99b06b64727674715c4d4f55c6"
+      "bytes": 8063,
+      "sha256": "e47011538b67eba3f802facf83c86acec20be07d58489f1cc3b85839362a8ed7"
     },
     {
       "path": "manuscript/latex/build_review_figures.py",
@@ -553,8 +558,8 @@
     },
     {
       "path": "manuscript/latex/evidence/system_figure.tex",
-      "bytes": 491,
-      "sha256": "d0235ad447af8539251a2ed3d712a646b20bab5097c496a2e32748a992fda418"
+      "bytes": 526,
+      "sha256": "340a6b106b8c66685733f620a94859c362bbef18482e8066faf5aadbacff8c8f"
     },
     {
       "path": "manuscript/latex/figures/fig01.png",
@@ -638,13 +643,13 @@
     },
     {
       "path": "manuscript/latex/figures/framework_vector.pdf",
-      "bytes": 76102,
-      "sha256": "3e7cacfe4ba6d1780fe1a222cf7c39bbac012cd6b649d8751b54199263df2ee5"
+      "bytes": 76105,
+      "sha256": "f97917577d7dcdeda147a5a9a3475eb8a2c9509b71b28362cc093fbad848e44a"
     },
     {
       "path": "manuscript/latex/figures/framework_vector.svg",
-      "bytes": 15028,
-      "sha256": "b38a9bae774095634d437202c6dcdca42b27c60f2b977418dd75c0513b8f69f5"
+      "bytes": 15031,
+      "sha256": "4bdf06626a8c4e61106a0c97c2c1aa78b9ae2242e487fc946adf2e583e52a022"
     },
     {
       "path": "manuscript/latex/focused_supplement.pdf",
@@ -688,8 +693,8 @@
     },
     {
       "path": "manuscript/latex/main.pdf",
-      "bytes": 2883207,
-      "sha256": "bbcf900173d66c3ace6521b24a613bcc26af4f8d7bfef2ea0ab7a43781c1a2fd"
+      "bytes": 2883242,
+      "sha256": "7bec2f80dc95cdd1c92f0de1aac5ed3fcf30e3dd3f5547d83061881922153256"
     },
     {
       "path": "manuscript/latex/main.tex",
@@ -2455,6 +2460,22 @@
       "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.3/ICCA_Six_Page_SMAPE_Clarified_Overleaf.zip",
       "git_tracked": false,
       "distribution_approval": "Author-approved SMAPE wording correction; non-code/third-party terms apply"
+    },
+    {
+      "filename": "ICCA_Six_Page_Framework_Clarified.pdf",
+      "bytes": 2883242,
+      "sha256": "7bec2f80dc95cdd1c92f0de1aac5ed3fcf30e3dd3f5547d83061881922153256",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.4/ICCA_Six_Page_Framework_Clarified.pdf",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved Figure 1 label and caption clarification; non-code/third-party terms apply"
+    },
+    {
+      "filename": "ICCA_Six_Page_Framework_Clarified_Overleaf.zip",
+      "bytes": 12402731,
+      "sha256": "c5418a040954920d4a73d6fe0af18a8d7c4092aacfbd5cdd01035ce01aba6b9a",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.4/ICCA_Six_Page_Framework_Clarified_Overleaf.zip",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved Figure 1 label and caption clarification; non-code/third-party terms apply"
     }
   ]
 }

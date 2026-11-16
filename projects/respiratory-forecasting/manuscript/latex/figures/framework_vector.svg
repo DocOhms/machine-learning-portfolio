@@ -93,7 +93,7 @@
 			<path d="M 126,29 L 126,24 Z" style="stroke: rgb(25%,42%,38%); stroke-linecap: butt; stroke-width: 0.8;"/>
 			<polygon points="126 24, 123.9 28, 128.1 28" style="stroke: rgb(25%,42%,38%); stroke-linecap: butt; stroke-width: 0.2; fill: rgb(25%,42%,38%); fill-rule: evenodd;"/>
 			<rect x="10" y="7" width="234" height="17" rx="3" ry="3" style="stroke: rgb(25%,42%,38%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
-			<text x="45.878417968749986" y="12.1" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 7.9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,24) scale(1,-1)">Same-row metrics + descriptive state maps</text>
+			<text x="40.18100585937499" y="12.1" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 7.9px;fill: rgb(9%,19%,27%); stroke:none;" transform="translate(0,24) scale(1,-1)">Matched-unit metrics + descriptive state maps</text>
 		</g>
 	</g>
 </svg>

@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-16",
+  "scope": "Figure 1 matched-unit label and explicit three-experiment test-reuse caption only; optional polish deferred",
+  "base_repository_commit": "f921091273300bbe70ebef09653d848c3dbc3732",
+  "release_tag": "respiratory-forecasting-v1.0.4",
+  "paper_pages": 6,
+  "paper_size": "A4",
+  "pdf_sha256": "7bec2f80dc95cdd1c92f0de1aac5ed3fcf30e3dd3f5547d83061881922153256",
+  "all_fonts_embedded": true,
+  "no_overfull_boxes_or_unresolved_references": true,
+  "visual_review_complete": true,
+  "fresh_zip_compilation_verified": true,
+  "font_size_margins_and_layout_settings_unchanged": true,
+  "protected_preexisting_project_files": 472,
+  "all_scientific_code_results_and_heat_maps_unchanged": true,
+  "all_tables_equations_algorithms_and_nonframework_figures_unchanged": true,
+  "framework_geometry_arrows_colors_and_font_sizes_unchanged": true,
+  "main_tex_unchanged": true,
+  "supplement_unchanged": true,
+  "switches": {
+    "RUN_PRIMARY": false,
+    "RUN_SENSITIVITY": false,
+    "RUN_EXISTING_TESTS": false,
+    "EXTRACT_REFERENCE": false
+  },
+  "notebook_sha256": "af594dc69a2cca525e17eabc1b637a65548119f65579ad227afb1b9e38b197c1",
+  "model_fits": 0,
+  "notebook_cells_executed": 0,
+  "new_experiments": 0,
+  "map_regenerations": 0,
+  "reference_archive_sha256": "2cca184052103a473c8beefe2ba1a4b3d4d6c90591edfde4f25bdcf040120c6a",
+  "public_overleaf_members": 38,
+  "private_reviewer_correspondence_and_author_notes_excluded": true,
+  "release_assets": [
+    {
+      "filename": "ICCA_Six_Page_Framework_Clarified.pdf",
+      "bytes": 2883242,
+      "sha256": "7bec2f80dc95cdd1c92f0de1aac5ed3fcf30e3dd3f5547d83061881922153256",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.4/ICCA_Six_Page_Framework_Clarified.pdf",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved Figure 1 label and caption clarification; non-code/third-party terms apply"
+    },
+    {
+      "filename": "ICCA_Six_Page_Framework_Clarified_Overleaf.zip",
+      "bytes": 12402731,
+      "sha256": "c5418a040954920d4a73d6fe0af18a8d7c4092aacfbd5cdd01035ce01aba6b9a",
+      "public_download_url": "https://github.com/DocOhms/machine-learning-portfolio/releases/download/respiratory-forecasting-v1.0.4/ICCA_Six_Page_Framework_Clarified_Overleaf.zip",
+      "git_tracked": false,
+      "distribution_approval": "Author-approved Figure 1 label and caption clarification; non-code/third-party terms apply"
+    }
+  ],
+  "public_download_checksums_verified": false,
+  "historical_audits": "Prior audit records and published releases retain their original snapshot scope."
+}
