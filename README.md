@@ -8,12 +8,12 @@ Each project keeps its own notebooks, source code, documentation, and data-acces
 
 | Project | Focus | Start here |
 | --- | --- | --- |
-| Honolulu Traffic Data Preprocessing | Cleaning, exploration, and visualization of traffic incidents and camera-location data | [Traffic preprocessing](projects/traffic-preprocessing/) |
+| Honolulu Traffic Data Preprocessing | Cleaning, feature engineering, and visualization of fixed traffic incident and camera-location snapshots; no trained model | [Traffic preprocessing](projects/traffic-preprocessing/README.md) |
 | Respiratory Surveillance Forecasting | Retrospective one-week-ahead forecasting using temporal features, K-means context, and an RF/GBR/MLP ensemble; calculation review, classical benchmarks, sensitivity evidence, and descriptive geographic maps | [Respiratory forecasting](projects/respiratory-forecasting/) |
 
 ### Honolulu traffic preprocessing
 
-Coursework exploring Honolulu traffic incidents and camera locations. The project contains separate notebooks and supporting datasets for inspecting data quality, preparing features, and visualizing the source records.
+Coursework exploring Honolulu traffic incidents and camera locations. The project contains separate notebooks, fixed example datasets, setup instructions, and notes on the limits of its engineered features. The notebooks do not report predictive accuracy.
 
 ### Respiratory surveillance forecasting
 
